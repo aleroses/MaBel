@@ -327,7 +327,7 @@ Puedes mencionar que el modelo de preventa:
 
 Eso le da un enfoque estratégico.
 
-#### Resumen para exposición
+#### Resumen
 
 Buenos días.
 
