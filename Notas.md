@@ -5,12 +5,12 @@
 
 ## Semana 01
 
-### J1 Proyecto de Emprendimiento
+### J1 Presentación
 
-PAO: Periodo academico ordinario
-C1: Ciclo 1
-C2: Ciclo 2
-8 Semanas x Ciclo
+- PAO: Periodo academico ordinario
+- C1: Ciclo 1
+- C2: Ciclo 2
+- 8 Semanas x Ciclo
 
 Producto Final: Plan de negocios
 
@@ -18,11 +18,13 @@ Plan de negocio para el fortalecimiento del talento humano en las pimes
 
 Completar padlet
 
-Extra: Calidad
-Pareto 80-20
-Ishikawa
+### Extra:
 
-### J2 Proyecto de Emprendimiento
+- Calidad
+- Pareto 80-20
+- Ishikawa
+
+### J2 Presentación
 
 Completar padlet: Tercera persona
 
@@ -30,8 +32,8 @@ padlet.com/david199102/j2-proyecto-de-emprendimiento-plp56zqmkd97xo6z
 
 > Mi plan de negocio es una tienda virtual llamada Animalia Boutique, donde venderé alimentos, juguetes y accesorios para mascotas, con compras fáciles desde casa y entregas a domicilio.
 
-colocar nombre de la empresa
-para la creación de
+- Colocar nombre de la empresa
+- Para la creación de
 
 > Plan de negocios de la empresa online Mabel's breakfast enfocada en la preventa de desayunos saludables.
 
@@ -46,7 +48,7 @@ matriz vcg
 
 ## Semana 02
 
-### J3 Proyecto de Emprendimiento
+### J2 The Business model canvas
 
 padlet.com/david199102/plan-de-negocios-para-8kqjpzlom7rpe627
 
@@ -63,9 +65,9 @@ Propuesta de valor:
 
 > Elevar la accesibilidad de alimentos saludables mediante la inclusion de un sistema web para personas que no pueden comprar de manera presencial.
 
-#### 📊 Business Model Canvas
+#### 🥗 Easy Breakfast – Preventa Online de Desayunos Saludables
 
-🥗 Easy Breakfast – Preventa de Desayunos Saludables Online
+📊 Business Model Canvas
 
 1. Socios Clave  
 	
@@ -385,7 +387,7 @@ Muchas gracias.
 
 
 
-
+5 6 valores
 
 
 
