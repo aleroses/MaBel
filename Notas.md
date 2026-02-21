@@ -30,6 +30,8 @@ Completar padlet: Tercera persona
 
 padlet.com/david199102/j2-proyecto-de-emprendimiento-plp56zqmkd97xo6z
 
+Modelo de negocio y nombre:
+
 > Mi plan de negocio es una tienda virtual llamada Animalia Boutique, donde venderé alimentos, juguetes y accesorios para mascotas, con compras fáciles desde casa y entregas a domicilio.
 
 - Colocar nombre de la empresa
@@ -362,9 +364,17 @@ Muchas gracias.
 
 ## Semana 03
 
-### J2 Proyecto de Emprendimiento
+### J2 Misión, Visión y Valores
 
-#### Misión, Visión y Valores
+Pilares de la identidad corporativa
+
+> **Misión:** Define la razón de ser de la empresa en el presente. Responde a ¿quiénes somos?, y ¿qué hacemos?  
+
+> **Visión:** Proyecta la imagen futura de la organización. Responde a ¿hacia dónde vamos?, y ¿qué queremos lograr? También ¿Qué? ¿Qué resultado quieres lograr con tu empresa? ¿Qué resultado obtendrás si te comprometes con lo que quieres hacer?
+
+> **Valores:** Principios éticos y culturales que guían el comportamiento. Responde a ¿en qué creemos?
+
+#### Misión Personal
 
 1. ¿Quién soy?
 	
@@ -385,41 +395,37 @@ Muchas gracias.
 > Belén Valenzuela estudiante de Administración y Emprendimiento comprometida con la mejora continua, con disciplina y constancia para no quedarme rezagada tanto en el ámbito personal como profesional.  
 > Soy una persona dedicada que mejora día a día, con trabajo y esfuerzo porque la fortuna favorece al valiente.
 
+#### Misión Empresarial
 
+Ejemplo:
 
-5 6 valores
+1. ¿Quiénes somos?
+	
+	Empresa XYZ es una comercializadora de insumos tecnológicos importados. Somos una organización dedicada a la confección de zapatos de alta gama.
+	
+	- Somos una empresa dedicada a la producción de perfiles de aluminio.
+	- Somos una empresa dedicada a solucionar y que unen comunicaciones.
+	
+	XYZ se dedica a brindar soluciones estratégicas en tecnología y comunicación empresaria.
+	
+	Somos una empresa tecnológica que se dedica a brindar soluciones integrales en comunicación empresarial.
 
+2. ¿Cómo lo hacemos?
+	
+	Mediante la elección de los mejores proveedores internacionales con la mejor materia prima del centro de país y acabados de primera.
+	
+	- Eligiendo materia prima de calidad y acabados de diversas preferencias.
+	
+	Evaluando exhaustivamente los inconvenientes diarios de la empresa en el ámbito de la comunicación y para tareas y resolver proceso e inconvenientes.
+	
+	Evaluando condiciones criticas a nivel estratégico dentro de procesos inherentes.
 
-
-Misión Empresarial (ejemplo)
-
-¿Quiénes somos?
-
-Empresa XYZ es una comercializadora de insumos tecnológicos importados. Somos una organización dedicada a la confección de zapatos de alta gama.
-
-- Somos una empresa dedicada a la producción de perfiles de aluminio.
-- Somo suna empresa dedicada a solucionar y que unen comunicaciones.
-
-XYZ se dedica a brindar soluciones estratégicas en tecnología y comunicación empresaria.
-
-Somos una empresa tecnológica que se dedica a brindar soluciones integrales en comunicación empresarial.
-
-¿Cómo lo hacemos?
-
-Mediante la elección de los mejores proveedores internacionales con la mejor materia prima del centro de país y acabados de primera.
-
-- Eligiendo materia prima de calidad y acabados de diversas preferencias.
-
-Evaluando exhaustivamente los inconvenientes diarios de la empresa en el ámbito de la comunicación y para tareas y resolver proceso e inconvenientes.
-
-Evaluando condiciones criticas a nivel estratégico dentro de procesos inherentes.
-
-¿Para que lo hacemos?
-
-Con la finalidad de satisfacer los requerimeintos de nuestros clientes.
-Para satisfacer las necesidades de nuestros clientes y público en general.
-
-- Enfocados a satisfacer las necesidades de la contrucción y semejantes.
+2. ¿Para qué lo hacemos?
+	
+	Con la finalidad de satisfacer los requerimeintos de nuestros clientes.
+	Para satisfacer las necesidades de nuestros clientes y público en general.
+	
+	- Enfocados a satisfacer las necesidades de la contrucción y semejantes.
 
 Empresa XYZ
 
@@ -429,9 +435,9 @@ Visión = ¿Donde nos miramos en el futuro?
 
 
 Mision personal
+5 6 valores
 
-
-
+#### Visión 
 
 
 
