@@ -460,82 +460,25 @@ Pasos para definir la misión (pág. 15)
 
 ##### Visión
 
-Siguiendo los lineamientos del documento: positiva, breve, alcanzable, medible, entendible y con temporalidad (pág. 15)
+Siguiendo los lineamientos del documento: positiva, breve, alcanzable, medible, entendible y con temporalidad (pág. 25)
 
 **Ser en cinco años la empresa referente en preventa de desayunos saludables en nuestra ciudad, reconocida por su puntualidad, calidad y uso eficiente de tecnología para facilitar una alimentación saludable y sostenible.**
 
 ##### Valores
 
-(Se desprenden de la misión y visión)
+Se desprenden de la misión y visión:
 
-De tu misión y visión se identifican claramente estos valores:
+1. Calidad: Compromiso con ingredientes frescos y preparación responsable.
+2. Puntualidad: Entrega oportuna como parte central del servicio.
+3. Innovación: Uso de tecnología para facilitar el acceso a la alimentación saludable.
+4. Compromiso con el cliente: Atención cercana y enfoque en sus necesidades.
+5. Responsabilidad: Reducción de desperdicio mediante el sistema de preventa y uso de empaques adecuados.
 
-### 🌱 1. Calidad
+Nota: 5 o 6 valores como máximo.
 
-Compromiso con ingredientes frescos y preparación responsable.
 
-### ⏰ 2. Puntualidad
-
-Entrega oportuna como parte central del servicio.
-
-### 💻 3. Innovación
-
-Uso de tecnología para facilitar el acceso a la alimentación saludable.
-
-### 🤝 4. Compromiso con el cliente
-
-Atención cercana y enfoque en sus necesidades.
-
-### ♻ 5. Responsabilidad
-
-Reducción de desperdicio mediante el sistema de preventa y uso de empaques adecuados.
 
 ---
-
-Si quieres, ahora puedo:
-
-- Ajustar la misión a un tono más **motivador o más corporativo** (según el punto 17 del documento).
-    
-- Hacer una versión más corta tipo “lema institucional”.
-    
-- O ayudarte a convertir esto en formato listo para diapositivas.
-
-
-
-
-
-
-Mision personal
-5 6 valores
-
-#### Visión 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Misión
-
-Brindar desayunos saludables, frescos y accesibles mediante un sistema de preventa online, facilitando a nuestros clientes una alimentación equilibrada sin sacrificar tiempo ni comodidad.
-
-Visión
-
-Ser una empresa líder en el mercado local de desayunos saludables online, reconocida por su calidad, puntualidad y compromiso con el bienestar de nuestros clientes.
-
-Valores
 
 
 
