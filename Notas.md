@@ -392,7 +392,8 @@ Pilares de la identidad corporativa
 	- Porque la fortuna favorece al valiente.
 	
 
-> Belén Valenzuela estudiante de Administración y Emprendimiento comprometida con la mejora continua, con disciplina y constancia para no quedarme rezagada tanto en el ámbito personal como profesional.  
+> Belén Valenzuela estudiante de Administración y Emprendimiento comprometida con la mejora continua, con disciplina y constancia para no quedar rezagada tanto en el ámbito personal como profesional.  
+
 > Soy una persona dedicada que mejora día a día, con trabajo y esfuerzo porque la fortuna favorece al valiente.
 
 #### Misión Empresarial
@@ -432,6 +433,84 @@ Empresa XYZ
 Misión
 
 Visión = ¿Donde nos miramos en el futuro?
+
+#### 🥗 Easy Breakfast
+
+##### Misión
+
+Pasos para definir la misión (pág. 15)
+
+1. Identidad – ¿Quiénes somos?
+	
+	Somos una empresa online dedicada a la preventa de desayunos saludables, enfocada en personas con poco tiempo que buscan alimentación práctica y de calidad.
+
+2. Actividades – ¿Qué hacemos?
+	
+	Preparamos y comercializamos desayunos saludables bajo modalidad de preventa, utilizando una plataforma web para facilitar el pedido, el pago y la entrega puntual.
+
+3. Finalidad – ¿Para quién lo hacemos?
+	
+	Para profesionales, estudiantes y personas que desean mantener una alimentación saludable sin perder tiempo en la preparación.
+
+> **Easy Breakfast es una empresa online dedicada a la preventa de desayunos saludables, ofreciendo productos frescos y accesibles mediante una plataforma digital que facilita el pedido y la entrega puntual para personas con poco tiempo que buscan alimentarse mejor.**  
+
+> **Easy Breakfast empresa online dedicada a la preventa de desayunos saludables, ofreciendo productos de calidad mediante una plataforma digital que facilita el pedido y la entrega puntual para personas con poco tiempo que buscan alimentarse mejor.**  
+
+> **Easy Breakfast dedicada a la preventa de desayunos saludables, ofreciendo productos de calidad mediante una plataforma digital que facilita el pedido y la entrega puntual para personas con poco tiempo que buscan alimentarse mejor.**
+
+##### Visión
+
+Siguiendo los lineamientos del documento: positiva, breve, alcanzable, medible, entendible y con temporalidad (pág. 15)
+
+**Ser en cinco años la empresa referente en preventa de desayunos saludables en nuestra ciudad, reconocida por su puntualidad, calidad y uso eficiente de tecnología para facilitar una alimentación saludable y sostenible.**
+
+✔ Positiva  
+✔ Realista  
+✔ Con temporalidad  
+✔ Entendible  
+✔ Enfocada en posicionamiento
+
+---
+
+# ✅ VALORES
+
+(Se desprenden de la misión y visión)
+
+De tu misión y visión se identifican claramente estos valores:
+
+### 🌱 1. Calidad
+
+Compromiso con ingredientes frescos y preparación responsable.
+
+### ⏰ 2. Puntualidad
+
+Entrega oportuna como parte central del servicio.
+
+### 💻 3. Innovación
+
+Uso de tecnología para facilitar el acceso a la alimentación saludable.
+
+### 🤝 4. Compromiso con el cliente
+
+Atención cercana y enfoque en sus necesidades.
+
+### ♻ 5. Responsabilidad
+
+Reducción de desperdicio mediante el sistema de preventa y uso de empaques adecuados.
+
+---
+
+Si quieres, ahora puedo:
+
+- Ajustar la misión a un tono más **motivador o más corporativo** (según el punto 17 del documento).
+    
+- Hacer una versión más corta tipo “lema institucional”.
+    
+- O ayudarte a convertir esto en formato listo para diapositivas.
+
+
+
+
 
 
 Mision personal
