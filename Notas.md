@@ -50,9 +50,9 @@ matriz vcg
 
 padlet.com/david199102/plan-de-negocios-para-8kqjpzlom7rpe627
 
-> Plan de negocios de la empresa online "Mabel's breakfast" enfocada en la preventa de desayunos saludables.
+> Plan de negocios de la empresa online "Easy breakfast" enfocada en la preventa de desayunos saludables.
 
-> **Plan de negocios de la empresa online "Mabel's Breakfast" para la preventa de desayunos saludables.**
+> **Plan de negocios de la empresa online "Easy Breakfast" para la preventa de desayunos saludables.**
 
 The Business model canvas: Un lenguaje común para describir, visualizar, evaluar y cambiar modelos de negocios.
 
@@ -65,7 +65,7 @@ Propuesta de valor:
 
 #### 📊 Business Model Canvas
 
-🥗 Mabel’s Breakfast – Preventa de Desayunos Saludables Online
+🥗 Easy Breakfast – Preventa de Desayunos Saludables Online
 
 1. Socios Clave  
 	
@@ -358,7 +358,95 @@ En conclusión, Mabel’s Breakfast no solo busca vender desayunos, sino ofrecer
 
 Muchas gracias.
 
-#### Misión, Visión y Objetivos
+## Semana 03
+
+### J2 Proyecto de Emprendimiento
+
+#### Misión, Visión y Valores
+
+1. ¿Quién soy?
+	
+	- Belén Valenzuela estudiante de Administración y Emprendimiento comprometida con la mejora continua.
+	- Soy una persona dedicada que mejora día con día.
+	
+2. ¿Cómo lo hago?
+	
+	- Con disciplina y constancia.
+	- Con trabajo y esfuerzo
+	
+3. ¿Para qué lo hacemos?
+	
+	- Para no quedarme rezagada tanto en el ámbito personal como profesional.
+	- Porque la fortuna favorece al valiente.
+	
+
+> Belén Valenzuela estudiante de Administración y Emprendimiento comprometida con la mejora continua, con disciplina y constancia para no quedarme rezagada tanto en el ámbito personal como profesional.  
+> Soy una persona dedicada que mejora día a día, con trabajo y esfuerzo porque la fortuna favorece al valiente.
+
+
+
+
+
+
+
+Misión Empresarial (ejemplo)
+
+¿Quiénes somos?
+
+Empresa XYZ es una comercializadora de insumos tecnológicos importados. Somos una organización dedicada a la confección de zapatos de alta gama.
+
+- Somos una empresa dedicada a la producción de perfiles de aluminio.
+- Somo suna empresa dedicada a solucionar y que unen comunicaciones.
+
+XYZ se dedica a brindar soluciones estratégicas en tecnología y comunicación empresaria.
+
+Somos una empresa tecnológica que se dedica a brindar soluciones integrales en comunicación empresarial.
+
+¿Cómo lo hacemos?
+
+Mediante la elección de los mejores proveedores internacionales con la mejor materia prima del centro de país y acabados de primera.
+
+- Eligiendo materia prima de calidad y acabados de diversas preferencias.
+
+Evaluando exhaustivamente los inconvenientes diarios de la empresa en el ámbito de la comunicación y para tareas y resolver proceso e inconvenientes.
+
+Evaluando condiciones criticas a nivel estratégico dentro de procesos inherentes.
+
+¿Para que lo hacemos?
+
+Con la finalidad de satisfacer los requerimeintos de nuestros clientes.
+Para satisfacer las necesidades de nuestros clientes y público en general.
+
+- Enfocados a satisfacer las necesidades de la contrucción y semejantes.
+
+Empresa XYZ
+
+Misión
+
+Visión = ¿Donde nos miramos en el futuro?
+
+
+Mision personal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Misión
 
@@ -367,6 +455,21 @@ Brindar desayunos saludables, frescos y accesibles mediante un sistema de preven
 Visión
 
 Ser una empresa líder en el mercado local de desayunos saludables online, reconocida por su calidad, puntualidad y compromiso con el bienestar de nuestros clientes.
+
+Valores
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Objetivos
 
