@@ -464,15 +464,7 @@ Siguiendo los lineamientos del documento: positiva, breve, alcanzable, medible, 
 
 **Ser en cinco años la empresa referente en preventa de desayunos saludables en nuestra ciudad, reconocida por su puntualidad, calidad y uso eficiente de tecnología para facilitar una alimentación saludable y sostenible.**
 
-✔ Positiva  
-✔ Realista  
-✔ Con temporalidad  
-✔ Entendible  
-✔ Enfocada en posicionamiento
-
----
-
-# ✅ VALORES
+##### Valores
 
 (Se desprenden de la misión y visión)
 
