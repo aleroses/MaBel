@@ -428,11 +428,9 @@ Ejemplo:
 	
 	- Enfocados a satisfacer las necesidades de la contrucción y semejantes.
 
-Empresa XYZ
+Ejemplos:
 
-Misión
-
-Visión = ¿Donde nos miramos en el futuro?
+Google: Organizar la información del mundo para que sea útil y accesible para todos.
 
 #### 🥗 Easy Breakfast
 
@@ -454,9 +452,7 @@ Pasos para definir la misión (pág. 15)
 
 > **Easy Breakfast es una empresa online dedicada a la preventa de desayunos saludables, ofreciendo productos frescos y accesibles mediante una plataforma digital que facilita el pedido y la entrega puntual para personas con poco tiempo que buscan alimentarse mejor.**  
 
-> **Easy Breakfast empresa online dedicada a la preventa de desayunos saludables, ofreciendo productos de calidad mediante una plataforma digital que facilita el pedido y la entrega puntual para personas con poco tiempo que buscan alimentarse mejor.**  
-
-> **Easy Breakfast dedicada a la preventa de desayunos saludables, ofreciendo productos de calidad mediante una plataforma digital que facilita el pedido y la entrega puntual para personas con poco tiempo que buscan alimentarse mejor.**
+> **Ofrecer desayunos saludables de alta calidad mediante una plataforma digital que facilite el pedido a personas con poco tiempo.**
 
 ##### Visión
 
@@ -468,26 +464,163 @@ Siguiendo los lineamientos del documento: positiva, breve, alcanzable, medible, 
 
 Se desprenden de la misión y visión:
 
-1. Calidad: Compromiso con ingredientes frescos y preparación responsable.
-2. Puntualidad: Entrega oportuna como parte central del servicio.
-3. Innovación: Uso de tecnología para facilitar el acceso a la alimentación saludable.
-4. Compromiso con el cliente: Atención cercana y enfoque en sus necesidades.
-5. Responsabilidad: Reducción de desperdicio mediante el sistema de preventa y uso de empaques adecuados.
+1. Honestidad
+2. Calidad: Compromiso con ingredientes frescos y preparación responsable.
+3. Puntualidad: Entrega oportuna como parte central del servicio.
+4. Innovación: Uso de tecnología para facilitar el acceso a la alimentación saludable.
+5. Compromiso con el cliente: Atención cercana y enfoque en sus necesidades.
+6. Responsabilidad: Reducción de desperdicio mediante el sistema de preventa y uso de empaques adecuados.
 
 Nota: 5 o 6 valores como máximo.
 
+### El Proceso de Creación
+
+1. Diagnóstico
+
+	Analiza la situación actual, fortalezas y el propósito fundamental de los fundadores.
+
+2. Brainstorming 
+
+	Sesiones colaborativas con el equipo clave para generar ideas y palabras clave.
+
+3. Redacción
+
+	Sintetiza las ideas en frases cortas, memorables y potentes. Menos es más.
+
+4. Validación
+
+	Prueba las declaraciones con empleados y clientes. ¿Son auténticas? ¿Inspiran?
+
+## Semana 04
+
+### J1 Arquetipos y Branding
+
+> La marca es aquello que dicen de ti cuando no estás.  
+> Jeff Bezos
+
+Arquetipos de Marca
+
+Organizan la realidad y agregan estructura a las marcas, además dan vida a la narrativa de la marca y ayudan a crear storytelling atractivo. Carl JUng.
+
+¿En qué arquetipo encaja mi marca?
+
+1. Inocente
+
+	- Lema: Libertad para ser tú mismo.
+	- Deseo básico: Llegar al paraíso.
+	- Objetivo: Ser feliz
+	- Mayor temor: Ser castigado por hacer algo incorrecto
+	- Estrategia: Hacer las cosas bien
+	- Talento: La fe y el optimismo
+
+2. El explorador
+
+	- Lema: No me encierres
+	- Deseo básico: Libertad para descubrir
+	- Objetivo: Experimentar un mundo mejor, más auténtico, la vida más plena.
+	- Mayor temor: El vacío de quedar atrapado, conformidad.
+	- Estrategia: Viajar y experimentar cosas nuevas, escapar del aburriento.
+	- Talento: Autonomía, ambición, ser fiel a su propia alma.
+
+3. El sabio
+
+	- Lema: La verdad lo hace libre
+	- Deseo básico: Encontrar la verdad
+	- Objetivo: Utilizar la inteligencia y análisis para entender el mundo.
+	- Mayor temor: Ser engañado, la ignorancia
+	- Estrategia: La búsqueda de información y conocimiento, la auto-reflexión y la comprensión
+	- Talento: Sabiduría, inteligencia.
+
+4. El Héroe
+
+	- Lema: Donde hay voluntad, hay camino
+	- Deseo básico: Demostrar la propia valía a través de actos valientes
+	- Objetivo: Superarse a sí mismo y mejorar el mundo con sus actos
+	- Mayor temor: La debilidad, ser cobarde
+	- Estrategia: Ser tan fuerte y competente posible
+	- Talento: La competencia y la valentía
+
+5. El forajido (Fuera de la ley)
+
+	- Lema: Las reglas están para romperse
+	- Deseo básico: La revolución
+	- Objetivo: Derrocar lo que no funciona
+	- Mayor temor: Ser imponente o incapaz
+	- Estrategia: Interrumpir, llamar la atención
+	- Talento: Libertad, extravagancia
+
+6. El Mago
+
+	- Lema: Puede hacer que las cosas sucedan
+	- Deseo básico: Equilibrar los sucesos preparados y enfrentar los retos.
+	- Objetivo: Hacer que los sueños se hagan realidad
+	- Mayor temor: Consecuencias negativas
+	- Estrategia: Desarrollar una visión y vivir por ella
+	- Talento: Buscar soluciones en todo momento
+
+7. El Amante
+
+	- Lema: Tu eres el elegido
+	- Deseo básico: La intimidad y la experiencia.
+	- Objetivo: Estar en relación con personas, trabajo y el entorno.
+	- Mayor temor: La soledad, no ser amado
+	- Estrategia: Llegar a ser cada vez más atractivo física y emocionalmente
+	- Talento: La pasión, gratitud, compromiso
+
+8. El Bufón
+
+	- Lema: Solo se vive una vez
+	- Deseo básico: Disfrutar el momento al máximo
+	- Objetivo: Pasar un buen rato
+	- Mayor temor: Ser un aburrido
+	- Estrategia: Jugar, hacer bromas, ser gracioso
+	- Talento: Alegría
+
+9. El Gobernante
+
+	- Lema: El poder no lo es todo, es lo único.
+	- Deseo básico: Control
+	- Objetivo: Éxito, distinción
+	- Mayor temor: El caos, ser derrocado
+	- Estrategia: Ejercicio del poder
+	- Talento: Responsabilidad, liderazgo
+
+10. 
+
+	- Lema: 
+	- Deseo básico:
+	- Objetivo: 
+	- Mayor temor:
+	- Estrategia:
+	- Talento:
+
+11. 
+
+	- Lema: 
+	- Deseo básico:
+	- Objetivo: 
+	- Mayor temor:
+	- Estrategia:
+	- Talento:
+
+12. 
+
+	- Lema: 
+	- Deseo básico:
+	- Objetivo: 
+	- Mayor temor:
+	- Estrategia:
+	- Talento:
 
 
----
+- [La Teoría de los ARQUETIPOS de PERSONALIDAD de Carl Jung](https://www.youtube.com/watch?v=eyrtNcRFcY0)
+- [Brandemia](https://brandemia.org/arquetipos-de-marca)
 
 
 
+Eslogan
 
-
-
-
-
-
+Construye tu cuerpo, comiendo...
 
 
 
