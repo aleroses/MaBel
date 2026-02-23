@@ -678,12 +678,12 @@ Debemos segmentar porque todo el mundo no consume nuestros productos.
 
 Beneficios
 
-- Identificar las necesidades especificas de los consumidores
+- Identificar las necesidades específicas de los consumidores
 - Estrategias de MK mejor focalizadas
-- Comunicación publicitaria mas efectiva
+- Comunicación publicitaria más efectiva
 - Detectar nichos de mercado
 - Facilita la medición de resultados
-- Identificación de mercados mas rentables 
+- Identificación de mercados más rentables 
 
 Tipos de segmentación de mercados
 
@@ -695,7 +695,7 @@ Tipos de segmentación de mercados
 	- Ingreso
 	- Profesión
 	- Tamaño de la familia
-	- Nivel Socio Económico
+	- Nivel Socioeconómico
 	- Etnia
 	- Nacionalidad
 	- Religion
@@ -715,6 +715,362 @@ Tipos de segmentación de mercados
 Mercado total
 Mercado potencial
 Mercado objetivo
+
+#### 🥗 Easy Breakfast - Segmentación de Mercado
+
+1. Segmentación Geográfica
+	
+	- **Ubicación:** Ciudad de Quito
+	- **Justificación con datos del INEC:**
+		- Población 2022: **2.679.722 habitantes**
+		- Crecimiento promedio anual (2010–2022): **1,48 %**
+		- Densidad poblacional: **6,4 hab./ha**
+		- 68 % viviendas en zona urbana
+	
+	Adaptación a mi proyecto Easy Breakfast:
+	
+	- Enfoque en **zonas urbanas de alta densidad**
+		- Parroquias estratégicas (alta concentración):
+		    - Iñaquito
+		    - Calderón
+		    - Conocoto
+		    - Solanda
+		    - Comité del Pueblo
+
+Esto es ideal para modelo delivery por:
+
+- Alta concentración = menor costo logístico
+- Mayor volumen potencial de pedidos
+
+2. Segmentación Demográfica
+	
+	- Edad: Según el INEC:
+		
+		- Edad promedio en Quito (2022): **34 años**
+		- Grupo 0–14 años disminuye (21,3 %)
+		- Grupo 15–29 años: 25 %
+		- Mayor tendencia al envejecimiento
+	
+	Mercado ideal para Easy Breakfast:
+	
+	- 20 a 45 años
+	    
+	    - Jóvenes profesionales
+	    - Universitarios
+	    - Personas activas laboralmente
+	
+	Este grupo:
+	
+	- Tiene poder adquisitivo propio
+	- Compra por conveniencia
+	- Usa apps y redes sociales
+	
+	- Sexo
+		
+		- No existe una diferencia marcada, pero:
+		- 37,7 % de hogares tienen jefatura femenina (2022)
+
+Estrategia:
+
+- Comunicación neutra
+- Enfoque en mujeres profesionales (segmento fuerte en decisiones alimentarias)
+
+	- Nivel educativo
+		
+		Aunque el factsheet no detalla niveles educativos específicos, por contexto urbano de Quito:
+		
+		- Alta concentración de población con educación secundaria y superior
+		- Zonas como Iñaquito y Cumbayá concentran población universitaria y profesional
+
+Enfoque:
+
+- Personas con conciencia nutricional
+- Profesionales que valoran alimentación saludable
+
+	- Ingreso y Nivel Socioeconómico
+		
+		Datos indirectos relevantes:
+			
+		- 33,7 % de hogares viven en arriendo → movilidad laboral
+		- 46,5 % vivienda propia
+		- Crecimiento en departamentos (49,8 % en 2022 vs 27,4 % en 2001)
+
+Interpretación:
+
+- Crecimiento de clase media urbana
+- Jóvenes independientes
+- Profesionales que viven solos o en pareja
+
+Target recomendado:
+
+- Nivel socioeconómico medio y medio-alto
+- Ingresos estables
+
+	- Profesión (Ideal):
+		
+		- Oficinistas
+		- Empleados públicos
+		- Profesionales independientes
+		- Freelancers
+		- Emprendedores
+
+	- Tamaño de la familia - Datos INEC:
+		
+		- Promedio personas por hogar (2022): **3,06**
+		- 17,8 % hogares unipersonales
+		- 21,6 % hogares de 2 personas
+		- 22,5 % hogares de 3 personas
+
+💡 Gran oportunidad:
+
+✔ Personas que viven solas  
+✔ Parejas jóvenes sin hijos
+
+Perfecto para desayunos individuales premium.
+
+	- Etnia, Nacionalidad y Religión
+	
+	El factsheet no detalla estos puntos específicos, pero Quito es:
+		
+		- Mayoritariamente mestiza
+		- Cultura urbana diversa
+		- Alta aceptación de tendencias saludables
+
+No se recomienda segmentación por religión en este proyecto.
+
+3. Segmentación Psicográfica
+
+### Personalidad
+
+- Personas disciplinadas
+    
+- Orientadas a metas
+    
+- Productivas
+    
+- Interesadas en bienestar
+    
+
+---
+
+### Estilo de vida
+
+- Activos
+    
+- Fitness
+    
+- Vida laboral intensa
+    
+- Poco tiempo para cocinar
+    
+- Uso frecuente de delivery
+    
+
+---
+
+### Actitudes
+
+- Valoran conveniencia
+    
+- Dispuestos a pagar más por calidad
+    
+- Interés en alimentación saludable
+    
+- Preocupación por imagen y salud
+    
+
+---
+
+### Valores
+
+- Salud
+    
+- Eficiencia
+    
+- Productividad
+    
+- Cuidado personal
+    
+- Bienestar
+    
+
+---
+
+## 4️⃣ Segmentación Conductual
+
+### Búsqueda del beneficio
+
+El cliente busca:
+
+- Ahorro de tiempo
+    
+- Comodidad
+    
+- Desayuno equilibrado
+    
+- Imagen saludable
+    
+- Energía para el día
+    
+
+---
+
+### Frecuencia de uso
+
+Podría dividirse en:
+
+- 40 % consumo 2–3 veces por semana
+    
+- 30 % consumo ocasional (fines de semana)
+    
+- 30 % consumo diario (clientes fitness u oficina)
+    
+
+---
+
+### Fidelidad de marca
+
+Alta si:
+
+- Se implementan planes semanales
+    
+- Suscripciones mensuales
+    
+- Programas de puntos
+    
+
+---
+
+### Nivel “listo para consumir”
+
+Muy alto.
+
+El cliente:  
+✔ No quiere cocinar  
+✔ No quiere lavar  
+✔ Quiere entrega rápida
+
+---
+
+### Toma de decisión
+
+Elige Easy Breakfast por:
+
+- Conveniencia
+    
+- Imagen premium
+    
+- Diseño atractivo
+    
+- Rapidez
+    
+- Recomendaciones sociales
+    
+
+---
+
+# 📊 CÁLCULO DE MERCADO
+
+## 🔹 Mercado Total
+
+Población Quito 2022:  
+**2.679.722 personas**
+
+---
+
+## 🔹 Mercado Potencial
+
+Filtramos:
+
+- 25 % entre 15–29 años
+    
+- Parte de 30–44 años (estimado relevante)
+    
+- Aproximadamente 45 % población económicamente activa urbana
+    
+
+Aproximadamente:
+
+2.679.722 × 45 % ≈ **1.205.875 personas**
+
+---
+
+## 🔹 Mercado Objetivo
+
+Filtramos aún más:
+
+- Nivel socioeconómico medio y medio-alto (aprox. 30 %)
+    
+- Interés en alimentación saludable (estimado 40 % del segmento anterior)
+    
+
+1.205.875 × 30 % × 40 % ≈
+
+≈ **144.705 personas**
+
+👉 Ese sería tu mercado objetivo realista en Quito.
+
+---
+
+# 📈 ANÁLISIS DE LA INFORMACIÓN OBTENIDA
+
+1️⃣ Quito presenta crecimiento poblacional sostenido.  
+2️⃣ Disminuye la población infantil → aumenta población adulta productiva.  
+3️⃣ Hogares más pequeños → mayor consumo individual.  
+4️⃣ Crece vivienda en departamentos → estilo de vida urbano acelerado.  
+5️⃣ Alta satisfacción con la ciudad (80 %) → ambiente favorable para emprendimientos.  
+6️⃣ Edad promedio 34 años → mercado ideal para desayuno saludable premium.
+
+---
+
+# 🧠 CONCLUSIÓN ESTRATÉGICA
+
+Easy Breakfast NO debe ser un negocio masivo.
+
+Debe posicionarse como:
+
+✔ Marca urbana  
+✔ Saludable  
+✔ Premium accesible  
+✔ Enfocada en profesionales  
+✔ Especializada en delivery eficiente
+
+Tu mejor enfoque es:
+
+👉 Nicho segmentado urbano profesional  
+👉 Modelo por suscripción semanal  
+👉 Comunicación moderna y fitness
+
+---
+
+Si quieres, ahora podemos:
+
+- Convertir esto en un cuadro formal para tu proyecto
+    
+- O hacer gráficos listos para imprimir
+    
+- O calcular proyección de penetración de mercado y ventas estimadas 📊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ---
