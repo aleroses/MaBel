@@ -840,169 +840,109 @@ No se recomienda segmentación por religión en este proyecto.
 
 3. Segmentación Psicográfica
 
-### Personalidad
+	- Personalidad
+		
+		- Personas disciplinadas
+		- Orientadas a metas
+		- Productivas
+		- Interesadas en bienestar
 
-- Personas disciplinadas
-    
-- Orientadas a metas
-    
-- Productivas
-    
-- Interesadas en bienestar
-    
+	- Estilo de vida
+		
+		- Activos
+		- Fitness
+		- Vida laboral intensa
+		- Poco tiempo para cocinar
+		- Uso frecuente de delivery
 
----
+	- Actitudes
+		
+		- Valoran conveniencia
+		- Dispuestos a pagar más por calidad
+		- Interés en alimentación saludable
+		- Preocupación por imagen y salud
 
-### Estilo de vida
+	- Valores
+		
+		- Salud
+		- Eficiencia
+		- Productividad
+		- Cuidado personal
+		- Bienestar
 
-- Activos
-    
-- Fitness
-    
-- Vida laboral intensa
-    
-- Poco tiempo para cocinar
-    
-- Uso frecuente de delivery
-    
+4. Segmentación Conductual
 
----
+- Búsqueda del beneficio
+	
+	El cliente busca:
+	
+	- Ahorro de tiempo
+	- Comodidad
+	- Desayuno equilibrado
+	- Imagen saludable
+	- Energía para el día
 
-### Actitudes
+- Frecuencia de uso
+	
+	Podría dividirse en:
+	
+	- 40 % consumo 2–3 veces por semana
+	- 30 % consumo ocasional (fines de semana)
+	- 30 % consumo diario (clientes fitness u oficina)
 
-- Valoran conveniencia
-    
-- Dispuestos a pagar más por calidad
-    
-- Interés en alimentación saludable
-    
-- Preocupación por imagen y salud
-    
+- Fidelidad de marca
+	
+	Alta si:
+	
+	- Se implementan planes semanales
+	- Suscripciones mensuales
+	- Programas de puntos
 
----
 
-### Valores
+- Nivel “listo para consumir”
+	
+	Muy alto.
+	
+	El cliente:  
+	✔ No quiere cocinar  
+	✔ No quiere lavar  
+	✔ Quiere entrega rápida
 
-- Salud
-    
-- Eficiencia
-    
-- Productividad
-    
-- Cuidado personal
-    
-- Bienestar
-    
+- Toma de decisión
+	
+	Elige Easy Breakfast por:
+	
+	- Conveniencia
+	- Imagen premium
+	- Diseño atractivo
+	- Rapidez
+	- Recomendaciones sociales
 
----
+##### Cálculo de Mercado
 
-## 4️⃣ Segmentación Conductual
-
-### Búsqueda del beneficio
-
-El cliente busca:
-
-- Ahorro de tiempo
-    
-- Comodidad
-    
-- Desayuno equilibrado
-    
-- Imagen saludable
-    
-- Energía para el día
-    
-
----
-
-### Frecuencia de uso
-
-Podría dividirse en:
-
-- 40 % consumo 2–3 veces por semana
-    
-- 30 % consumo ocasional (fines de semana)
-    
-- 30 % consumo diario (clientes fitness u oficina)
-    
-
----
-
-### Fidelidad de marca
-
-Alta si:
-
-- Se implementan planes semanales
-    
-- Suscripciones mensuales
-    
-- Programas de puntos
-    
-
----
-
-### Nivel “listo para consumir”
-
-Muy alto.
-
-El cliente:  
-✔ No quiere cocinar  
-✔ No quiere lavar  
-✔ Quiere entrega rápida
-
----
-
-### Toma de decisión
-
-Elige Easy Breakfast por:
-
-- Conveniencia
-    
-- Imagen premium
-    
-- Diseño atractivo
-    
-- Rapidez
-    
-- Recomendaciones sociales
-    
-
----
-
-# 📊 CÁLCULO DE MERCADO
-
-## 🔹 Mercado Total
+🔹 Mercado Total:
 
 Población Quito 2022:  
 **2.679.722 personas**
 
----
-
-## 🔹 Mercado Potencial
+🔹 Mercado Potencial
 
 Filtramos:
 
 - 25 % entre 15–29 años
-    
 - Parte de 30–44 años (estimado relevante)
-    
 - Aproximadamente 45 % población económicamente activa urbana
-    
 
 Aproximadamente:
 
 2.679.722 × 45 % ≈ **1.205.875 personas**
 
----
-
-## 🔹 Mercado Objetivo
+🔹 Mercado Objetivo
 
 Filtramos aún más:
 
 - Nivel socioeconómico medio y medio-alto (aprox. 30 %)
-    
 - Interés en alimentación saludable (estimado 40 % del segmento anterior)
-    
 
 1.205.875 × 30 % × 40 % ≈
 
@@ -1010,20 +950,16 @@ Filtramos aún más:
 
 👉 Ese sería tu mercado objetivo realista en Quito.
 
----
+Análisis:
 
-# 📈 ANÁLISIS DE LA INFORMACIÓN OBTENIDA
+1. Quito presenta crecimiento poblacional sostenido.  
+ 2. Disminuye la población infantil → aumenta población adulta productiva.  
+ 3. Hogares más pequeños → mayor consumo individual.  
+ 4. Crece vivienda en departamentos → estilo de vida urbano acelerado.  
+ 5. Alta satisfacción con la ciudad (80 %) → ambiente favorable para emprendimientos.  
+6. Edad promedio 34 años → mercado ideal para desayuno saludable premium.
 
-1️⃣ Quito presenta crecimiento poblacional sostenido.  
-2️⃣ Disminuye la población infantil → aumenta población adulta productiva.  
-3️⃣ Hogares más pequeños → mayor consumo individual.  
-4️⃣ Crece vivienda en departamentos → estilo de vida urbano acelerado.  
-5️⃣ Alta satisfacción con la ciudad (80 %) → ambiente favorable para emprendimientos.  
-6️⃣ Edad promedio 34 años → mercado ideal para desayuno saludable premium.
-
----
-
-# 🧠 CONCLUSIÓN ESTRATÉGICA
+Conclusión Estratégica
 
 Easy Breakfast NO debe ser un negocio masivo.
 
@@ -1040,17 +976,6 @@ Tu mejor enfoque es:
 👉 Nicho segmentado urbano profesional  
 👉 Modelo por suscripción semanal  
 👉 Comunicación moderna y fitness
-
----
-
-Si quieres, ahora podemos:
-
-- Convertir esto en un cuadro formal para tu proyecto
-    
-- O hacer gráficos listos para imprimir
-    
-- O calcular proyección de penetración de mercado y ventas estimadas 📊
-
 
 
 
