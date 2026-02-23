@@ -665,17 +665,16 @@ Otros tipo de mensajes:
 
 ### J2 Mercadeo
 
-investigación de mercado
+- Investigación de mercado
+- Segmentar el mercado
+- Grupos similares y más pequeños
+- Caracteristicas y necesidades similares
 
-segmentar el mercado
+En mercadeo (marketing), el mercado es el ==conjunto de compradores actuales y potenciales que tienen una necesidad, el deseo y la capacidad económica (poder adquisitivo) para adquirir un producto o servicio==. Es el grupo hacia el cual se dirigen las estrategias de comercialización, segmentación y venta para intercambiar valor. 
 
-grupos similares y mas pequeños
+**Segmentación:** El mercado total se divide en segmentos específicos para dirigir los esfuerzos de marketing con mayor precisión.
 
-caracteristicas y necesidades similares
-
-mercado es 
-
-segmentar porque todo el mundo no consume nuestros productos
+Debemos segmentar porque todo el mundo no consume nuestros productos.
 
 Beneficios
 
