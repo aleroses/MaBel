@@ -661,6 +661,57 @@ Otros tipo de mensajes:
 - “Tu mejor versión comienza en la mañana.”
 - Construye tu cuerpo, comiendo...
 
+## Semana 05
+
+### J2 Mercadeo
+
+investigación de mercado
+
+segmentar el mercado
+
+grupos similares y mas pequeños
+
+caracteristicas y necesidades similares
+
+mercado es 
+
+segmentar porque todo el mundo no consume nuestros productos
+
+Beneficios
+
+- Identificar las necesidades especificas de los consumidores
+- Estrategias de MK mejor focalizadas
+- Comunicación publicitaria mas efectiva
+- Detectar nichos de mercado
+- Facilita la medición de resultados
+- Identificación de mercados mas rentables 
+
+Tipos de segmentación de mercados
+
+- Geográfica
+- Demográfica
+	- Edad
+	- Sexo
+	- Nivel educativo
+	- Ingreso
+	- Profesión
+	- Tamaño de la familia
+	- Nivel Socio Económico
+	- Etnia
+	- Nacionalidad
+	- Religion
+- Psicográfica
+	- Personalidad
+	- Estilo de vida
+	- Actitudes
+	- Valores
+- Conductual
+	- Búsqueda del beneficio
+	- Frecuencia de uso (porcentaje)
+	- Fidelidad de la marca
+	- Utilización del producto
+	- Nivel de "Listo para consumir"
+	- Toma de decisión (por uno y no otro)
 
 
 ---
