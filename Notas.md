@@ -7,7 +7,7 @@
 
 ### J1 Presentación
 
-- PAO: Periodo academico ordinario
+- PAO: Periodo académico ordinario
 - C1: Ciclo 1
 - C2: Ciclo 2
 - 8 Semanas x Ciclo
@@ -585,50 +585,87 @@ Organizan la realidad y agregan estructura a las marcas, además dan vida a la n
 	- Estrategia: Ejercicio del poder
 	- Talento: Responsabilidad, liderazgo
 
-10. 
-
-	- Lema: 
-	- Deseo básico:
-	- Objetivo: 
-	- Mayor temor:
-	- Estrategia:
-	- Talento:
-
-11. 
-
-	- Lema: 
-	- Deseo básico:
-	- Objetivo: 
-	- Mayor temor:
-	- Estrategia:
-	- Talento:
-
-12. 
-
-	- Lema: 
-	- Deseo básico:
-	- Objetivo: 
-	- Mayor temor:
-	- Estrategia:
-	- Talento:
+Para los 3 que faltan revisar el siguiente enlace.
 
 
 - [La Teoría de los ARQUETIPOS de PERSONALIDAD de Carl Jung](https://www.youtube.com/watch?v=eyrtNcRFcY0)
 - [Brandemia](https://brandemia.org/arquetipos-de-marca)
 
+#### 🥗 Easy Breakfast - Arquetipos
+
+Contexto estratégico de Easy Breakfast
+
+- Alimentación saludable
+- Conveniencia (preventa + delivery)
+- Público consciente (fitness, profesionales, estudiantes)
+- Bienestar físico y posiblemente sostenibilidad
+- Puede tener un tono corporativo/elegante, pero accesible
+
+Desde el enfoque del **Business Model Canvas** Business Model Generation, tu Propuesta de Valor combina:
+
+- Conveniencia
+- Bienestar
+- Desempeño (energía, productividad)
+- Posible diferenciación por calidad
+
+Y desde la guía de misión/visión (archivo que revisamos), tu proyecto claramente apunta a propósito + impacto en bienestar.
+
+##### Arquetipos
+
+Easy Breakfast:
+
+- Cuida la salud del cliente
+- Se preocupa por su bienestar diario
+- Facilita su rutina
+- Puede tener enfoque preventivo (nutrición inteligente)
+- Puede integrar sostenibilidad
+
+🔥 **El Cuidador:**
+
+- Quiere proteger y ayudar
+- Se enfoca en bienestar y seguridad
+- Transmite confianza
+- Tiene tono cálido y empático
+
+	Eslogan:
+	
+> 	"Nos encargamos de tu desayuno para que tú te encargues de conquistar el día."
+
+Nota: Este arquetipo genera confianza y es ideal para sector alimentación saludable.
+
+🔥 **El Héroe (Complementario):** 
+
+- Superación
+- Fuerza
+- Rendimiento
+- Disciplina
+
+Nuestra marca comunica:
+
+- Energía para rendir
+- Productividad
+- Alto desempeño
+- Mentalidad ganadora
+
+Por eso he decidido usar: Cuidador (emocional)  +  Héroe (motivacional)
+
+	Eslogan:
+	
+> 	"Alimenta tu disciplina. Empieza fuerte."
 
 
-Eslogan
+Otros tipo de mensajes:
 
-Construye tu cuerpo, comiendo...
-
-construye tu cuerpo mientras comes
-
-
-
+- “Empieza bien tu día.”
+- “Nutrición que te impulsa.”
+- “Tu mejor versión comienza en la mañana.”
+- Construye tu cuerpo, comiendo...
 
 
-Objetivos
+
+---
+
+#### Objetivos
 
 Objetivo General
 
