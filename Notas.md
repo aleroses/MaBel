@@ -601,14 +601,14 @@ Contexto estratégico de Easy Breakfast
 - Bienestar físico y posiblemente sostenibilidad
 - Puede tener un tono corporativo/elegante, pero accesible
 
-Desde el enfoque del **Business Model Canvas** Business Model Generation, tu Propuesta de Valor combina:
+Desde el enfoque del **Business Model Canvas** Business Model Generation, mi Propuesta de Valor combina:
 
 - Conveniencia
 - Bienestar
 - Desempeño (energía, productividad)
 - Posible diferenciación por calidad
 
-Y desde la guía de misión/visión (archivo que revisamos), tu proyecto claramente apunta a propósito + impacto en bienestar.
+Y desde la guía de misión/visión (archivo que revisamos en clase), mi proyecto claramente apunta a propósito + impacto en bienestar.
 
 ##### Arquetipos
 
