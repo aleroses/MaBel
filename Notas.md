@@ -713,6 +713,10 @@ Tipos de segmentación de mercados
 	- Nivel de "Listo para consumir"
 	- Toma de decisión (por uno y no otro)
 
+Mercado total
+Mercado potencial
+Mercado objetivo
+
 
 ---
 
