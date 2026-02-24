@@ -909,46 +909,102 @@ Perfecto para desayunos individuales premium.
 
 🔹 Mercado Total:
 
-Población Quito 2022:  
-**2.679.722 personas**
+Población Iñaquito 2019: **42.822 personas**
 
 🔹 Mercado Potencial
 
-Filtramos:
+Sabemos que:
 
-- 25 % entre 15–29 años
-- Parte de 30–44 años (estimado relevante)
-- Aproximadamente 45 % población económicamente activa urbana
+- De 20 a 45 años son
+	
+	- Jóvenes profesionales
+	- Universitarios
+	- Personas activas laboralmente
 
-Aproximadamente:
+- Iñaquito tiene:
+    
+    - Alta proporción de departamentos (90,3 %)
+    - Hogares pequeños (2,12 personas promedio)
 
-2.679.722 × 45 % ≈ **1.205.875 personas**
+Esto indica:  
+✔ Zona urbana profesional  
+✔ Muchos jóvenes independientes  
+✔ Alta población económicamente activa
+
+🔹 Estimación razonable:
+
+Supongamos que:
+
+- 55 % están entre 20 y 45 años
+- De ellos, 80 % pertenecen a población económicamente activa
+
+Cálculo:
+
+42.822 × 55 % = 23.552  
+23.552 × 80 % ≈ **18.841 personas**
+
+👉 **Mercado Potencial ≈ 18.841 personas**
+
+Este grupo:
+
+- Trabaja
+- Tiene ingresos
+- Puede pagar delivery
 
 🔹 Mercado Objetivo
 
-Filtramos aún más:
+Ahora filtramos por:
 
-- Nivel socioeconómico medio y medio-alto (aprox. 30 %)
-- Interés en alimentación saludable (estimado 40 % del segmento anterior)
+- Nivel socioeconómico medio y medio-alto
+- Interés en alimentación saludable
+- Disposición a pagar por conveniencia
 
-1.205.875 × 30 % × 40 % ≈
+Iñaquito es una zona:  
 
-≈ **144.705 personas**
+✔ Empresarial  
+✔ Oficinas  
+✔ Centros comerciales  
+✔ Vivienda vertical
 
-👉 Ese sería tu mercado objetivo realista en Quito.
+Podemos asumir conservadoramente:
 
-Análisis:
+- 40 % tienen poder adquisitivo medio–alto y de estos
+- 35 % están interesados en alimentación saludable
 
-1. Quito presenta crecimiento poblacional sostenido.  
- 2. Disminuye la población infantil → aumenta población adulta productiva.  
- 3. Hogares más pequeños → mayor consumo individual.  
- 4. Crece vivienda en departamentos → estilo de vida urbano acelerado.  
- 5. Alta satisfacción con la ciudad (80 %) → ambiente favorable para emprendimientos.  
-6. Edad promedio 34 años → mercado ideal para desayuno saludable premium.
+Cálculo:
 
-Conclusión Estratégica
+18.841 × 40 % = 7.536  
+7.536 × 35 % ≈ **2.637 personas**
 
-Easy Breakfast NO debe ser un negocio masivo.
+👉 **Mercado Objetivo Realista ≈ 2.600 personas**
+
+Resultado Final Ajustado
+
+|Nivel de Mercado  |Cantidad |
+|------------------|---------|
+|Mercado Total     |42.822   |
+|Mercado Potencial |~18.800  |
+|Mercado Objetivo  |~2.600   |
+
+Para un emprendimiento de desayunos:
+
+Si solo se capta el 10 % del mercado objetivo:
+
+2.600 × 10 % = 260 clientes frecuentes
+
+Si 260 personas compran:
+
+- 3 veces por semana
+- Ticket promedio $5
+
+260 × 3 × 4 semanas × $5  
+= **$15.600 mensuales**
+
+Y eso solo en Iñaquito.
+
+##### Conclusión Estratégica
+
+Easy Breakfast por el momento NO será un negocio masivo.
 
 Debe posicionarse como:
 
@@ -958,11 +1014,11 @@ Debe posicionarse como:
 ✔ Enfocada en profesionales  
 ✔ Especializada en delivery eficiente
 
-Tu mejor enfoque es:
+El mejor enfoque es:
 
-👉 Nicho segmentado urbano profesional  
-👉 Modelo por suscripción semanal  
-👉 Comunicación moderna y fitness
+- Nicho segmentado urbano profesional  
+- Modelo por suscripción semanal  
+- Comunicación moderna y fitness
 
 
 
