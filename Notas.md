@@ -727,9 +727,9 @@ Mercado objetivo
 	- Densidad poblacional: **6,4 hab./ha**
 	- 68 % viviendas en zona urbana
 
-Adaptación a mi proyecto Easy Breakfast:
+Easy Breakfast se enfocará en:
 
-- Enfoque en **zonas urbanas de alta densidad**
+- **zonas urbanas de alta densidad**
 	- Parroquia estratégica (alta concentración):
 		- Iñaquito 42.822 habitantes
 
