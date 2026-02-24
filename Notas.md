@@ -670,7 +670,7 @@ Otros tipo de mensajes:
 - Grupos similares y más pequeños
 - Caracteristicas y necesidades similares
 
-En mercadeo (marketing), el mercado es el ==conjunto de compradores actuales y potenciales que tienen una necesidad, el deseo y la capacidad económica (poder adquisitivo) para adquirir un producto o servicio==. Es el grupo hacia el cual se dirigen las estrategias de comercialización, segmentación y venta para intercambiar valor. 
+En mercadeo (marketing), el mercado es el **conjunto de compradores actuales y potenciales que tienen una necesidad, el deseo y la capacidad económica (poder adquisitivo) para adquirir un producto o servicio**. Es el grupo hacia el cual se dirigen las estrategias de comercialización, segmentación y venta para intercambiar valor. 
 
 **Segmentación:** El mercado total se divide en segmentos específicos para dirigir los esfuerzos de marketing con mayor precisión.
 
@@ -718,57 +718,57 @@ Mercado objetivo
 
 #### 🥗 Easy Breakfast - Segmentación de Mercado
 
-1. Segmentación Geográfica
+##### 1. Segmentación Geográfica
 	
-	- **Ubicación:** Ciudad de Quito
-	- **Justificación con datos del INEC:**
-		- Población 2022: **2.679.722 habitantes**
-		- Crecimiento promedio anual (2010–2022): **1,48 %**
-		- Densidad poblacional: **6,4 hab./ha**
-		- 68 % viviendas en zona urbana
-	
-	Adaptación a mi proyecto Easy Breakfast:
-	
-	- Enfoque en **zonas urbanas de alta densidad**
-		- Parroquias estratégicas (alta concentración):
-		    - Iñaquito
-		    - Calderón
-		    - Conocoto
-		    - Solanda
-		    - Comité del Pueblo
+- **Ubicación:** Ciudad de Quito
+- **Justificación con datos del INEC:**
+	- Población 2022: **2.679.722 habitantes**
+	- Crecimiento promedio anual (2010–2022): **1,48 %**
+	- Densidad poblacional: **6,4 hab./ha**
+	- 68 % viviendas en zona urbana
+
+Adaptación a mi proyecto Easy Breakfast:
+
+- Enfoque en **zonas urbanas de alta densidad**
+	- Parroquias estratégicas (alta concentración):
+		- Iñaquito (urbanas)
+		- Calderón (rurales)
+		- Conocoto (rurales)
+		- Solanda (urbanas)
+		- Comité del Pueblo (urbanas)
 
 Esto es ideal para modelo delivery por:
 
 - Alta concentración = menor costo logístico
 - Mayor volumen potencial de pedidos
 
-2. Segmentación Demográfica
+##### 2. Segmentación Demográfica
+
+- Edad: Según el INEC:
 	
-	- Edad: Según el INEC:
-		
-		- Edad promedio en Quito (2022): **34 años**
-		- Grupo 0–14 años disminuye (21,3 %)
-		- Grupo 15–29 años: 25 %
-		- Mayor tendencia al envejecimiento
+	- Edad promedio en Quito (2022): **34 años**
+	- Grupo 0–14 años disminuye (21,3 %)
+	- Grupo 15–29 años: 25 %
+	- Mayor tendencia al envejecimiento
+
+Mercado ideal para Easy Breakfast:
+
+- 20 a 45 años
 	
-	Mercado ideal para Easy Breakfast:
+	- Jóvenes profesionales
+	- Universitarios
+	- Personas activas laboralmente
+
+Este grupo:
+
+- Tiene poder adquisitivo propio
+- Compra por conveniencia
+- Usa apps y redes sociales
+
+- Sexo
 	
-	- 20 a 45 años
-	    
-	    - Jóvenes profesionales
-	    - Universitarios
-	    - Personas activas laboralmente
-	
-	Este grupo:
-	
-	- Tiene poder adquisitivo propio
-	- Compra por conveniencia
-	- Usa apps y redes sociales
-	
-	- Sexo
-		
-		- No existe una diferencia marcada, pero:
-		- 37,7 % de hogares tienen jefatura femenina (2022)
+	- No existe una diferencia marcada, pero:
+	- 37,7 % de hogares tienen jefatura femenina (2022)
 
 Estrategia:
 
@@ -828,49 +828,49 @@ Target recomendado:
 
 Perfecto para desayunos individuales premium.
 
-	- Etnia, Nacionalidad y Religión
+- Etnia, Nacionalidad y Religión
+
+El factsheet no detalla estos puntos específicos, pero Quito es:
 	
-	El factsheet no detalla estos puntos específicos, pero Quito es:
-		
-		- Mayoritariamente mestiza
-		- Cultura urbana diversa
-		- Alta aceptación de tendencias saludables
+	- Mayoritariamente mestiza
+	- Cultura urbana diversa
+	- Alta aceptación de tendencias saludables
 
 No se recomienda segmentación por religión en este proyecto.
 
-3. Segmentación Psicográfica
+##### 3. Segmentación Psicográfica
 
-	- Personalidad
-		
-		- Personas disciplinadas
-		- Orientadas a metas
-		- Productivas
-		- Interesadas en bienestar
+- Personalidad
+	
+	- Personas disciplinadas
+	- Orientadas a metas
+	- Productivas
+	- Interesadas en bienestar
 
-	- Estilo de vida
-		
-		- Activos
-		- Fitness
-		- Vida laboral intensa
-		- Poco tiempo para cocinar
-		- Uso frecuente de delivery
+- Estilo de vida
+	
+	- Activos
+	- Fitness
+	- Vida laboral intensa
+	- Poco tiempo para cocinar
+	- Uso frecuente de delivery
 
-	- Actitudes
-		
-		- Valoran conveniencia
-		- Dispuestos a pagar más por calidad
-		- Interés en alimentación saludable
-		- Preocupación por imagen y salud
+- Actitudes
+	
+	- Valoran conveniencia
+	- Dispuestos a pagar más por calidad
+	- Interés en alimentación saludable
+	- Preocupación por imagen y salud
 
-	- Valores
-		
-		- Salud
-		- Eficiencia
-		- Productividad
-		- Cuidado personal
-		- Bienestar
+- Valores
+	
+	- Salud
+	- Eficiencia
+	- Productividad
+	- Cuidado personal
+	- Bienestar
 
-4. Segmentación Conductual
+#### 4. Segmentación Conductual
 
 - Búsqueda del beneficio
 	
