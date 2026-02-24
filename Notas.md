@@ -1020,19 +1020,61 @@ El mejor enfoque es:
 - Modelo por suscripción semanal  
 - Comunicación moderna y fitness
 
+## Semana 06
+
+### J2 Estrategias de Mercadeo
+
+Marketing Mix
+
+Las 4P del Marketing
+
+1. Producto
+2. Precio
+3. Plaza
+4. Promoción
+
+#### Producto
+
+Eje central de cualquier estrategia comercia. Valor tangible o intangible.
+
+- Tipo de producto
+- Características
+- Beneficio que aporta al usuario
+- Valor diferencial que lo destaca
+
+La propuesta de valor: Es la base del modelo de negocio, es el pilar para atraer y retener clientes.
+
+El Posicionamiento debe estar en la mente de los clientes.
+
+> 	Garantizar disponibilidad de alimentos saludables y de calidad a personas que les importa su salud.
+
+> 	Garantizar disponibilidad de alimentos saludables y de calidad.
+
+Ejemplos reales de propuestas de valor:
+
+- Starbucks: Crear una experiencia alrededor del consumo de café.
+- Coca-Cola: Marcar la diferencia en la vida de las personas, refrescando al mundo.
+
+Una propuesta de valor efectiva permite ofrecer una buena experiencia al cliente y un trato personalizado. 
+
+Características de la propuesta de valor:
+
+- Es clara: Con el fin de entender de manera concreta lo que se ofrece.
+- Es breve: Debe resumir en pocas palabras que ofrece la marca al consumidor. Debe leerse en 5 segundos.
+- Es concreta: Debe indicar qué beneficio obtendrá el cliente.
+
+#### Precio
+
+Representa el valor monetario que el cliente debe pagar. Una fijación de precio inadecuada puede impactar de forma negativa en la demanda y reducir las oportunidades de venta.
+
+Para establecer un precio competitivo y rentable, hay que llevar a cabo las siguientes acciones:
+
+- Realizar un estudio de mercado
+- Analizar la estrategia de precios de la competencia
+- Conocer el poder adquisitivo del público objetivo
 
 
-
-
-
-
-
-
-
-
-
-
-
+Modelo de comunicación empática aplicado al negocio.
 
 
 
