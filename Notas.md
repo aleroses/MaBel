@@ -1102,10 +1102,37 @@ Estrategia de precios
 	Precio igual (estrategia de paridad - valor agregado)  
 	Precio inferior (estrategia de penetración)
 
+- Segmentar a sus clientes y evaluar su sensibilidad del precio  
+	No todos los clientes reaccionan igual:  
+	- Algunos buscan preico bajo
+	- Otros valoran calidad, marca o servicio adicional  
+	
+	Se puede aplicar precios diferenciados (por volumen, por región, por canal)
 
+- Elegir su estrategia de precios  
+	Algunos ejemplos de estrategias:  
+	- Precios de penetración: bajos para ganar mercado rápido
+	- Precios premium o de prestigio: altos para transmitir exclusividad
+	- Precios de descremado: precios altos al inicio y bajarlos progresivamente
+	- Precios psicológicos: como $9.99 en lugar de $10.00
+	- Precios por paquete o bundling: agrupar productos / servicios a un precio especial
 
+- Monitorear y Ajustar  
+	El mercado cambia. hacer seguimiento a  
+	- Ventas y rentabilidad
+	- Reacción de la competencia
+	- Opinión de los clientes
+	- Costos de producción
+	
+	Ajustar sus precios, es necesario para no perder competitividad
 
-
+	Ejemplo:  
+	Venta de cerveza:  
+	- Costo de producción + distribución = $1.20
+	- Su margen deseado = 50%
+	- Precio = 1.20 x 0,60 = $1.80
+	
+	Verificar que el mercado acepta un rango de $1.70 - $2.00, entonces su precio está alineado
 
 
 Modelo de comunicación empática aplicado al negocio.
