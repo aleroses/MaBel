@@ -1073,6 +1073,40 @@ Para establecer un precio competitivo y rentable, hay que llevar a cabo las sigu
 - Analizar la estrategia de precios de la competencia
 - Conocer el poder adquisitivo del público objetivo
 
+Estrategia de precios
+
+- Definir los objetivos del emprendimiento  
+	¿Qué quiere lograr con su política de precios?  
+	- Maximizar las utilidades
+	- Aumentar la participación de mercado
+	- Posicionarse como un producto premium
+	- Sobrevivir (en mercado muy competitivo o en crisis)
+	- Desalentar a nuevos competidores
+
+- Conocer los costos  
+	Debe tener claro el costo total del producto o servicio:  
+	- Costos fijos (alquiler, sueldo, servicios)
+	- Costos variables (materias primas, comisiones)
+	
+	Esto asegura que el precio cubra los costos y genere utilidad.  
+	Precio mínimo = Costos totales + Margen de ganancia deseado
+
+- Analizar el mercado y la competencia  
+	Estudiar:  
+	- ¿Cuánto están cobrando sus competidores?
+	- ¿Qué valor percibe el cliente en su producto frente a los demás?
+	- ¿Cuál es el rango de precios aceptable para tu segmento de mercado?
+	
+	Esto le permitirá ubicarse mejor dentro del mercado:  
+	Precio superior (estrategia premium)  
+	Precio igual (estrategia de paridad - valor agregado)  
+	Precio inferior (estrategia de penetración)
+
+
+
+
+
+
 
 Modelo de comunicación empática aplicado al negocio.
 
