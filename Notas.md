@@ -730,12 +730,8 @@ Mercado objetivo
 Adaptación a mi proyecto Easy Breakfast:
 
 - Enfoque en **zonas urbanas de alta densidad**
-	- Parroquias estratégicas (alta concentración):
-		- Iñaquito (urbanas)
-		- Calderón (rurales)
-		- Conocoto (rurales)
-		- Solanda (urbanas)
-		- Comité del Pueblo (urbanas)
+	- Parroquia estratégica (alta concentración):
+		- Iñaquito 42.822 habitantes
 
 Esto es ideal para modelo delivery por:
 
@@ -775,25 +771,25 @@ Estrategia:
 - Comunicación neutra
 - Enfoque en mujeres profesionales (segmento fuerte en decisiones alimentarias)
 
-	- Nivel educativo
-		
-		Aunque el factsheet no detalla niveles educativos específicos, por contexto urbano de Quito:
-		
-		- Alta concentración de población con educación secundaria y superior
-		- Zonas como Iñaquito y Cumbayá concentran población universitaria y profesional
+- Nivel educativo
+	
+	Aunque el INEC no detalla niveles educativos específicos, por contexto urbano de Quito:
+	
+	- Alta concentración de población con educación secundaria y superior
+	- Zonas como Iñaquito y Cumbayá concentran población universitaria y profesional
 
 Enfoque:
 
 - Personas con conciencia nutricional
 - Profesionales que valoran alimentación saludable
 
-	- Ingreso y Nivel Socioeconómico
+- Ingreso y Nivel Socioeconómico
+	
+	Datos indirectos relevantes:
 		
-		Datos indirectos relevantes:
-			
-		- 33,7 % de hogares viven en arriendo → movilidad laboral
-		- 46,5 % vivienda propia
-		- Crecimiento en departamentos (49,8 % en 2022 vs 27,4 % en 2001)
+	- 33,7 % de hogares viven en arriendo → movilidad laboral
+	- 46,5 % vivienda propia
+	- Crecimiento en departamentos (49,8 % en 2022 vs 27,4 % en 2001)
 
 Interpretación:
 
@@ -801,42 +797,34 @@ Interpretación:
 - Jóvenes independientes
 - Profesionales que viven solos o en pareja
 
-Target recomendado:
+Target:
 
 - Nivel socioeconómico medio y medio-alto
 - Ingresos estables
 
-	- Profesión (Ideal):
-		
-		- Oficinistas
-		- Empleados públicos
-		- Profesionales independientes
-		- Freelancers
-		- Emprendedores
+- Profesión (Ideal):
+	
+	- Oficinistas
+	- Empleados públicos
+	- Profesionales independientes
+	- Freelancers
+	- Emprendedores
 
-	- Tamaño de la familia - Datos INEC:
-		
-		- Promedio personas por hogar (2022): **3,06**
-		- 17,8 % hogares unipersonales
-		- 21,6 % hogares de 2 personas
-		- 22,5 % hogares de 3 personas
+- Tamaño de la familia - Datos INEC:
+	
+	- Promedio personas por hogar (2022): **3,06**
+	- 17,8 % hogares unipersonales
+	- 21,6 % hogares de 2 personas
+	- 22,5 % hogares de 3 personas
 
-💡 Gran oportunidad:
+Target:
 
 ✔ Personas que viven solas  
 ✔ Parejas jóvenes sin hijos
 
 Perfecto para desayunos individuales premium.
 
-- Etnia, Nacionalidad y Religión
-
-El factsheet no detalla estos puntos específicos, pero Quito es:
-	
-	- Mayoritariamente mestiza
-	- Cultura urbana diversa
-	- Alta aceptación de tendencias saludables
-
-No se recomienda segmentación por religión en este proyecto.
+- Etnia, Nacionalidad y Religión: No relevantes.
 
 ##### 3. Segmentación Psicográfica
 
@@ -870,7 +858,7 @@ No se recomienda segmentación por religión en este proyecto.
 	- Cuidado personal
 	- Bienestar
 
-#### 4. Segmentación Conductual
+##### 4. Segmentación Conductual
 
 - Búsqueda del beneficio
 	
@@ -897,7 +885,6 @@ No se recomienda segmentación por religión en este proyecto.
 	- Se implementan planes semanales
 	- Suscripciones mensuales
 	- Programas de puntos
-
 
 - Nivel “listo para consumir”
 	
