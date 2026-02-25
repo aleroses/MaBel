@@ -1205,8 +1205,6 @@ Operación de **20 días al mes** (lunes a viernes).
 
 1. Análisis de Costos Fijos y Variables
 
-He desglosado tus gastos actuales y añadido algunos **"costos invisibles"** que son vitales (empaques, servilletas y mantenimiento).
-
 Costos Operativos Mensuales (Fijos)
 
 |**Concepto**               |**Costo Detalle**                    |**Total Mensual** |
@@ -1218,42 +1216,33 @@ Costos Operativos Mensuales (Fijos)
 |**Marketing Digital**      |WhatsApp Business / Fotos (estimado) |$10.00            |
 |**TOTAL FIJO**             |                                     |**$917.00**       |
 
-### Costos de Insumos (Variables por Unidad)
+Costos de Insumos (Variables por Unidad)
 
-Aquí es donde calculamos cuánto te cuesta producir **un solo combo** de Hotcakes + Ponche.
+Costo de producción **por combo** de Hotcakes + Ponche.
 
-|**Ingrediente/Insumo**|**Costo estimado por porción**|**Notas**|
-|---|---|---|
-|**Base Hotcakes**|$0.45|Avena, plátano, agua, estevia.|
-|**Toppings**|$0.35|Fresas, mantequilla de maní, etc.|
-|**Ponche de Habas**|$0.50|Harina, huevo, leche, especias.|
-|**Empaques (Lo olvidado)**|$0.30|Contenedor biodegradable + vaso + servilleta.|
-|**TOTAL VARIABLE**|**$1.60**|**Costo de producción por combo.**|
+|**Ingrediente/Insumo** |**Costo estimado por porción**|**Notas**                                    |
+|-----------------------|------------------------------|---------------------------------------------|
+|**Base Hotcakes**      |$0.45                         |Avena, plátano, agua, estevia.               |
+|**Toppings**           |$0.35                         |Fresas, mantequilla de maní, etc.            |
+|**Ponche de Habas**    |$0.50                         |Harina, huevo, leche, especias.              |
+|**Empaques**           |$0.30                         |Contenedor biodegradable + vaso + servilleta.|
+|**TOTAL VARIABLE**     |**$1.60**                     |**Costo de producción por combo.**           |
 
----
-
-## 2. Estrategia de Precios Sugerida
-
-Tus precios base son competitivos para la zona de Iñaquito, pero debemos ajustarlos para cubrir tu alta estructura de costos de transporte y personal.
+2. Estrategia de Precios Sugerida
 
 - **Combo Simple (Hotcakes + Topping básico):** **$3.50** (Margen: $1.90)
-    
 - **Combo Completo (Hotcakes + Ponche):** **$4.50** (Margen: $2.90)
-    
 - **Combo Premium (Extras: Proteína/Yogurt):** **$5.50** (Margen: $3.50)
-    
 
----
+3. Punto de Equilibrio: ¿Cuánto debo vender?
 
-## 3. Punto de Equilibrio: ¿Cuánto debo vender?
+Para cubrir los **$917.00** de costos fijos mensuales con un margen promedio de **$2.90** por desayuno:
 
-Este es el número mágico. Para cubrir los **$917.00** de costos fijos mensuales con un margen promedio de **$2.90** por desayuno:
-
-|**Periodo**|**Meta de Ventas (Unidades)**|**Ingreso Estimado**|
-|---|---|---|
-|**Al Mes**|316 desayunos|$1,422.00|
-|**A la Semana**|79 desayunos|$355.50|
-|**Al Día**|**16 desayunos**|**$72.00**|
+|**Periodo**     |**Meta de Ventas (Unidades)**|**Ingreso Estimado**|
+|----------------|-----------------------------|--------------------|
+|**Al Mes**      |316 desayunos                |$1,422.00           |
+|**A la Semana** |79 desayunos                 |$355.50             |
+|**Al Día**      |**16 desayunos**             |**$72.00**          |
 
 > **Nota crítica:** Con **16 ventas al día** apenas cubres gastos (punto de equilibrio). Para empezar a ver una ganancia real para ti (además de los sueldos de las 2 personas), deberías apuntar a **25-30 desayunos diarios**.
 
