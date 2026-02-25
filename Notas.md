@@ -1244,28 +1244,17 @@ Para cubrir los **$917.00** de costos fijos mensuales con un margen promedio de 
 |**A la Semana** |79 desayunos                 |$355.50             |
 |**Al Día**      |**16 desayunos**             |**$72.00**          |
 
-> **Nota crítica:** Con **16 ventas al día** apenas cubres gastos (punto de equilibrio). Para empezar a ver una ganancia real para ti (además de los sueldos de las 2 personas), deberías apuntar a **25-30 desayunos diarios**.
+Costo total de los combos: $1.60 x 316 = **$505.6**
 
----
+> **Nota crítica:** Con **16 ventas al día** apenas se cubren gastos (punto de equilibrio). Para empezar a ver una ganancia real, se debe apuntar a **25-30 desayunos diarios**.
 
-## 4. Lo que estabas obviando (Checklist)
+4. Otros egresos a considerar
 
-Para que no tengas sorpresas a fin de mes, considera estos puntos:
-
-1. **Empaques:** No los mencionaste. En Iñaquito la gente valora que el empaque sea resistente y, si es posible, ecológico.
-    
-2. **Mermas:** Siempre hay una fresa que se daña o harina que se derrama. Calcula un **5% de pérdida** en tus compras.
-    
-3. **Mantenimiento:** Las licuadoras y sartenes se desgastan. Guarda unos $5-$10 al mes para reposiciones.
-    
-4. **Publicidad física:** Unos volantes o un código QR en tu mochila de reparto para que te guarden en WhatsApp.
-    
-
-## Próximo Paso Recomendado
-
-La logística ($12.45 diarios) es muy alta para un volumen bajo de ventas. Representa casi el 27% de tus gastos fijos.
-
-¿Te gustaría que te ayude a redactar un **mensaje de preventa para WhatsApp** o diseñar un **menú sencillo** para enviar a tus clientes potenciales en Iñaquito?
+- **Empaques:** La gente valora que el empaque sea resistente y, si es posible, ecológico.
+- **Mermas:** Siempre hay una fresa que se daña o harina que se derrama. Se debe calcular un **5% de pérdida** en tus compras.
+- **Mantenimiento:** Las licuadoras y sartenes se desgastan. Se debe guardar unos $5-$10 al mes para reposiciones.
+- **Publicidad física:** Volantes o código QR en la mochila de reparto para que guarden a Easy Breakfast en WhatsApp.
+ 
 
 
 
@@ -1273,36 +1262,6 @@ La logística ($12.45 diarios) es muy alta para un volumen bajo de ventas. Repre
 
 
 
----
-
-Hotcakes por día:
-      
-      Dólares
-Avena: $1.35 x libra
-Agua: $35.00 al mes
-Plátano: $1.00 x 10 unidades
-Fresa: $1.50 x libra
-Mantequilla de maní: $5.00 x envase
-
-Ponche de Habas por día:
-
-Harina de habas: $2.00 x libra
-Canela: $1.00 x sobre
-Clavos de olor: $1.00 x sobre
-Huevos: $1.00 x 3 unidades
-Leche: $1.00 x envase
-Estevia: $4.00 x envase
-
-Gas: $4.00 el balon
-Electricidad: $15.00 al mes
-
-Producción:
-
-2 personas: $30.00 el día
-
-Entrega:
-
-Para llegar a iñaquito debo tomar un taxi y luego repartir caminando, por lo que me cuesta $12.00 en ir, para volver puedo tomar el metro y eso me gusta $0.45 dolares.
 
 ---
 
