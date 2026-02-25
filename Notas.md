@@ -1137,6 +1137,155 @@ Estrategia de precios
 
 Modelo de comunicación empática aplicado al negocio.
 
+[4 "P" del Marketing](https://asana.com/es/resources/4-ps-of-marketing)
+
+#### 🥗 Easy Breakfast: Las 4 P’s del _Marketing mix_
+
+##### 1. Producto: ¿Qué vendes y por qué importa?)
+
+El producto es aquello que ofreces para resolver una necesidad del cliente, ya sea un bien físico o un servicio. Debes entender **qué problema resuelve tu producto, quién lo quiere y qué lo hace diferente**.
+
+**Definición:** 
+
+Servicio de desayunos saludables y rápidos, ideal para personas ocupadas que quieren cuidar su salud.
+
+Easy Breakfast es un servicio de desayunos saludables preparados bajo pedido y entregados a domicilio en el sector de Iñaquito, dirigido a personas ocupadas que desean alimentarse de manera nutritiva sin perder tiempo.
+
+**Beneficio principal:** ¿Qué problema resuelvo?
+
+✔ Permite a personas ocupadas acceder a un desayuno saludable y equilibrado sin invertir tiempo en prepararlo.
+
+Problema: Falta de tiempo + mala alimentación.  
+Solución: Desayuno saludable listo y entregado.
+
+**Valor diferencial**
+
+✔ Desayunos preparados con ingredientes frescos y seleccionados, diseñados para aportar energía y bienestar, con entrega rápida y puntual dentro del sector de Iñaquito.
+    
+- Enfócate en _salud + conveniencia_ (más que solo comida rápida).  
+    **Propuesta de valor sugerida:** Al adquirir nuestros productos alimenticios no solo adquieres un desayuno, también adquieres salud y longevidad.
+    
+
+> “Desayunos saludables, deliciosos y rápidos para quienes cuidan su bienestar sin sacrificar tiempo.”  
+
+## 💰 **2. Precio** (¿Cuánto cobras?)
+
+El precio debe reflejar **valor percibido + competencia + costos internos**. Asana indica que es clave alinear coste con lo que el cliente está dispuesto a pagar. ([Asana](https://asana.com/es/resources/4-ps-of-marketing?utm_source=chatgpt.com "Qué es el marketing mix y cómo aplicar las 4Ps con éxito [2025] • Asana"))
+
+### 🥑 _Aplicación a Easy Breakfast_
+
+✔ **Estudio de mercado:**
+
+- ¿Qué cobran otros desayunos saludables en tu ciudad?  
+    ✔ **Costos + margen:**
+    
+- Determina tus costos de ingredientes, producción y entrega.
+    
+- Define un **margen de ganancia deseado**.  
+    ✔ **Estrategia de precios a considerar:**
+    
+- **Precio equilibrado:** competitivo pero refleja ingredientes de calidad.
+    
+- **Paquetes o descuentos:** combos de desayuno + bebida a menor precio.
+    
+- **Opciones de suscripción:** plan semanal para clientes frecuentes.
+    
+
+---
+
+## 📍 **3. Plaza (Punto de venta / Distribución)**
+
+“No solo dónde vendes, sino **dónde tus clientes están presentes**.” Asana recomienda pensar en dónde comprarán tus clientes y cómo preferirán acceder a tu servicio. ([Asana](https://asana.com/es/resources/4-ps-of-marketing?utm_source=chatgpt.com "Qué es el marketing mix y cómo aplicar las 4Ps con éxito [2025] • Asana"))
+
+### 🥐 _Aplicación a Easy Breakfast_
+
+✔ **Canales de venta**
+
+- **Físico (tienda o kiosco)** ideal si tus clientes transitan por zonas urbanas o laborales.
+    
+- **Pedidos online y entrega a domicilio** si tu público objetivo es urbano, ocupado y valora comodidad.  
+    ✔ **Dónde promocionar tu servicio**
+    
+- Apps de delivery, redes sociales, grupos locales.  
+    ✔ **Acceso para el cliente:**
+    
+- Proceso de pedido rápido y claro (app simple o WhatsApp Business).
+    
+- Posibilidad de **preordenar desayunos por la mañana**.
+    
+
+---
+
+## 📣 **4. Promoción** (¿Cómo lo das a conocer?)
+
+Asana explica que la promoción abarca todos los mensajes y canales que usas para **comunicar el valor de tu producto** al cliente ideal. ([Asana](https://asana.com/es/resources/4-ps-of-marketing?utm_source=chatgpt.com "Qué es el marketing mix y cómo aplicar las 4Ps con éxito [2025] • Asana"))
+
+### 🍳 _Aplicación a Easy Breakfast_
+
+✔ **Define tono y voz de la marca:**  
+Saludable, amistosa, cercana.  
+✔ **Canales adecuados:**
+
+- **Redes sociales:** Instagram, TikTok, Facebook para mostrar fotos y videos de desayunos saludables.
+    
+- **Marketing local:** flyers, alianzas con oficinas o gimnasios cercanos.
+    
+- **Promociones por tiempo limitado:** “Desayuno saludable + jugo natural $2 de descuento en tu primera compra.”  
+    ✔ **Mensajes efectivos:**
+    
+- Explica **qué obtienen** y **por qué es especial** (rapidísimo, nutritivo, delicioso).
+    
+
+---
+
+## 📊 **Integración práctica con ejemplos concretos**
+
+Cada ‘P’ no es independiente; deben conectarse entre sí:  
+✔ **Producto:** desayuno saludable (“Bowl Energético”).  
+✔ **Precio:** $X con opción de combo diario.  
+✔ **Plaza:** disponible en local físico + delivery.  
+✔ **Promoción:** campaña en redes con testimonios y fotos llamativas.
+
+---
+
+## 🧩 **Resumen aplicado a Easy Breakfast**
+
+|P|Acción recomendada en _Easy Breakfast_|
+|---|---|
+|**Producto**|Define tu producto central + propuesta de valor clara|
+|**Precio**|Ajusta según costo, competencia y percepción de valor|
+|**Plaza**|Ofrece puntos de venta físico + online entregas|
+|**Promoción**|Usa redes sociales, contenido visual, ofertas especiales|
+
+---
+
+Si necesitas, puedo ayudarte también con **ejemplos de publicaciones para redes sociales o un mini plan promocional completo** basado en estas 4 P’s para Easy Breakfast 😊.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
