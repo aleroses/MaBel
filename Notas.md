@@ -1158,19 +1158,27 @@ Easy Breakfast es un servicio de desayunos saludables preparados bajo pedido y e
 Problema: Falta de tiempo + mala alimentación.  
 Solución: Desayuno saludable listo y entregado.
 
-**Valor diferencial**
+**Valor diferencial:**
 
 ✔ Desayunos preparados con ingredientes frescos y seleccionados, diseñados para aportar energía y bienestar, con entrega rápida y puntual dentro del sector de Iñaquito.
-    
-- Enfócate en _salud + conveniencia_ (más que solo comida rápida).  
-    **Propuesta de valor sugerida:** Al adquirir nuestros productos alimenticios no solo adquieres un desayuno, también adquieres salud y longevidad.
-    
+
+Otro:
+
+✔ Ofrecemos desayunos funcionales diseñados para aportar energía sostenida durante la mañana, diferenciándonos de las opciones tradicionales altas en azúcar y ultraprocesados.
+
+**Propuesta de valor:**
+
+✔ “Desayunos saludables y listos para ti, sin perder tiempo.”
+
+Otro:
+
+✔ “Alimentación saludable, rápida y entregada donde estés.”
 
 > “Desayunos saludables, deliciosos y rápidos para quienes cuidan su bienestar sin sacrificar tiempo.”  
 
-## 💰 **2. Precio** (¿Cuánto cobras?)
+##### 2. Precio: ¿Cuánto cobras?
 
-El precio debe reflejar **valor percibido + competencia + costos internos**. Asana indica que es clave alinear coste con lo que el cliente está dispuesto a pagar. ([Asana](https://asana.com/es/resources/4-ps-of-marketing?utm_source=chatgpt.com "Qué es el marketing mix y cómo aplicar las 4Ps con éxito [2025] • Asana"))
+El precio debe reflejar **valor percibido + competencia + costos internos**. Es clave alinear coste con lo que el cliente está dispuesto a pagar.
 
 ### 🥑 _Aplicación a Easy Breakfast_
 
@@ -1257,9 +1265,7 @@ Cada ‘P’ no es independiente; deben conectarse entre sí:
 |**Plaza**|Ofrece puntos de venta físico + online entregas|
 |**Promoción**|Usa redes sociales, contenido visual, ofertas especiales|
 
----
 
-Si necesitas, puedo ayudarte también con **ejemplos de publicaciones para redes sociales o un mini plan promocional completo** basado en estas 4 P’s para Easy Breakfast 😊.
 
 
 
@@ -1339,3 +1345,30 @@ Amenazas
 - Cambios en hábitos de consumo.
 - Problemas logísticos en entregas.
 
+---
+
+#### Necesitas saber:
+
+1. ¿Tus desayunos son personalizados?  
+	Debe existir un catálogo en nuestra web mostrando alguna variedad de desayunos saludables, podrían ser como base hotcakes de avena con mantequilla de mani encima o quizá mermelada de café (usaremos estevia o algo parecido para endulzar), encima puedes elegir añadir rodajas de plátano, fresas picadas o arándanos picados. Pero esa es solo una alternativa, me gustaría que crees al menos 5 desayunos más que se puedan personalizar y donde se puedan añadir o quitar cosas, algo parecido al desayuno que ya te describí. Ah y una bebida que no he visto es ponche de habas, es muy nutritiva y podría sumar bebida de maca o cosas así.
+
+2. ¿Son planes semanales o pedidos individuales?  
+	Podrán desde la web hacer pedidos individuales por día, pero también pedidos semanales, Mientras más volumen compren de usa sola vez, se les podrá hacer un descuento. Estos desayunos se los podrán llevar al trabajo y comerlos de manera cómoda mientras hacen sus actividades, ya que no necesitan calentar nada.
+
+3. ¿Incluyes conteo calórico o enfoque fitness?  
+	Sí, me encantaría añadir las calorías que están consumiendo y crearles un Base de datos donde puedan ver desde la web su historial de lo que van comiendo con nosotros, al pedir sus desayunos en Easy Breakfast.
+	
+4. ¿Tu público principal es:  
+    
+    - Oficinistas?
+        
+    - Personas fitness?
+        
+    - Universitarios?
+        
+    - Público premium?  
+	
+	Creo que todas estas encajan mientras quieran desayunar bien sin tener que preparar ellos mismos su comida. Me imagino a alguien que se tiene que ir al trabajo a las 7 am y no pudo desayunar o no quiere desayunar tan temprano, entonces ahí llegamos nosotros con su desayuno listo para llevar al trabajo.
+
+5. ¿Tu modelo es preventa (pedido anticipado) o entrega inmediata?  
+	Es entrega preventa, deberás pedir el día anterior que es lo que quieres desayunar mañana, así nosotros lo podremos preparar en la madrugada y poder tenerlo listo antes de las 6 am.	
