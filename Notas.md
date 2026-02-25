@@ -1149,7 +1149,7 @@ El producto es aquello que ofreces para resolver una necesidad del cliente, ya s
 
 Servicio de desayunos saludables y rápidos, ideal para personas ocupadas que quieren cuidar su salud.
 
-Easy Breakfast es un servicio de desayunos saludables preparados bajo pedido y entregados a domicilio en el sector de Iñaquito, dirigido a personas ocupadas que desean alimentarse de manera nutritiva sin perder tiempo.
+Easy Breakfast es un servicio de desayunos saludables preparados bajo modalidad de preventa y entregados a domicilio en el sector de Iñaquito, dirigido a personas ocupadas que desean alimentarse de manera nutritiva sin perder tiempo.
 
 **Beneficio principal:** ¿Qué problema resuelvo?
 
@@ -1166,13 +1166,21 @@ Otro:
 
 ✔ Ofrecemos desayunos funcionales diseñados para aportar energía sostenida durante la mañana, diferenciándonos de las opciones tradicionales altas en azúcar y ultraprocesados.
 
+- Personalización del desayuno.
+- Información calórica visible.
+- Historial de consumo en la web.
+- Entrega temprana lista para llevar (no requiere calentarse).
+- Enfoque preventa → frescura garantizada.
+- Bebidas tradicionales nutritivas poco explotadas (ej. ponche de habas).
+
 **Propuesta de valor:**
 
 ✔ “Desayunos saludables y listos para ti, sin perder tiempo.”
 
 Otro:
 
-✔ “Alimentación saludable, rápida y entregada donde estés.”
+✔ “Alimentación saludable, rápida y entregada donde estés.”  
+✔ “Desayunos saludables personalizados, listos antes de que empiece tu día.”
 
 > “Desayunos saludables, deliciosos y rápidos para quienes cuidan su bienestar sin sacrificar tiempo.”  
 
@@ -1180,23 +1188,211 @@ Otro:
 
 El precio debe reflejar **valor percibido + competencia + costos internos**. Es clave alinear coste con lo que el cliente está dispuesto a pagar.
 
-### 🥑 _Aplicación a Easy Breakfast_
-
 ✔ **Estudio de mercado:**
 
-- ¿Qué cobran otros desayunos saludables en tu ciudad?  
-    ✔ **Costos + margen:**
+- ¿Cuánto cuestan otros desayunos saludables en tu ciudad?  
+    ✔ **Costos + margen:** El mercado al que apunta Easy Breakfast no tiene competencia directa, ni usan el sistema que se propone.
+	
+- ¿Cuánto están dispuestos a gastar tus clientes?  
+	✔ Mis clientes potenciales son oficinistas, profesionales jóvenes, emprendedores, personas fitness que practican deporte, universitarios con rutina intensa, entre otro público que se puede permitir gastar entre 5 y 10 dólares en un desayuno saludable.
+	
+- ¿Puede tu producto tener varios niveles de precio?  
+	✔ Primero determinemos los costos para al final obtener un precio por productos.
+
+**Costos:**
+
+Operación de **20 días al mes** (lunes a viernes).
+
+1. Análisis de Costos Fijos y Variables
+
+He desglosado tus gastos actuales y añadido algunos **"costos invisibles"** que son vitales (empaques, servilletas y mantenimiento).
+
+Costos Operativos Mensuales (Fijos)
+
+|**Concepto**               |**Costo Detalle**                    |**Total Mensual** |
+|---------------------------|-------------------------------------|------------------|
+|**Mano de Obra**           |2 personas ($30/día x 20 días)       |$600.00           |
+|**Transporte (Logística)** |$12.45 ida y vuelta x 20 días        |$249.00           |
+|**Servicios Básicos**      |Agua ($35) + Electricidad ($15)      |$50.00            |
+|**Gas**                    |2 balones al mes (estimado)          |$8.00             |
+|**Marketing Digital**      |WhatsApp Business / Fotos (estimado) |$10.00            |
+|**TOTAL FIJO**             |                                     |**$917.00**       |
+
+### Costos de Insumos (Variables por Unidad)
+
+Aquí es donde calculamos cuánto te cuesta producir **un solo combo** de Hotcakes + Ponche.
+
+|**Ingrediente/Insumo**|**Costo estimado por porción**|**Notas**|
+|---|---|---|
+|**Base Hotcakes**|$0.45|Avena, plátano, agua, estevia.|
+|**Toppings**|$0.35|Fresas, mantequilla de maní, etc.|
+|**Ponche de Habas**|$0.50|Harina, huevo, leche, especias.|
+|**Empaques (Lo olvidado)**|$0.30|Contenedor biodegradable + vaso + servilleta.|
+|**TOTAL VARIABLE**|**$1.60**|**Costo de producción por combo.**|
+
+---
+
+## 2. Estrategia de Precios Sugerida
+
+Tus precios base son competitivos para la zona de Iñaquito, pero debemos ajustarlos para cubrir tu alta estructura de costos de transporte y personal.
+
+- **Combo Simple (Hotcakes + Topping básico):** **$3.50** (Margen: $1.90)
     
-- Determina tus costos de ingredientes, producción y entrega.
+- **Combo Completo (Hotcakes + Ponche):** **$4.50** (Margen: $2.90)
     
+- **Combo Premium (Extras: Proteína/Yogurt):** **$5.50** (Margen: $3.50)
+    
+
+---
+
+## 3. Punto de Equilibrio: ¿Cuánto debo vender?
+
+Este es el número mágico. Para cubrir los **$917.00** de costos fijos mensuales con un margen promedio de **$2.90** por desayuno:
+
+|**Periodo**|**Meta de Ventas (Unidades)**|**Ingreso Estimado**|
+|---|---|---|
+|**Al Mes**|316 desayunos|$1,422.00|
+|**A la Semana**|79 desayunos|$355.50|
+|**Al Día**|**16 desayunos**|**$72.00**|
+
+> **Nota crítica:** Con **16 ventas al día** apenas cubres gastos (punto de equilibrio). Para empezar a ver una ganancia real para ti (además de los sueldos de las 2 personas), deberías apuntar a **25-30 desayunos diarios**.
+
+---
+
+## 4. Lo que estabas obviando (Checklist)
+
+Para que no tengas sorpresas a fin de mes, considera estos puntos:
+
+1. **Empaques:** No los mencionaste. En Iñaquito la gente valora que el empaque sea resistente y, si es posible, ecológico.
+    
+2. **Mermas:** Siempre hay una fresa que se daña o harina que se derrama. Calcula un **5% de pérdida** en tus compras.
+    
+3. **Mantenimiento:** Las licuadoras y sartenes se desgastan. Guarda unos $5-$10 al mes para reposiciones.
+    
+4. **Publicidad física:** Unos volantes o un código QR en tu mochila de reparto para que te guarden en WhatsApp.
+    
+
+## Próximo Paso Recomendado
+
+La logística ($12.45 diarios) es muy alta para un volumen bajo de ventas. Representa casi el 27% de tus gastos fijos.
+
+¿Te gustaría que te ayude a redactar un **mensaje de preventa para WhatsApp** o diseñar un **menú sencillo** para enviar a tus clientes potenciales en Iñaquito?
+
+
+
+
+
+
+
+---
+
+Hotcakes por día:
+      
+      Dólares
+Avena: $1.35 x libra
+Agua: $35.00 al mes
+Plátano: $1.00 x 10 unidades
+Fresa: $1.50 x libra
+Mantequilla de maní: $5.00 x envase
+
+Ponche de Habas por día:
+
+Harina de habas: $2.00 x libra
+Canela: $1.00 x sobre
+Clavos de olor: $1.00 x sobre
+Huevos: $1.00 x 3 unidades
+Leche: $1.00 x envase
+Estevia: $4.00 x envase
+
+Gas: $4.00 el balon
+Electricidad: $15.00 al mes
+
+Producción:
+
+2 personas: $30.00 el día
+
+Entrega:
+
+Para llegar a iñaquito debo tomar un taxi y luego repartir caminando, por lo que me cuesta $12.00 en ir, para volver puedo tomar el metro y eso me gusta $0.45 dolares.
+
+---
+
+# 📊 Estrategia recomendada de precios
+
+En lugar de $2.50 base, te recomiendo:
+
+Precio base desayuno simple: **$3.25**  
+Con bebida: **$4.25**  
+Con extras premium: hasta **$5.00**
+
+Porque:
+
+Tu servicio incluye:
+
+- Personalización
+    
+- Entrega
+    
+- Conteo calórico
+    
+- Preparación fresca
+    
+
+Eso no es desayuno común.
+
+---
+
+# 📦 Estrategia de paquetes
+
+## 🔹 Individual diario
+
+Precio estándar (más alto)
+
+## 🔹 Plan semanal (5 días)
+
+5% – 8% descuento
+
+## 🔹 Plan mensual
+
+10% descuento
+
+---
+
+Ejemplo:
+
+Desayuno + bebida diario = $4.25  
+Semanal = $4.00 por día  
+Mensual = $3.80 por día
+
+Ahí incentivas volumen.
+
+---
+
+# 🎯 Estrategia de precios recomendada
+
+Para tu caso la mejor estrategia es:
+
+## ✔ Precio basado en valor + suscripción
+
+No penetración baja.  
+No premium exagerado.  
+No competir por barato.
+
+Tu diferenciación es:  
+Conveniencia + salud + personalización.
+
+---
 - Define un **margen de ganancia deseado**.  
-    ✔ **Estrategia de precios a considerar:**
+    ✔ **Estrategia de precios a considerar:** No estoy muy seguro, quizá el 50% del total de ingresos, aquí necesito que me des la mejor opción.
     
 - **Precio equilibrado:** competitivo pero refleja ingredientes de calidad.
+	- Creo que un desayuno podría costar $2.50 pero añadiendole extras hasta $3.80 aqui igual requiero de tu ayuda.
     
 - **Paquetes o descuentos:** combos de desayuno + bebida a menor precio.
+	Si, me gustaria hacer entregas por combos, quizá es una familia sin tiempo y los hijos se van sin desayunar entonces por dos desayunos + bebina se podría hacer un descuento quizá del 5%, igual sugiereme mas alternativas.
     
-- **Opciones de suscripción:** plan semanal para clientes frecuentes.
+- **Opciones de suscripción:** plan semanal para clientes frecuentes.  
+	Podrían suscribirse con un plan semanal y mensual, pero tambien diario solo que al ser el pedido diario cuesta un poco mas. Ayudame a dejar esto listo y como version final con la información que te he proporcionado, si necesitas saber mas dimelo y te doy la info.
     
 
 ---
@@ -1372,3 +1568,159 @@ Amenazas
 
 5. ¿Tu modelo es preventa (pedido anticipado) o entrega inmediata?  
 	Es entrega preventa, deberás pedir el día anterior que es lo que quieres desayunar mañana, así nosotros lo podremos preparar en la madrugada y poder tenerlo listo antes de las 6 am.	
+
+#### 6 desayunos estratégicos personalizables:
+
+1️⃣ Hotcakes Energéticos (base que ya mencionaste)
+
+Base:
+
+- Hotcakes de avena con estevia
+    
+
+Opciones de topping:
+
+- Plátano
+    
+- Fresas
+    
+- Arándanos
+    
+- Mantequilla de maní
+    
+- Mermelada de café
+    
+- Semillas de chía
+    
+
+Extras:
+
+- Proteína vegetal
+    
+- Yogurt griego
+    
+
+---
+
+2️⃣ Bowl Power Fit
+
+Base:
+
+- Yogurt griego o vegetal
+    
+
+Toppings:
+
+- Granola sin azúcar
+    
+- Frutas frescas
+    
+- Semillas (linaza, chía)
+    
+- Miel o estevia
+    
+
+Extras:
+
+- Scoop de proteína
+    
+- Mantequilla de almendra
+    
+
+---
+
+3️⃣ Sándwich Integral Funcional
+
+Base:
+
+- Pan integral
+    
+
+Relleno opcional:
+
+- Huevo
+    
+- Aguacate
+    
+- Queso bajo en grasa
+    
+- Pavo
+    
+- Espinaca
+    
+
+Extras:
+
+- Salsa saludable casera
+    
+- Tomate cherry
+    
+
+---
+
+4️⃣ Wrap Desayuno Energético
+
+Base:
+
+- Tortilla integral
+    
+
+Opciones:
+
+- Huevo revuelto
+    
+- Vegetales salteados
+    
+- Queso ligero
+    
+- Pollo desmenuzado
+    
+
+---
+
+5️⃣ Parfait Antioxidante
+
+Capas de:
+
+- Yogurt
+    
+- Frutos rojos
+    
+- Avena tostada
+    
+- Semillas
+    
+
+---
+
+6️⃣ Bowl Andino Nutritivo (diferenciación local)
+
+Base:
+
+- Quinua cocida
+    
+
+Opciones:
+
+- Frutas
+    
+- Frutos secos
+    
+- Miel natural
+    
+- Coco rallado
+    
+
+---
+
+🥤 Bebidas diferenciadoras
+
+- Ponche de habas
+    
+- Bebida de maca
+    
+- Batido de avena con proteína
+    
+- Jugo verde detox
+    
+- Café orgánico sin azúcar
