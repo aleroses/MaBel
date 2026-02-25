@@ -1188,17 +1188,6 @@ Otro:
 
 El precio debe reflejar **valor percibido + competencia + costos internos**. Es clave alinear coste con lo que el cliente está dispuesto a pagar.
 
-✔ **Estudio de mercado:**
-
-- ¿Cuánto cuestan otros desayunos saludables en tu ciudad?  
-    ✔ **Costos + margen:** El mercado al que apunta Easy Breakfast no tiene competencia directa, ni usan el sistema que se propone.
-	
-- ¿Cuánto están dispuestos a gastar tus clientes?  
-	✔ Mis clientes potenciales son oficinistas, profesionales jóvenes, emprendedores, personas fitness que practican deporte, universitarios con rutina intensa, entre otro público que se puede permitir gastar entre 5 y 10 dólares en un desayuno saludable.
-	
-- ¿Puede tu producto tener varios niveles de precio?  
-	✔ Primero determinemos los costos para al final obtener un precio por productos.
-
 **Costos:**
 
 Operación de **20 días al mes** (lunes a viernes).
@@ -1255,101 +1244,43 @@ Costo total de los combos: $1.60 x 316 = **$505.6**
 - **Mantenimiento:** Las licuadoras y sartenes se desgastan. Se debe guardar unos $5-$10 al mes para reposiciones.
 - **Publicidad física:** Volantes o código QR en la mochila de reparto para que guarden a Easy Breakfast en WhatsApp.
  
-
-
-
-
-
-
-
-
----
-
-# 📊 Estrategia recomendada de precios
-
-En lugar de $2.50 base, te recomiendo:
-
-Precio base desayuno simple: **$3.25**  
-Con bebida: **$4.25**  
-Con extras premium: hasta **$5.00**
-
-Porque:
-
-Tu servicio incluye:
+El servicio incluye:
 
 - Personalización
-    
 - Entrega
-    
 - Conteo calórico
-    
 - Preparación fresca
-    
 
-Eso no es desayuno común.
+Este no es un desayuno común.
 
----
+✔ **Estudio de mercado:**
 
-# 📦 Estrategia de paquetes
+- ¿Cuánto cuestan otros desayunos saludables en tu ciudad?  
+    ✔ **Costos + margen:** El mercado al que apunta Easy Breakfast no tiene competencia directa, ni usan el sistema que se propone.
+	
+- ¿Cuánto están dispuestos a gastar tus clientes?  
+	✔ Mis clientes potenciales son oficinistas, profesionales jóvenes, emprendedores, personas fitness que practican deporte, universitarios con rutina intensa, entre otro público que se puede permitir gastar entre 5 y 10 dólares en un desayuno saludable.
+	
+- ¿Puede tu producto tener varios niveles de precio?  
+	✔ Si el cliente quiere sus desayunos para todo el mes se le hace un descuento, si quiere para la semana igual, pero si es diario no obtiene ese beneficio.
+	
+	Estrategia de paquetes
 
-## 🔹 Individual diario
+	🔹 Individual diario: Precio estándar (más alto)
+	
+	🔹 Plan semanal (5 días): 4% descuento
+	
+	🔹 Plan mensual: 8% descuento
+	
+	Ejemplo:
+	
+	Desayuno + bebida diario = $4.50  
+	Semanal = $4.32 por día  
+	Mensual = $4.14 por día
 
-Precio estándar (más alto)
+##### 3. Plaza: Punto de venta / Distribución
 
-## 🔹 Plan semanal (5 días)
-
-5% – 8% descuento
-
-## 🔹 Plan mensual
-
-10% descuento
-
----
-
-Ejemplo:
-
-Desayuno + bebida diario = $4.25  
-Semanal = $4.00 por día  
-Mensual = $3.80 por día
-
-Ahí incentivas volumen.
-
----
-
-# 🎯 Estrategia de precios recomendada
-
-Para tu caso la mejor estrategia es:
-
-## ✔ Precio basado en valor + suscripción
-
-No penetración baja.  
-No premium exagerado.  
-No competir por barato.
-
-Tu diferenciación es:  
-Conveniencia + salud + personalización.
-
----
-- Define un **margen de ganancia deseado**.  
-    ✔ **Estrategia de precios a considerar:** No estoy muy seguro, quizá el 50% del total de ingresos, aquí necesito que me des la mejor opción.
-    
-- **Precio equilibrado:** competitivo pero refleja ingredientes de calidad.
-	- Creo que un desayuno podría costar $2.50 pero añadiendole extras hasta $3.80 aqui igual requiero de tu ayuda.
-    
-- **Paquetes o descuentos:** combos de desayuno + bebida a menor precio.
-	Si, me gustaria hacer entregas por combos, quizá es una familia sin tiempo y los hijos se van sin desayunar entonces por dos desayunos + bebina se podría hacer un descuento quizá del 5%, igual sugiereme mas alternativas.
-    
-- **Opciones de suscripción:** plan semanal para clientes frecuentes.  
-	Podrían suscribirse con un plan semanal y mensual, pero tambien diario solo que al ser el pedido diario cuesta un poco mas. Ayudame a dejar esto listo y como version final con la información que te he proporcionado, si necesitas saber mas dimelo y te doy la info.
-    
-
----
-
-## 📍 **3. Plaza (Punto de venta / Distribución)**
-
-“No solo dónde vendes, sino **dónde tus clientes están presentes**.” Asana recomienda pensar en dónde comprarán tus clientes y cómo preferirán acceder a tu servicio. ([Asana](https://asana.com/es/resources/4-ps-of-marketing?utm_source=chatgpt.com "Qué es el marketing mix y cómo aplicar las 4Ps con éxito [2025] • Asana"))
-
-### 🥐 _Aplicación a Easy Breakfast_
+“No solo dónde vendes, sino **dónde tus clientes están presentes**.” Se recomienda pensar en dónde comprarán tus clientes y cómo preferirán acceder a tu servicio.
 
 ✔ **Canales de venta**
 
@@ -1368,11 +1299,12 @@ Conveniencia + salud + personalización.
 
 ---
 
-## 📣 **4. Promoción** (¿Cómo lo das a conocer?)
+##### 4. Promoción: ¿Cómo lo das a conocer?)
 
 Asana explica que la promoción abarca todos los mensajes y canales que usas para **comunicar el valor de tu producto** al cliente ideal. ([Asana](https://asana.com/es/resources/4-ps-of-marketing?utm_source=chatgpt.com "Qué es el marketing mix y cómo aplicar las 4Ps con éxito [2025] • Asana"))
 
-### 🍳 _Aplicación a Easy Breakfast_
+
+
 
 ✔ **Define tono y voz de la marca:**  
 Saludable, amistosa, cercana.  
@@ -1387,28 +1319,6 @@ Saludable, amistosa, cercana.
     
 - Explica **qué obtienen** y **por qué es especial** (rapidísimo, nutritivo, delicioso).
     
-
----
-
-## 📊 **Integración práctica con ejemplos concretos**
-
-Cada ‘P’ no es independiente; deben conectarse entre sí:  
-✔ **Producto:** desayuno saludable (“Bowl Energético”).  
-✔ **Precio:** $X con opción de combo diario.  
-✔ **Plaza:** disponible en local físico + delivery.  
-✔ **Promoción:** campaña en redes con testimonios y fotos llamativas.
-
----
-
-## 🧩 **Resumen aplicado a Easy Breakfast**
-
-|P|Acción recomendada en _Easy Breakfast_|
-|---|---|
-|**Producto**|Define tu producto central + propuesta de valor clara|
-|**Precio**|Ajusta según costo, competencia y percepción de valor|
-|**Plaza**|Ofrece puntos de venta físico + online entregas|
-|**Promoción**|Usa redes sociales, contenido visual, ofertas especiales|
-
 
 
 
