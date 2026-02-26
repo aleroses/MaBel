@@ -1355,41 +1355,61 @@ La promoción abarca todos los mensajes y canales que usas para **comunicar el v
 
 La promoción es _cómo_ estás promoviendo la venta.
 
-- ¿Quién es tu público objetivo?  
-	✔ - 20 a 45 años
-	
-	- Jóvenes profesionales
-	- Universitarios
-	- Personas activas laboralmente
-	
-	Este grupo:
-	
-	- Tiene poder adquisitivo propio
-	- Compra por conveniencia
-	- Usa apps y redes sociales
+✔ Público objetivo definido estratégicamente
+
+Edad: 20 – 45 años  
+Ubicación: Iñaquito y alrededores  
+Perfil:
+
+- Profesionales ocupados.
+- Personas fitness.
+- Universitarios.
+- Padres jóvenes.
+- Personas que valoran salud + conveniencia.
 
 - ¿Cómo quieres que se perciba tu marca?  
 	- Alimentos saludables y listos para comer.
 
-- ¿Qué canales de distribución utiliza nuestro público objetivo para recibir información?
-	
-	✔ **Canales adecuados:** Publicidad por volantes y redes sociales:
-	
-	✔ Redes sociales:** Instagram, TikTok, Facebook para mostrar fotos y videos de desayunos saludables.
-	    
-	- **Marketing local:** flyers, alianzas con oficinas o gimnasios cercanos.
-    
-	- **Promociones por tiempo limitado:** “Desayuno saludable + jugo natural $2 de descuento en tu primera compra.”  
-    ✔ **Mensajes efectivos:**
-    
-- Explica **qué obtienen** y **por qué es especial** (rapidísimo, nutritivo, delicioso).
-    
+✔ Posicionamiento de marca
 
+Easy Breakfast debe percibirse como:
 
+- Saludable.
+- Moderna.
+- Práctica.
+- Confiable.
+- Energética.
+- Profesional.
 
+No como comida barata.  
+No como comida rápida común.
 
+✔ Canales promocionales estratégicos
 
+🔹Redes sociales principales
 
+- Instagram → Fotos atractivas y reels.  
+- TikTok → Videos cortos mostrando preparación madrugadora.  
+- Facebook → Segmento 30-45 años.
+
+No se necesita LinkedIn al inicio.
+
+🔹Marketing local inteligente
+
+- Alianzas con gimnasios.
+- Alianzas con coworkings.
+- Descuentos para oficinas completas.
+- Flyers estratégicos (no masivos).
+
+✔ Mensaje promocional ejemplo
+
+> “Tu mañana empieza antes de las 6. La nuestra también.”
+
+O:
+
+> “Mientras tú te preparas para el día, nosotros ya preparamos tu energía.”
+
+Eso conecta emocionalmente.
 
 
 
