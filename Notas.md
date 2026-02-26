@@ -1556,63 +1556,37 @@ Al ser este un emprendimiento pequeño, el Director también debe asumir:
 - Control de insumos.
 - Estandarización de recetas.
 
----
-
-### 🔹 Marketing y Ventas
+🔹 Marketing y Ventas
 
 - Gestión de redes sociales.
-    
 - Publicidad digital.
-    
 - Atención al cliente.
-    
 - Gestión de pedidos.
-    
 
----
-
-### 🔹 Finanzas y Contabilidad
+🔹 Finanzas y Contabilidad
 
 - Control de costos.
-    
 - Registro de ingresos.
-    
 - Flujo de caja.
-    
 - Pago a proveedores.
-    
 
----
-
-### 🔹 Recursos Humanos
+🔹 Recursos Humanos
 
 _(Puede estar integrado a Finanzas en etapa inicial)_
 
 - Contratación.
-    
 - Control de horarios.
-    
 - Pago de beneficios.
-    
 - Clima laboral.
-    
 
----
-
-### 🔹 Logística y Distribución (Área clave para tu modelo delivery)
+🔹 Logística y Distribución (Área clave para tu modelo delivery)
 
 - Organización de rutas.
-    
 - Entrega puntual.
-    
 - Coordinación con repartidores.
-    
 - Control de tiempos.
-    
 
----
-
-# 2️⃣ ORGANIGRAMA POR ROLES – EASY BREAKFAST
+#### Organigrama por roles
 
 _(Estructura de cargos reales)_
 
