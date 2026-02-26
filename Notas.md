@@ -1505,10 +1505,313 @@ Ejemplo de cadena de mando:
 	- Ejecutan tareas operativas o específicas dentro de cada área.
 	- Pueden ser empleados, freelancers o pasantes.
 
+### 🥗 Easy Breakfast: Estructura organizacional
 
+Te lo dividiré en:
 
+1. 📌 Propuesta de áreas (organigrama estructural)
+    
+2. 📌 Propuesta de roles (organigrama por cargos)
+    
+3. 📌 Recursos del emprendimiento
+    
+4. 📌 Cadena de mando explicada
+    
+5. 📌 Posibles componentes operativos adicionales
+    
 
+#### Organigrama Estructural
 
+_(Áreas o departamentos)_
+
+Como este es un emprendimiento pequeño, será una **estructura centralizada**, donde el Director General supervisa varias funciones estratégicas.
+
+```mermaid
+flowchart TD
+    A[Dirección General] 
+    
+    A --> B[Producción y Operaciones]
+    A --> C[Marketing y Ventas]
+    A --> D[Finanzas y Contabilidad]
+    A --> E[Recursos Humanos]
+    A --> F[Logística y Distribución]
+```
+
+🔹 Dirección General (Ápice estratégico)
+
+- Toma decisiones estratégicas.
+- Define precios, alianzas y crecimiento.
+- Supervisa todas las áreas.
+- Representa legalmente a Easy Breakfast.
+
+Al ser este un emprendimiento pequeño, el Director también debe asumir:
+
+- Finanzas básicas.
+- Supervisión de marketing.
+
+🔹 Producción y Operaciones (Núcleo operativo)
+
+- Preparación de desayunos saludables.
+- Control de calidad.
+- Control de insumos.
+- Estandarización de recetas.
+
+---
+
+### 🔹 Marketing y Ventas
+
+- Gestión de redes sociales.
+    
+- Publicidad digital.
+    
+- Atención al cliente.
+    
+- Gestión de pedidos.
+    
+
+---
+
+### 🔹 Finanzas y Contabilidad
+
+- Control de costos.
+    
+- Registro de ingresos.
+    
+- Flujo de caja.
+    
+- Pago a proveedores.
+    
+
+---
+
+### 🔹 Recursos Humanos
+
+_(Puede estar integrado a Finanzas en etapa inicial)_
+
+- Contratación.
+    
+- Control de horarios.
+    
+- Pago de beneficios.
+    
+- Clima laboral.
+    
+
+---
+
+### 🔹 Logística y Distribución (Área clave para tu modelo delivery)
+
+- Organización de rutas.
+    
+- Entrega puntual.
+    
+- Coordinación con repartidores.
+    
+- Control de tiempos.
+    
+
+---
+
+# 2️⃣ ORGANIGRAMA POR ROLES – EASY BREAKFAST
+
+_(Estructura de cargos reales)_
+
+Ahora lo vemos por personas y jerarquía.
+
+```mermaid
+flowchart TD
+    A[Fundador / Gerente General]
+
+    A --> B[Jefe de Producción]
+    A --> C[Encargado de Marketing Digital]
+    A --> D[Administrador Financiero]
+    A --> E[Encargado de Logística]
+
+    B --> B1[Auxiliar de Cocina]
+    C --> C1[Community Manager]
+    E --> E1[Repartidores]
+```
+
+## 📌 Adaptación realista para emprendimiento pequeño
+
+En fase inicial podría quedar así:
+
+- 👤 Fundador = Gerente + Finanzas + Supervisión Marketing
+    
+- 👤 1 Cocinero principal
+    
+- 👤 1 Auxiliar
+    
+- 👤 1 Community Manager (freelancer)
+    
+- 👤 1-2 Repartidores
+    
+
+---
+
+# 3️⃣ RECURSOS DE EASY BREAKFAST
+
+## 🔹 Recurso Humano
+
+- Gerente General
+    
+- Cocinero
+    
+- Auxiliar de cocina
+    
+- Community Manager
+    
+- Repartidores
+    
+
+---
+
+## 🔹 Recurso Financiero
+
+- Capital inicial
+    
+- Flujo de caja
+    
+- Ingresos por ventas
+    
+- Posibles inversionistas o socios
+    
+
+---
+
+## 🔹 Recurso Tecnológico
+
+- Celular empresarial
+    
+- WhatsApp Business
+    
+- Redes sociales
+    
+- Software contable
+    
+- Plataforma de pedidos
+    
+- Computadora
+    
+- Internet
+    
+
+---
+
+## 🔹 Recursos Materiales
+
+- Cocina equipada
+    
+- Refrigeradora
+    
+- Utensilios
+    
+- Envases biodegradables
+    
+- Insumos (frutas, avena, proteínas, etc.)
+    
+- Motocicletas o bicicletas para delivery
+    
+
+---
+
+# 4️⃣ CADENA DE MANDO EN EASY BREAKFAST
+
+Siguiendo la teoría que viste en clase:
+
+### 🔺 Ápice Estratégico
+
+Fundador / Gerente General
+
+### 🔹 Línea Media
+
+- Jefe de Producción
+    
+- Encargado de Marketing
+    
+- Administrador Financiero
+    
+- Encargado de Logística
+    
+
+### 🔹 Núcleo Operativo
+
+- Cocineros
+    
+- Auxiliares
+    
+- Repartidores
+    
+
+### 🔹 Tecnoestructura
+
+- Contador externo
+    
+- Asesor legal
+    
+- Diseñador gráfico freelance
+    
+
+### 🔹 Staff de apoyo
+
+- Servicio de limpieza (si aplica)
+    
+- Proveedor de insumos
+    
+
+---
+
+# 5️⃣ ¿Existen otros componentes operativos?
+
+Sí ✅ Para tu modelo de negocio online y delivery, podrías considerar:
+
+### 🔸 1. Área de Logística (Muy recomendable)
+
+Porque tu propuesta es delivery saludable.
+
+### 🔸 2. Área de Atención al Cliente
+
+Puede estar dentro de Marketing.
+
+### 🔸 3. Control de Calidad
+
+Puede estar dentro de Producción.
+
+### 🔸 4. Innovación y Desarrollo de Producto
+
+- Nuevos menús.
+    
+- Nuevos planes fitness.
+    
+- Ediciones especiales.
+    
+
+En etapa pequeña esto lo asume el Gerente.
+
+---
+
+# 📌 CONCLUSIÓN ESTRUCTURAL
+
+Easy Breakfast tendría:
+
+- 🔹 Estructura funcional
+    
+- 🔹 Organización centralizada
+    
+- 🔹 Margen de control medio
+    
+- 🔹 Departamentalización por función empresarial
+    
+- 🔹 Alta formalidad en procesos de producción
+    
+- 🔹 Especialización media
+    
+
+---
+
+Si quieres, puedo prepararte una versión más formal redactada tipo trabajo académico lista para entregar 📄✨
+
+O incluso hacerte una versión más simplificada tipo diapositiva para exposición.
 
 
 
