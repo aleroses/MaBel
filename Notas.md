@@ -67,7 +67,7 @@ Propuesta de valor:
 
 > Elevar la accesibilidad de alimentos saludables mediante la inclusion de un sistema web para personas que no pueden comprar de manera presencial.
 
-#### 🥗 Easy Breakfast – Preventa Online de Desayunos Saludables
+### 🥗 Easy Breakfast – Preventa Online de Desayunos Saludables
 
 📊 Business Model Canvas
 
@@ -320,7 +320,7 @@ Propuesta de valor:
 	🔹 Descuentos por volumen
 	🔹 Promociones dinámicas en fechas especiales
 
-#### 🎯 Extra
+### 🎯 Extra
 
 Puedes mencionar que el modelo de preventa:
 
@@ -331,7 +331,7 @@ Puedes mencionar que el modelo de preventa:
 
 Eso le da un enfoque estratégico.
 
-#### Resumen
+### Resumen
 
 Buenos días.
 
@@ -432,9 +432,9 @@ Ejemplos:
 
 Google: Organizar la información del mundo para que sea útil y accesible para todos.
 
-#### 🥗 Easy Breakfast
+### 🥗 Easy Breakfast
 
-##### Misión
+#### Misión
 
 Pasos para definir la misión (pág. 15)
 
@@ -454,13 +454,13 @@ Pasos para definir la misión (pág. 15)
 
 > **Ofrecer desayunos saludables de alta calidad mediante una plataforma digital que facilite el pedido a personas con poco tiempo.**
 
-##### Visión
+#### Visión
 
 Siguiendo los lineamientos del documento: positiva, breve, alcanzable, medible, entendible y con temporalidad (pág. 25)
 
 **Ser en cinco años la empresa referente en preventa de desayunos saludables en nuestra ciudad, reconocida por su puntualidad, calidad y uso eficiente de tecnología para facilitar una alimentación saludable y sostenible.**
 
-##### Valores
+#### Valores
 
 Se desprenden de la misión y visión:
 
@@ -591,7 +591,7 @@ Para los 3 que faltan revisar el siguiente enlace.
 - [La Teoría de los ARQUETIPOS de PERSONALIDAD de Carl Jung](https://www.youtube.com/watch?v=eyrtNcRFcY0)
 - [Brandemia](https://brandemia.org/arquetipos-de-marca)
 
-#### 🥗 Easy Breakfast - Arquetipos
+### 🥗 Easy Breakfast - Arquetipos
 
 Contexto estratégico de Easy Breakfast
 
@@ -610,7 +610,7 @@ Desde el enfoque del **Business Model Canvas** Business Model Generation, mi Pro
 
 Y desde la guía de misión/visión (archivo que revisamos en clase), mi proyecto claramente apunta a propósito + impacto en bienestar.
 
-##### Arquetipos
+#### Arquetipos
 
 Easy Breakfast:
 
@@ -716,9 +716,9 @@ Mercado total
 Mercado potencial
 Mercado objetivo
 
-#### 🥗 Easy Breakfast - Segmentación de Mercado
+### 🥗 Easy Breakfast - Segmentación de Mercado
 
-##### 1. Segmentación Geográfica
+#### 1. Segmentación Geográfica
 	
 - **Ubicación:** Ciudad de Quito
 - **Justificación con datos del INEC:**
@@ -738,7 +738,7 @@ Esto es ideal para modelo delivery por:
 - Alta concentración = menor costo logístico
 - Mayor volumen potencial de pedidos
 
-##### 2. Segmentación Demográfica
+#### 2. Segmentación Demográfica
 
 - Edad: Según el INEC:
 	
@@ -826,7 +826,7 @@ Perfecto para desayunos individuales premium.
 
 - Etnia, Nacionalidad y Religión: No relevantes.
 
-##### 3. Segmentación Psicográfica
+#### 3. Segmentación Psicográfica
 
 - Personalidad
 	
@@ -858,7 +858,7 @@ Perfecto para desayunos individuales premium.
 	- Cuidado personal
 	- Bienestar
 
-##### 4. Segmentación Conductual
+#### 4. Segmentación Conductual
 
 - Búsqueda del beneficio
 	
@@ -905,7 +905,7 @@ Perfecto para desayunos individuales premium.
 	- Rapidez
 	- Recomendaciones sociales
 
-##### Cálculo de Mercado
+#### Cálculo de Mercado
 
 🔹 Mercado Total:
 
@@ -1002,7 +1002,7 @@ Si 260 personas compran:
 
 Y eso solo en Iñaquito.
 
-##### Conclusión Estratégica
+#### Conclusión Estratégica
 
 Easy Breakfast por el momento NO será un negocio masivo.
 
@@ -1139,9 +1139,9 @@ Modelo de comunicación empática aplicado al negocio.
 
 [4 "P" del Marketing](https://asana.com/es/resources/4-ps-of-marketing)
 
-#### 🥗 Easy Breakfast: Las 4 P’s del _Marketing mix_
+### 🥗 Easy Breakfast: Las 4 P’s del _Marketing mix_
 
-##### 1. Producto: ¿Qué vendes y por qué importa?)
+#### 1. Producto: ¿Qué vendes y por qué importa?)
 
 El producto es aquello que ofreces para resolver una necesidad del cliente, ya sea un bien físico o un servicio. Debes entender **qué problema resuelve tu producto, quién lo quiere y qué lo hace diferente**.
 
@@ -1184,7 +1184,7 @@ Otro:
 
 > “Desayunos saludables, deliciosos y rápidos para quienes cuidan su bienestar sin sacrificar tiempo.”  
 
-##### 2. Precio: ¿Cuánto cobras?
+#### 2. Precio: ¿Cuánto cobras?
 
 El precio debe reflejar **valor percibido + competencia + costos internos**. Es clave alinear coste con lo que el cliente está dispuesto a pagar.
 
@@ -1211,7 +1211,7 @@ Costo de producción **por combo** de Hotcakes + Ponche.
 
 |**Ingrediente/Insumo** |**Costo estimado por porción**|**Notas**                                    |
 |-----------------------|------------------------------|---------------------------------------------|
-|**Base Hotcakes**      |$0.45                         |Avena, plátano, agua, estevia.               |
+|**Base Hotcakes**      |$0.45                         |Avena, huevo, plátano, agua, estevia.        |
 |**Toppings**           |$0.35                         |Fresas, mantequilla de maní, etc.            |
 |**Ponche de Habas**    |$0.50                         |Harina, huevo, leche, especias.              |
 |**Empaques**           |$0.30                         |Contenedor biodegradable + vaso + servilleta.|
@@ -1278,43 +1278,88 @@ Este no es un desayuno común.
 	Semanal = $4.32 por día  
 	Mensual = $4.14 por día
 
-##### 3. Plaza: Punto de venta / Distribución
+#### 3. Plaza: Punto de venta / Distribución
 
 “No solo dónde vendes, sino **dónde tus clientes están presentes**.” Se recomienda pensar en dónde comprarán tus clientes y cómo preferirán acceder a tu servicio.
 
 ✔ **Canales de venta**
 
-- **Físico (tienda o kiosco)** ideal si tus clientes transitan por zonas urbanas o laborales.
+Canal principal: Venta directa online
+
+- Página web oficial (catálogo + personalización).
+- WhatsApp Business como canal rápido de confirmación.
+- Pedido anticipado (hasta el día anterior).
+
+Este modelo permite:
+
+- Planificación eficiente.
+- Control de inventario.
+- Reducción de desperdicio.
+- Producción organizada en la madrugada.
+
+✔ Ubicación del cliente
+
+Los clientes de EB están:
+
+- En sus hogares
+- En oficinas de Iñaquito.
+- En universidades cercanas.
+- En departamentos urbanos.
+- En coworkings.
+- En gimnasios.
+
+👉 No necesitas que vayan a ti.  
+Tú vas hacia ellos.
+
+Eso es la ventaja competitiva de Easy Breakfast.
+
+
+
+
+
+
+
+
+
+
+
+- ¿Estás enfocado en empresas o en el consumidor final?  
+	✔ Actualmente, Easy Breakfast se enfoca en consumidores finales.
+
+- ¿Dónde vende sus productos o servicios la competencia?  
+	✔ Como mencioné comen en restaurantes cerca de su trabajo o universidad. Pero Easy Breakfast ofrece la posibilidad de **preordenar desayunos online con un día de antelación de preferencia o hasta antes de las 6 de la mañana**.
+
+#### 4. Promoción: ¿Cómo lo das a conocer?)
+
+La promoción abarca todos los mensajes y canales que usas para **comunicar el valor de tu producto** al cliente ideal.
+
+La promoción es _cómo_ estás promoviendo la venta.
+
+- ¿Quién es tu público objetivo?  
+	✔ - 20 a 45 años
+	
+	- Jóvenes profesionales
+	- Universitarios
+	- Personas activas laboralmente
+	
+	Este grupo:
+	
+	- Tiene poder adquisitivo propio
+	- Compra por conveniencia
+	- Usa apps y redes sociales
+
+- ¿Cómo quieres que se perciba tu marca?  
+	- Alimentos saludables y listos para comer.
+
+- ¿Qué canales de distribución utiliza nuestro público objetivo para recibir información?
+	
+	✔ **Canales adecuados:** Publicidad por volantes y redes sociales:
+	
+	✔ Redes sociales:** Instagram, TikTok, Facebook para mostrar fotos y videos de desayunos saludables.
+	    
+	- **Marketing local:** flyers, alianzas con oficinas o gimnasios cercanos.
     
-- **Pedidos online y entrega a domicilio** si tu público objetivo es urbano, ocupado y valora comodidad.  
-    ✔ **Dónde promocionar tu servicio**
-    
-- Apps de delivery, redes sociales, grupos locales.  
-    ✔ **Acceso para el cliente:**
-    
-- Proceso de pedido rápido y claro (app simple o WhatsApp Business).
-    
-- Posibilidad de **preordenar desayunos por la mañana**.
-    
-
----
-
-##### 4. Promoción: ¿Cómo lo das a conocer?)
-
-Asana explica que la promoción abarca todos los mensajes y canales que usas para **comunicar el valor de tu producto** al cliente ideal. ([Asana](https://asana.com/es/resources/4-ps-of-marketing?utm_source=chatgpt.com "Qué es el marketing mix y cómo aplicar las 4Ps con éxito [2025] • Asana"))
-
-
-
-
-✔ **Define tono y voz de la marca:**  
-Saludable, amistosa, cercana.  
-✔ **Canales adecuados:**
-
-- **Redes sociales:** Instagram, TikTok, Facebook para mostrar fotos y videos de desayunos saludables.
-    
-- **Marketing local:** flyers, alianzas con oficinas o gimnasios cercanos.
-    
-- **Promociones por tiempo limitado:** “Desayuno saludable + jugo natural $2 de descuento en tu primera compra.”  
+	- **Promociones por tiempo limitado:** “Desayuno saludable + jugo natural $2 de descuento en tu primera compra.”  
     ✔ **Mensajes efectivos:**
     
 - Explica **qué obtienen** y **por qué es especial** (rapidísimo, nutritivo, delicioso).
