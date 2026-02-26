@@ -5,6 +5,8 @@
 
 ## Semana 01
 
+[Clase 01](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251115%5F081001%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2b67c95b%2D3e24%2D4abb%2Dabdf%2D7af958189c71)
+
 ### J1 Presentación
 
 - PAO: Periodo académico ordinario
@@ -49,6 +51,8 @@ matriz vcg
 - Business model canvas
 
 ## Semana 02
+
+[Clase 02](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251122%5F080855%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7158b88e%2Dd90b%2D4b68%2D9227%2D75c86301bb9b)
 
 ### J2 The Business model canvas
 
@@ -364,6 +368,8 @@ Muchas gracias.
 
 ## Semana 03
 
+[Clase 03](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251129%5F080804%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eff2ee35d%2Dace4%2D4328%2D8d94%2D47b7ec8d1c55)
+
 ### J2 Misión, Visión y Valores
 
 Pilares de la identidad corporativa
@@ -492,6 +498,8 @@ Nota: 5 o 6 valores como máximo.
 	Prueba las declaraciones con empleados y clientes. ¿Son auténticas? ¿Inspiran?
 
 ## Semana 04
+
+[Clase 04](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ1%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251202%5F190522%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee3a1b84%2D7278%2D4f62%2D83e7%2D5267ae4798c1)
 
 ### J1 Arquetipos y Branding
 
@@ -662,6 +670,8 @@ Otros tipo de mensajes:
 - Construye tu cuerpo, comiendo...
 
 ## Semana 05
+
+[Clase 05](https://isteambato-my.sharepoint.com/personal/edison_narvaez_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fedison%5Fnarvaez%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FPROYECTOS%20DE%20EMPRENDIMIENTO%20%2D%20CLASE%20SINCRONICA%20S%C3%A1bados%201100%20%2D%201300%2D20250614%5F110345%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edb424fe0%2D527d%2D4e7e%2Da6ea%2Db7ee60678bae)
 
 ### J2 Mercadeo
 
@@ -1021,6 +1031,8 @@ El mejor enfoque es:
 - Comunicación moderna y fitness
 
 ## Semana 06
+
+[Clase 06](https://isteambato-my.sharepoint.com/personal/edison_narvaez_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fedison%5Fnarvaez%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FPROYECTOS%20DE%20EMPRENDIMIENTO%20%2D%20CLASE%20SINCRONICA%20S%C3%A1bados%201100%20%2D%201300%2D20250621%5F110850%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E75c1a165%2D4c51%2D4b90%2Dab95%2D5d709f9510e8)
 
 ### J2 Estrategias de Mercadeo
 
@@ -1413,7 +1425,85 @@ Esto conecta emocionalmente con nuestros clientes.
 
 ## Semana 07
 
-### J2 
+[Clase 07](https://isteambato-my.sharepoint.com/personal/edison_narvaez_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fedison%5Fnarvaez%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FPROYECTOS%20DE%20EMPRENDIMIENTO%20%2D%20CLASE%20SINCRONICA%20S%C3%A1bados%201100%20%2D%201300%2D20250628%5F110321%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E67546fd2%2D5e49%2D493f%2Db1a7%2D075d57a0f989)
+
+### J2 Estructura organizacional
+
+Recursos de Easy Breakfast
+
+- Recurso Humano
+- Recurso Financiero
+- Recurso Tecnológico
+- Recursos Materiales
+
+Como fluye la información entre los diferentes escalafones en la gestión.
+
+Agrupar las actividades por departamentos:
+
+- Productos: Agrupa las actividades y tareas necesarias para producir o comercializar el producto.
+- Territorial o geográfica: Si el negocio trabaja a nivel nacional, se deben agrupar los trabajos por regiones para mejorar la productividad y establecer responsables directos.
+- Clientes
+- Procesos o equipos: Hay que dividir cada uno de los procesos.
+- Función empresarial: Agrupa áreas que tiene la empresa y tareas de cada uno.
+
+Características:
+
+La organización puede ser centralizada o descentralizada.
+
+Elementos clave:
+
+- Cadena de mando
+	- Ápice estratégico (cúpula directiva)
+	- Línea media (directores de departamento)
+	- Núcleo operativo (trabajadores no directivos)
+	- Tecnoestructura (especialistas técnicos)
+	- Staff de apoyo (subcontratados en labores de limpieza o seguridad)
+- Nivel de centralización
+	- La organización esté centralizada o descentralizada contribuirá directamente en la velocidad del proceso de toma de decisiones. Tendrá impacto en la percepción más o menos democrática.
+- Margen de control
+	- Es un elemento muy influido por el tamaño de la compañía y el nivel de centralización. Cuantos más empleados controle un mando directivo, mayor será su margen de control.
+- Grado de especialización
+	- Aborda la división del trabajo. Las tareas se distribuyen en distintos niveles. Si los empleados cuentan con una especialización alta, estos serán expertos en su campo y serán más productivos.
+- Formalidad estructural
+	- Un compromiso entre rigidez y libertad que permita trabajar con procesos rápidos, pero sin eliminar las relaciones entre los trabajadores ni su creatividad.
+- Formación de departamentos
+	- Las diferentes actividades de una organización se dividen en departamentos, cada uno de ellos con sus propios proyectos. Cuando se construye el modelo organizacional, se estudia la necesidad de departamentalizar de forma rígida o flexible. Las estructuras más rígidas alcanzan mayor grado de especialización, mientras que las flexibles incentivan la colaboración entre departamentos.
+- Componentes operativos
+	- Son aquellos recursos que intervienen y se combinan en la realización de las operaciones de un proyecto, aunque provengan de diferentes orígenes, todos participan en el engranaje operativo que lleva al producto o servicio final.
+	- Dirección general (dirige todas las operaciones de la empresa)
+	- Recursos humanos (manejo de personal y sus beneficios)
+	- Producción (área operativa, elabora el producto)
+	- Finanzas y contabilidad (se encarga de los costos, balances y finanzas de una empresa)
+	- Mercadeo (promociona los productos o servicios de la empresa)
+
+Todo nuevo negocio debe contar con un organigrama e el que se establecen los puestos, responsabilidades y la relación de jerarquía.
+
+Ejemplo de cadena de mando:
+
+- Fundador / Emprendedor / Líder / Gerente
+	- Toma decisiones estratégicas
+	- Pendiente de todas las áreas del negocio
+	- Representa legal y comercialmente al emprendimiento
+
+- Co-Fundador / Socio
+	- Puede estar a cargo de un área específica: finanzas, operaciones, marketing
+	- Apoya en la toma de decisiones y gestión
+
+- Área Administrativa y Financiera
+	- Encargado de la contabilidad, pagos, facturación y manejo de presupuestos.
+	- A veces también asume funciones de recursos humanos.
+
+- Área de Producción o Desarrollo
+	- Responsabel de fabricar el producto o prestar servicio
+	- Supervisa calidad, tiempos y procesos
+
+- Área de Marketing y Ventas
+	- Desarrolla estrategias para captar clientes
+	- Maneja redes sociales, publicidad, ventas y atención al cliente
+
+- Colaboradores o Asistentes
+	- Ejecutan tareas operativas o específicas dentro de cada área.
+	- Pueden ser empleados, freelancers o pasantes.
 
 
 
@@ -1426,7 +1516,33 @@ Esto conecta emocionalmente con nuestros clientes.
 
 
 
+---
 
+Dentro de mi proyecto debes adaptar los componentes operativos para crear un organigrama estructural hecho con mermaid, entre ellos existen:
+	- Dirección general (dirige todas las operaciones de la empresa)
+	- Recursos humanos (manejo de personal y sus beneficios)
+	- Producción (área operativa, elabora el producto)
+	- Finanzas y contabilidad (se encarga de los costos, balances y finanzas de una empresa)
+	- Mercadeo (promociona los productos o servicios de la empresa)
+
+Puede que el gerente general o director general se encargue de 1 o 2 tareas, solo debes diferenciar estas áreas, esto tiene que adaptarse a un emprendimiento pequeño lo que es Easy Breakfast:
+
+Crees que existen otros componentes operativos, dame opciones de ser así.
+
+Nota: Todo se reduce al organigrama donde se deben definir las áreas de Easy Breakfast.
+
+También definir los roles, para lo cual debes hacer otro organigrama hecho en mermaid para también ver esta estructura con roles.
+
+Define los recursos de Easy Breakfast, algo como:
+
+- Recurso Humano
+- Recurso Financiero
+- Recurso Tecnológico
+- Recursos Materiales
+
+Define la Cadena de mando dentro del organigrama.
+
+En la clase tomé estos apuntes, quizá te sean útiles para hacer el organigrama que es el resultado final de la estructura organizacional.
 
 
 
@@ -1442,7 +1558,8 @@ Esto conecta emocionalmente con nuestros clientes.
 
 
 ---
-
+Descripción de puestos
+obligaciones laborales en el ecuador
 #### Objetivos
 
 Objetivo General
