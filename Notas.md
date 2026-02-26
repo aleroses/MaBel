@@ -1409,7 +1409,8 @@ O:
 
 > “Mientras tú te preparas para el día, nosotros ya preparamos tu energía.”
 
-Eso conecta emocionalmente.
+Esto conecta emocionalmente con nuestros clientes.
+
 
 
 
