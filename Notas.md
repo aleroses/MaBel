@@ -1313,21 +1313,41 @@ Tú vas hacia ellos.
 
 Eso es la ventaja competitiva de Easy Breakfast.
 
+✔ Logística de entrega
 
+Modelo actual:
 
+- Producción en madrugada.
+- Entrega antes de las 6:00 a.m.
+- Distribución caminando en el sector.
+- Transporte inicial hacia Iñaquito.
 
+También podría usar apps solo como:
 
+- Canal de visibilidad.
+- No como canal principal.
 
+Ejemplo: Uber Eats, Rappi, PedidosYa.
 
+✔ Acceso para el cliente
 
+- Plataforma web intuitiva.  
+- Personalización sencilla con selección de ingredientes.  
+- Confirmación automática del pedido.  
+- Historial de consumo calórico disponible.  
+- Recordatorios de pedido vía WhatsApp.
 
+✔ ¿Empresa o consumidor final?
 
+Actualmente: B2C (Business to Consumer).
 
-- ¿Estás enfocado en empresas o en el consumidor final?  
-	✔ Actualmente, Easy Breakfast se enfoca en consumidores finales.
+A futuro podría:
 
-- ¿Dónde vende sus productos o servicios la competencia?  
-	✔ Como mencioné comen en restaurantes cerca de su trabajo o universidad. Pero Easy Breakfast ofrece la posibilidad de **preordenar desayunos online con un día de antelación de preferencia o hasta antes de las 6 de la mañana**.
+- Ofrecer convenios corporativos.
+- Desayunos para oficinas.
+- Plan empresarial mensual.
+
+Expansión natural.
 
 #### 4. Promoción: ¿Cómo lo das a conocer?)
 
