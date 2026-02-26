@@ -1411,7 +1411,9 @@ O:
 
 Esto conecta emocionalmente con nuestros clientes.
 
+## Semana 07
 
+### J2 
 
 
 
