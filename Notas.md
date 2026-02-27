@@ -1700,12 +1700,15 @@ Actualmente Easy Breakfast tiene:
 
 ### J1 Estructura organizacional
 
+Organigrama funcional: Garantizar claridad en los roles.
 
+Se dio tiempo para que hagan los organigramas.
 
+## Semana 09
 
+[Clase 09](https://isteambato-my.sharepoint.com/personal/edison_narvaez_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fedison%5Fnarvaez%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FPROYECTOS%20DE%20EMPRENDIMIENTO%20%2D%20CLASE%20SINCRONICA%20S%C3%A1bados%201100%20%2D%201300%2D20250719%5F110459%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec4ea6acb%2D6740%2D4a89%2Daa91%2D78b5fd78a608)
 
-
-
+### J2
 
 
 
