@@ -1726,12 +1726,13 @@ El tamaño óptimo de un emprendimiento es aquel en el que un emprendimiento:
 
 Factores para determinar el tamaño óptimo:
 
-1. Demanda del mercado objetivof:
+1. Demanda del mercado objetivo:
 	- Estimar cuántos productos o servicios se podrán vender regularmente.
 	- Evitar producir más de lo que se puede vender o menos de lo que se necesita.
 2. Disponibilidad de recursos:
 	- Capital financiero (propio y externo).
-	- 
+	- Recursos humanos calificados.
+	- Infraestructura física y tecnológica.
 3. Costos fijos y variables:
 	- El tamaño debe permitir cubrir costos fijos sin exceder en gastos innecesarios.
 	- Se busca el punto donde se logra economía de escala sin sobreinvertir.
@@ -1774,11 +1775,37 @@ Métodos para calcular la demanda
 	Se refiere a calcular cuántos clientes podrían comprar tu producto o servicio del mercado objetivo.  
 	Fórmula básica:  
 	Demanda = Número de clientes potenciales x Frecuencia de compra x Cantidad promedio por compra.  
-	Ejemplo
+	Ejemplo:  
+	- Clientes potenciales: 1 000 personas (segmentación)
+	- Frecuencia de compra: 2 veces al mes
+	- Cantidad promedio: 1 unidad por compra
+
+	Demanda mensual = 1 000 x 2 x 1 = 2 000 unidades
+
+2. Estudio de mercado (encuestas o entrevistas)  
+	Puedes levantar información con preguntas como:  
+	- ¿Con qué frecuencia consume este producto?
+	- ¿Estaría dispuesto a comprar este producto a X precio?
+	- ¿Cuántas unidades compraría?
+
+	Esto te da un dato realista y local, ideal para emprendimientos pequeños o comunitarios.
+
+3. Demanda histórica (si ya hay ventas anteriores)  
+	Para negocios en marcha o similares, puedes usar los datos de ventas pasadas como referencia.  
+	Ejemplo:  
+	- Si durante los últimos 3 meses se vendieron en promedio 1 500 unidades/mes, esa puede ser la demanda base, ajustando por estacionalidad o crecimiento proyectado.
+4. Benchmarking o análisis de la competencia  
+	Estudia negocios similares:  
+	- ¿Cuánto venden?
+	- ¿Qué precios manejan?
+	- ¿Qué zonas atienden?
+
+	Esto permite estimar una demanda promedio esperada si entras al mismo mercado.
+
 
 43:21
 
-
+Para el proyecto hay que escoger uno de los 3
 
 
 
