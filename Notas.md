@@ -1,5 +1,8 @@
 # Proyecto de Emprendimiento
 
+- [Clase Sincrónica Martes: 19:00 — 21:00](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzNmODMyOTItYWYyMy00YmZhLTgxMDYtZmFjNzliZTkxZTA5%40thread.v2/0?context=%7b%22Tid%22%3a%22af30d315-749b-4372-816d-796ed33ee76c%22%2c%22Oid%22%3a%221c631034-0585-4166-b0c5-d69fca78fa65%22%7d)
+- [Clase Sincrónica Sábado: 08:00 — 10:00](https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2FkODRlMjYtOWQ1ZC00ZDIzLTlhYTQtYWIyNTM1OTE4YTFh%40thread.v2/0?context=%7b%22Tid%22%3a%22af30d315-749b-4372-816d-796ed33ee76c%22%2c%22Oid%22%3a%221c631034-0585-4166-b0c5-d69fca78fa65%22%7d)
+
 [Explicación del uso del formato](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FReuni%C3%B3n%20con%20VICENTE%20DAVID%20CATOTA%20MESIAS%2D20260126%5F095940%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E99ab5f99%2Dd400%2D4539%2D9d78%2Db5886774e64a
 )
 
@@ -1792,6 +1795,7 @@ Métodos para calcular la demanda
 	Para negocios en marcha o similares, puedes usar los datos de ventas pasadas como referencia.  
 	Ejemplo:  
 	- Si durante los últimos 3 meses se vendieron en promedio 1 500 unidades/mes, esa puede ser la demanda base, ajustando por estacionalidad o crecimiento proyectado.
+
 4. Benchmarking o análisis de la competencia  
 	Estudia negocios similares:  
 	- ¿Cuánto venden?
@@ -1801,7 +1805,7 @@ Métodos para calcular la demanda
 	Esto permite estimar una demanda promedio esperada si entras al mismo mercado.
 
 
-1:12
+---
 
 Para el proyecto hay que escoger uno de los 3 Métodos
 
