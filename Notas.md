@@ -1710,9 +1710,7 @@ Se dio tiempo para que hagan los organigramas.
 
 [Extra](https://isteambato-my.sharepoint.com/personal/edison_narvaez_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fedison%5Fnarvaez%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FCLASE%20COMPLEMENTARIA%20SEMANA%201%20CICLO%202%2D20250811%5F193310%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee4973d22%2D5171%2D454b%2Da9bc%2D2519915bab7b)
 
-### J2 Tamaño óptimo de un Emprendimiento
-
-Plan financiero?
+### J2 Plan financiero: Tamaño óptimo de un Emprendimiento
 
 Esto implica determinar la escala de operación que permite a una empresa ser eficiente, rentable y sostenible, maximizando el uso de sus recursos sin incurrir en costos innecesarios ni limitar su crecimiento.
 
@@ -1803,15 +1801,15 @@ Métodos para calcular la demanda
 	Esto permite estimar una demanda promedio esperada si entras al mismo mercado.
 
 
-43:21
+1:12
 
-Para el proyecto hay que escoger uno de los 3
+Para el proyecto hay que escoger uno de los 3 Métodos
 
+dar una ubicación al negocio, no importa que sea online
 
+Diagrama de Flujo del proceso desde que el cliente hace el pedido hasta que lo recibe, mostrando todas las áreas.
 
-
-
-
+Flujograma
 
 compras publicas 
 
