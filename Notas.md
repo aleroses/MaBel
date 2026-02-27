@@ -1708,7 +1708,75 @@ Se dio tiempo para que hagan los organigramas.
 
 [Clase 09](https://isteambato-my.sharepoint.com/personal/edison_narvaez_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fedison%5Fnarvaez%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FPROYECTOS%20DE%20EMPRENDIMIENTO%20%2D%20CLASE%20SINCRONICA%20S%C3%A1bados%201100%20%2D%201300%2D20250719%5F110459%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ec4ea6acb%2D6740%2D4a89%2Daa91%2D78b5fd78a608)
 
-### J2
+[Extra](https://isteambato-my.sharepoint.com/personal/edison_narvaez_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fedison%5Fnarvaez%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FCLASE%20COMPLEMENTARIA%20SEMANA%201%20CICLO%202%2D20250811%5F193310%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ee4973d22%2D5171%2D454b%2Da9bc%2D2519915bab7b)
+
+### J2 Tamaño óptimo de un Emprendimiento
+
+Plan financiero?
+
+Esto implica determinar la escala de operación que permite a una empresa ser eficiente, rentable y sostenible, maximizando el uso de sus recursos sin incurrir en costos innecesarios ni limitar su crecimiento.
+
+El tamaño óptimo de un emprendimiento es aquel en el que un emprendimiento:
+
+- Maximiza su productividad con el menor costo posible.
+- Equilibra la inversión inicial y la capacidad operativa.
+- Responde adecuadamente a la demanda del mercado.
+- Minimiza riesgos financieros y operativos.
+- Puede crecer de manera sostenible, sin afectar la calidad ni la atención al cliente.
+
+Factores para determinar el tamaño óptimo:
+
+1. Demanda del mercado objetivof:
+	- Estimar cuántos productos o servicios se podrán vender regularmente.
+	- Evitar producir más de lo que se puede vender o menos de lo que se necesita.
+2. Disponibilidad de recursos:
+	- Capital financiero (propio y externo).
+	- 
+3. Costos fijos y variables:
+	- El tamaño debe permitir cubrir costos fijos sin exceder en gastos innecesarios.
+	- Se busca el punto donde se logra economía de escala sin sobreinvertir.
+4. Capacidad productiva y tecnológica:
+	- Se debe elegir una capacidad que no sature ni infrautilice los recursos.
+	- El uso eficiente de maquinaria, herramientas y personal es clave.
+5. Competencia y barreras de entrada:
+	- Analizar cuantos competidores existen y qué tamaño tienen.
+	- Un emprendimiento demasiado pequeño puede ser vulnerable; uno demasiado grande puede ser insostenible al inicio.
+6. Flexibilidad operativa:
+	- El tamaño debe permitir adaptarse fácilmente a cambios en la demanda o el entorno.
+
+Ejemplo:
+
+Un emprendimiento de panadería artesanal puede calcular su tamaño óptimo así:
+
+- Produce 500 unidades diarias porque esa es la demanda local.
+- Tiene 2 hornos, 3 empleados y un local arrendado de 50 m².
+- Si produce más, necesita invertir en nuevo horno y más personal, lo cual aumenta los costos sin garantizar mayor venta.
+- Si produce menos, no cubre sus costos fijos.
+
+Conclusión: Su tamaño óptimo es aquel que le permite producir esas 500 unidades con los recursos actuales, generando utilidad y asegurando la sostenibilidad del negocio.
+
+Indicadores para medir el tamaño óptimo:
+
+- Productividad por trabajador
+- Costos unitarios de producción
+- Margen de utilidad neta
+- Capacidad instalada utilizada (%)
+- Tiempo de respuesta al cliente
+- Retorno sobre la inversión (ROI)
+
+#### Cálculo de la demanda de un emprendimiento
+
+La demanda es la cantidad de bienes o servicios que los consumidores están dispuestos a adquirir a un precio determinado, en un periodo específico de tiempo.
+
+Métodos para calcular la demanda
+
+1. Estimación de la demanda potencial  
+	Se refiere a calcular cuántos clientes podrían comprar tu producto o servicio del mercado objetivo.  
+	Fórmula básica:  
+	Demanda = Número de clientes potenciales x Frecuencia de compra x Cantidad promedio por compra.  
+	Ejemplo
+
+43:21
 
 
 
@@ -1718,11 +1786,7 @@ Se dio tiempo para que hagan los organigramas.
 
 
 
-
-
-
-
-
+compras publicas 
 
 
 
