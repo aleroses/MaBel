@@ -1530,7 +1530,7 @@ Como este es un emprendimiento pequeño, será una **estructura centralizada**, 
 flowchart TD
     A[Dirección General] 
     
-    A --> B[Producción y Operaciones]
+    A --> B[Producción y Cocina]
     A --> C[Marketing y Ventas]
     A --> D[Finanzas y Contabilidad]
     A --> E[Recursos Humanos]
@@ -1549,7 +1549,7 @@ Al ser este un emprendimiento pequeño, el Director también debe asumir:
 - Finanzas básicas.
 - Supervisión de marketing.
 
-🔹 Producción y Operaciones (Núcleo operativo)
+🔹 Producción y Cocina (Núcleo operativo)
 
 - Preparación de desayunos saludables.
 - Control de calidad.
@@ -1606,186 +1606,93 @@ flowchart TD
     E --> E1[Repartidores]
 ```
 
-## 📌 Adaptación realista para emprendimiento pequeño
-
-En fase inicial podría quedar así:
-
 - 👤 Fundador = Gerente + Finanzas + Supervisión Marketing
-    
-- 👤 1 Cocinero principal
-    
-- 👤 1 Auxiliar
-    
-- 👤 1 Community Manager (freelancer)
-    
-- 👤 1-2 Repartidores
-    
+- 👤 1 Cocinero principal + Auxiliar + Repartidores
+- 👤 1 Community Manager (Pasante)
 
----
+#### Recursos
 
-# 3️⃣ RECURSOS DE EASY BREAKFAST
-
-## 🔹 Recurso Humano
+🔹 Recurso Humano: Proyección a futuro
 
 - Gerente General
-    
 - Cocinero
-    
 - Auxiliar de cocina
-    
 - Community Manager
-    
 - Repartidores
-    
 
----
-
-## 🔹 Recurso Financiero
+🔹 Recurso Financiero
 
 - Capital inicial
-    
 - Flujo de caja
-    
 - Ingresos por ventas
-    
 - Posibles inversionistas o socios
-    
 
----
-
-## 🔹 Recurso Tecnológico
+🔹 Recurso Tecnológico
 
 - Celular empresarial
-    
 - WhatsApp Business
-    
 - Redes sociales
-    
-- Software contable
-    
-- Plataforma de pedidos
-    
+- Plataforma web de pedidos
 - Computadora
-    
 - Internet
-    
 
----
-
-## 🔹 Recursos Materiales
+🔹 Recursos Materiales
 
 - Cocina equipada
-    
 - Refrigeradora
-    
 - Utensilios
-    
 - Envases biodegradables
-    
 - Insumos (frutas, avena, proteínas, etc.)
-    
 - Motocicletas o bicicletas para delivery
-    
 
----
+#### Cadena de mando
 
-# 4️⃣ CADENA DE MANDO EN EASY BREAKFAST
+🔺 Ápice Estratégico
 
-Siguiendo la teoría que viste en clase:
+- Fundador / Gerente General
 
-### 🔺 Ápice Estratégico
-
-Fundador / Gerente General
-
-### 🔹 Línea Media
+🔹 Línea Media
 
 - Jefe de Producción
-    
 - Encargado de Marketing
-    
 - Administrador Financiero
-    
 - Encargado de Logística
-    
 
-### 🔹 Núcleo Operativo
+🔹 Núcleo Operativo
 
 - Cocineros
-    
 - Auxiliares
-    
 - Repartidores
-    
 
-### 🔹 Tecnoestructura
+🔹 Tecnoestructura
 
 - Contador externo
-    
 - Asesor legal
-    
 - Diseñador gráfico freelance
-    
 
-### 🔹 Staff de apoyo
+🔹 Staff de apoyo
 
-- Servicio de limpieza (si aplica)
-    
 - Proveedor de insumos
-    
 
----
+#### Otros componentes operativos a considerar a futuro
 
-# 5️⃣ ¿Existen otros componentes operativos?
+1. Área de Atención al Cliente: Puede estar dentro de Marketing.
+2. Control de Calidad: Puede estar dentro de Producción.
+3. Innovación y Desarrollo de Producto
+	
+	- Nuevos menús.
+	- Nuevos planes fitness.
+	- Ediciones especiales.
 
-Sí ✅ Para tu modelo de negocio online y delivery, podrías considerar:
 
-### 🔸 1. Área de Logística (Muy recomendable)
+Actualmente Easy Breakfast tiene:
 
-Porque tu propuesta es delivery saludable.
-
-### 🔸 2. Área de Atención al Cliente
-
-Puede estar dentro de Marketing.
-
-### 🔸 3. Control de Calidad
-
-Puede estar dentro de Producción.
-
-### 🔸 4. Innovación y Desarrollo de Producto
-
-- Nuevos menús.
-    
-- Nuevos planes fitness.
-    
-- Ediciones especiales.
-    
-
-En etapa pequeña esto lo asume el Gerente.
-
----
-
-# 📌 CONCLUSIÓN ESTRUCTURAL
-
-Easy Breakfast tendría:
-
-- 🔹 Estructura funcional
-    
-- 🔹 Organización centralizada
-    
-- 🔹 Margen de control medio
-    
-- 🔹 Departamentalización por función empresarial
-    
-- 🔹 Alta formalidad en procesos de producción
-    
-- 🔹 Especialización media
-    
-
----
-
-Si quieres, puedo prepararte una versión más formal redactada tipo trabajo académico lista para entregar 📄✨
-
-O incluso hacerte una versión más simplificada tipo diapositiva para exposición.
+- Estructura funcional
+- Organización centralizada
+- Margen de control medio
+- Departamentalización por función empresarial
+- Alta formalidad en procesos de producción
+- Especialización media
 
 
 
@@ -1793,33 +1700,12 @@ O incluso hacerte una versión más simplificada tipo diapositiva para exposici�
 
 
 
----
 
-Dentro de mi proyecto debes adaptar los componentes operativos para crear un organigrama estructural hecho con mermaid, entre ellos existen:
-	- Dirección general (dirige todas las operaciones de la empresa)
-	- Recursos humanos (manejo de personal y sus beneficios)
-	- Producción (área operativa, elabora el producto)
-	- Finanzas y contabilidad (se encarga de los costos, balances y finanzas de una empresa)
-	- Mercadeo (promociona los productos o servicios de la empresa)
 
-Puede que el gerente general o director general se encargue de 1 o 2 tareas, solo debes diferenciar estas áreas, esto tiene que adaptarse a un emprendimiento pequeño lo que es Easy Breakfast:
 
-Crees que existen otros componentes operativos, dame opciones de ser así.
 
-Nota: Todo se reduce al organigrama donde se deben definir las áreas de Easy Breakfast.
 
-También definir los roles, para lo cual debes hacer otro organigrama hecho en mermaid para también ver esta estructura con roles.
 
-Define los recursos de Easy Breakfast, algo como:
-
-- Recurso Humano
-- Recurso Financiero
-- Recurso Tecnológico
-- Recursos Materiales
-
-Define la Cadena de mando dentro del organigrama.
-
-En la clase tomé estos apuntes, quizá te sean útiles para hacer el organigrama que es el resultado final de la estructura organizacional.
 
 
 
