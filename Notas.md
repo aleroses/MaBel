@@ -1647,18 +1647,18 @@ flowchart TD
 
 #### Cadena de mando
 
-🔺 Ápice Estratégico
+🔺 Ápice Estratégico: María Belén Valenzuela Huilcarema
 
-- Fundador / Gerente General
+- Fundadora / Gerente General
+- Administrador Financiero
+- Encargado de Marketing
 
 🔹 Línea Media
 
 - Jefe de Producción
-- Encargado de Marketing
-- Administrador Financiero
 - Encargado de Logística
 
-🔹 Núcleo Operativo
+🔹 Núcleo Operativo: Personal a contratar
 
 - Cocineros
 - Auxiliares
@@ -1694,7 +1694,11 @@ Actualmente Easy Breakfast tiene:
 - Alta formalidad en procesos de producción
 - Especialización media
 
+## Semana 08
 
+[Clase 08](https://isteambato-my.sharepoint.com/personal/edison_narvaez_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fedison%5Fnarvaez%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FPROYECTOS%20DE%20EMPRENDIMIENTO%20%20%2D%20V%20NIVEL%20DE%20ADMINISTRACION%20Y%20EMPRENDIMIENTO%20DE%20EMPRESAS%2D20250701%5F181551%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8d3ebf08%2De999%2D42ca%2D93d6%2Dd7b58b4ae971)
+
+### J1 Estructura organizacional
 
 
 
