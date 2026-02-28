@@ -18,6 +18,9 @@
 
 https://www.youtube.com/watch?v=DDztRfmhydw
 
+## Fijar página
+
+[Fijar página](como hacer para que una hoja no se mueva)
 
 añadir normalización a titulos, subtitulos, parrafos y tablas
 https://www.youtube.com/watch?v=BTgydhd7ZGY
@@ -34,7 +37,7 @@ Shift + F3 mayusculas
 
 
 
-como hacer para que una hoja no se mueva
+
 
 que es vincular y desvincular paginas
 
