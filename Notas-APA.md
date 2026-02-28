@@ -10,7 +10,9 @@
 
 ## Enumerar páginas
 
-[Enumerar páginas en word](https://www.youtube.com/watch?v=s1A-UjSC3-U)
+- [Enumerar páginas en word](https://www.youtube.com/watch?v=s1A-UjSC3-U)
+- [Numerar con romanos y arábicos](https://www.youtube.com/watch?v=lA5W5FvbwD8)
+- [Enumerar](https://www.youtube.com/watch?v=YbOIEPxoZS4)
 
 ## Crear dedicatoria y agradecimiento
 
