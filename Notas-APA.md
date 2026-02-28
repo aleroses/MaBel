@@ -32,7 +32,7 @@ Shift + F3 mayusculas
 
 
 
-
+como hacer para que una hoja no se mueva
 
 que es vincular y desvincular paginas
 
@@ -82,16 +82,27 @@ PROYECTO DE EMPRENDIMIENTO
 │	├── Metodología
 │	├── Resultados
 │	└── Palabras clave (máx. 5)
-├── Índice de contenidos
-├── Índice de tablas
-├── Índice de figuras
+├── Índices
+│	├── Índice de contenidos
+│	├── Índice de tablas
+│	└── Índice de figuras
 ├── Introducción
-├── Planteamiento del problema
-├── Objetivos
-├── Marco Administrativo (Canvas)
+│	├── Planteamiento del problema
+│	├── Objetivos
+│	│	├── Objetivo General
+│	│	└── Objetivos Específicos
+│	├── Marco Teórico
+│	├── Marco Metodológico
+│	├── Marco Administrativo (Canvas)
+│	├──
+│	├──
+│	└──
+├── 
+├── 
+├── 
 ├── Filosofía Organizacional
-├── Marco Teórico
-├── Marco Metodológico
+├── 
+├── 
 ├── Resultados
 ├── Conclusiones
 ├── Recomendaciones
@@ -99,3 +110,5 @@ PROYECTO DE EMPRENDIMIENTO
 ├── Referencias bibliográficas
 └── Anexos
 ```
+
+Por favor ayudame a redactar la introducción segun mi proyecto Easy Breakfast toca todos los puntos que la conforman teniendo en cuenta el archivo Formato_proyecto_admin que son los lineamientos a seguir.
