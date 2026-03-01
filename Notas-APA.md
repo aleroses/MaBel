@@ -30,11 +30,19 @@
 
 ## Crear índice
 
+[Índice Automático](https://www.youtube.com/watch?v=YNnDneozLT0)
 
+## Girar horizontalmente una página
 
+[Como poner en horizontal una hoja](https://www.youtube.com/watch?v=vtyFeBj8kGk)
 
+## Imágenes con normas APA
 
+[Figuras Normas APA 7ma Edición + Estandarizar estilos](https://www.youtube.com/watch?v=fY6FNZHpOq4)
 
+Nota o fuente:
+
+Nota: El gráfico representa la población (en miles) de hombre y mujeres de una ciudad de 1990 a 2025
 
 
 tablas
