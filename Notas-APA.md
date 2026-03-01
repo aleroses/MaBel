@@ -16,17 +16,20 @@
 
 ## Crear dedicatoria y agradecimiento
 
-https://www.youtube.com/watch?v=DDztRfmhydw
+[Configurar sangrías en Dedicatoria](https://www.youtube.com/watch?v=DDztRfmhydw)
 
 ## Fijar página
 
-[Fijar página](como hacer para que una hoja no se mueva)
+[Evitar que el texto se mueva](https://www.youtube.com/watch?v=QwhRyK3NZCY)
 
 ## Normalizar titulos y subtitulos
 
 - [Numeración de Títulos y Subtítulos](https://www.youtube.com/watch?v=rgcB43B8Sv4)
 - [Títulos y Subtítulos con formato de Normas APA 7ma Edición](https://www.youtube.com/watch?v=vUgkBYcHu5U)
 - [Numeración de títulos y Subtítulos](https://www.youtube.com/watch?v=BTgydhd7ZGY)
+
+## Crear índice
+
 
 
 

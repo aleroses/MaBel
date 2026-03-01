@@ -1827,7 +1827,8 @@ compras publicas
 ---
 Descripción de puestos
 obligaciones laborales en el ecuador
-#### Objetivos
+
+## Objetivos
 
 Objetivo General
 
@@ -1841,7 +1842,7 @@ Objetivos Específicos
 - Implementar un sistema de fidelización de clientes.
 - Reducir el desperdicio de alimentos mediante el sistema de preventa.
 
-#### Análisis FODA
+## Análisis FODA
 
 Fortalezas
 
@@ -1873,7 +1874,7 @@ Amenazas
 
 ---
 
-#### Necesitas saber:
+## Necesitas saber:
 
 1. ¿Tus desayunos son personalizados?  
 	Debe existir un catálogo en nuestra web mostrando alguna variedad de desayunos saludables, podrían ser como base hotcakes de avena con mantequilla de mani encima o quizá mermelada de café (usaremos estevia o algo parecido para endulzar), encima puedes elegir añadir rodajas de plátano, fresas picadas o arándanos picados. Pero esa es solo una alternativa, me gustaría que crees al menos 5 desayunos más que se puedan personalizar y donde se puedan añadir o quitar cosas, algo parecido al desayuno que ya te describí. Ah y una bebida que no he visto es ponche de habas, es muy nutritiva y podría sumar bebida de maca o cosas así.
@@ -2054,3 +2055,8 @@ Opciones:
 - Jugo verde detox
     
 - Café orgánico sin azúcar
+
+## Notas importantes
+
+Publico entre 25 - 45 años 
+personal de cocina, repartidor y community manager como pasante
