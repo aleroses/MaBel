@@ -92,19 +92,13 @@ PROYECTO DE EMPRENDIMIENTO
 │	├── Índice de tablas
 │	└── Índice de figuras
 ├── Introducción
-│	├── Planteamiento del problema
-│	├── Objetivos
-│	│	├── Objetivo General
-│	│	└── Objetivos Específicos
+│	└── Planteamiento del problema
+├── Objetivos
+│	├── Objetivo General
+│	└── Objetivos Específicos
+├── Marco Administrativo (Canvas)
 │	├── Marco Teórico
-│	├── Marco Metodológico
-│	├── Marco Administrativo (Canvas)
-│	├──
-│	├──
-│	└──
-├── 
-├── 
-├── 
+│	└── Marco Metodológico
 ├── Filosofía Organizacional
 ├── 
 ├── 
