@@ -116,11 +116,13 @@ PROYECTO DE EMPRENDIMIENTO
 │	├── Objetivo General
 │	└── Objetivos Específicos
 ├── Marco Administrativo (Canvas)
-│	├── Marco Teórico
-│	└── Marco Metodológico
-├── Filosofía Organizacional
-├── 
-├── 
+│	├── Model Canvas
+│	├── Marco Metodológico
+│	├── Filosofía Organizacional
+│	│	├── Misión
+│	│	├── Visión
+│	│	└── Valores
+│	└── Marca / Branding
 ├── Resultados
 ├── Conclusiones
 ├── Recomendaciones
