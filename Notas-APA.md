@@ -130,5 +130,3 @@ PROYECTO DE EMPRENDIMIENTO
 ├── Referencias bibliográficas
 └── Anexos
 ```
-
-Por favor ayudame a redactar la introducción segun mi proyecto Easy Breakfast toca todos los puntos que la conforman teniendo en cuenta el archivo Formato_proyecto_admin que son los lineamientos a seguir.
