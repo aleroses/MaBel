@@ -40,9 +40,9 @@
 
 [Figuras Normas APA 7ma Edición + Estandarizar estilos](https://www.youtube.com/watch?v=fY6FNZHpOq4)
 
-Nota o fuente:
+## Colocar enlaces
 
-Nota: El gráfico representa la población (en miles) de hombre y mujeres de una ciudad de 1990 a 2025
+[Insertar Hipervinculos](https://www.youtube.com/watch?v=QzzI1fiyzdQ)
 
 
 tablas
