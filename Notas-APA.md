@@ -205,7 +205,7 @@ PROYECTO PLAN DE NEGOCIOS – CENTRO CULTURAL ARTE Y VIDA
 │   ├── Gestión cultural
 │   └── Modelos de negocio culturales
 │
-├── Marco Metodológico
+├── Marco Metodológico ----------------
 │   ├── Paradigma de investigación
 │   │   ├── Cuantitativo
 │   │   └── Cualitativo
