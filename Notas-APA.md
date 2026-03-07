@@ -50,7 +50,7 @@ tablas
 
 Shift + F3 mayusculas
 
-
+como usar Mendeley
 
 
 
@@ -129,4 +129,107 @@ PROYECTO DE EMPRENDIMIENTO
 ├── Propuesta
 ├── Referencias bibliográficas
 └── Anexos
+```
+
+Otro:
+
+```bash
+PROYECTO PLAN DE NEGOCIOS – CENTRO CULTURAL ARTE Y VIDA
+│
+├── Portada
+│   ├── Título del proyecto
+│   ├── Autor
+│   ├── Tutor
+│   └── Institución
+│
+├── Dedicatoria
+│
+├── Agradecimiento
+│
+├── Resumen
+│   ├── Problema
+│   ├── Objetivo
+│   ├── Metodología
+│   ├── Resultados esperados
+│   └── Palabras clave
+│
+├── Índices
+│   ├── Índice de contenidos
+│   ├── Índice de tablas
+│   └── Índice de figuras
+│
+├── Introducción
+│   ├── Contexto cultural
+│   ├── Importancia del proyecto
+│   ├── Problema general
+│   └── Enfoque del plan de negocios
+│
+├── Capítulo I. Marco Referencial
+│   ├── Antecedentes del problema
+│   ├── Planteamiento del problema
+│   ├── Formulación del problema
+│   ├── Objetivos
+│   |   ├── Objetivo general
+│   |   └── Objetivos específicos
+│   ├── Justificación
+│   ├── Delimitación
+
+
+
+
+├── Planteamiento del Problema
+│   ├── Contexto cultural de Loja
+│   ├── Problemas de sostenibilidad cultural
+│   ├── Falta de planificación empresarial
+│   └── Justificación del proyecto
+│
+├── Objetivos
+│   ├── Objetivo General
+│   └── Objetivos Específicos
+│
+├── Marco Administrativo
+│   └── Modelo Canvas
+│       ├── Segmentos de Clientes
+│       ├── Propuesta de Valor
+│       ├── Canales
+│       ├── Relación con Clientes
+│       ├── Fuentes de Ingreso
+│       ├── Recursos Clave
+│       ├── Actividades Clave
+│       ├── Socios Clave
+│       └── Estructura de Costos
+│
+├── Marco Teórico
+│   ├── Economía creativa
+│   ├── Emprendimiento cultural
+│   ├── Gestión cultural
+│   └── Modelos de negocio culturales
+│
+├── Marco Metodológico
+│   ├── Paradigma de investigación
+│   │   ├── Cuantitativo
+│   │   └── Cualitativo
+│   │
+│   ├── Tipo de investigación
+│   │   ├── Descriptiva
+│   │   ├── Explicativa
+│   │   └── Correlacional
+│   │
+│   ├── Métodos
+│   │
+│   ├── Técnicas de investigación
+│   │   ├── Encuestas
+│   │   ├── Entrevistas
+│   │   └── Observación
+│   │
+│   ├── Población
+│   ├── Muestra
+│   └── Delimitación del estudio
+│
+└── Plan Financiero
+    ├── Inversión inicial
+    ├── Costos operativos
+    ├── Proyección de ingresos
+    ├── Flujo de caja
+    └── Análisis de rentabilidad
 ```
