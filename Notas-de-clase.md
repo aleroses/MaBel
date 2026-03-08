@@ -1992,11 +1992,11 @@ los objetivos especificos empiezan con el análisis de los elementos.
 casnvas sin fondo
 colocar proveedores reales (mercado mayorista)
 
-![[Pasted image 20260308165344.png]]
+![[ref_bibliograficas.png]]
 
 hacer encuesta: colocar el objetivo de la encuesta, pie de pagina y nombre de la carrera
 
-![[Pasted image 20260308165611.png]]
+![[encuesta.png]]
 
 pregunta filtro:
 usted desayuna de manera saludable
