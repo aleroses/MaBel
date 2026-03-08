@@ -195,38 +195,4 @@ presupuesto
 
 ├── Referencias bibliográficas
 anexos: graficos encuesta 30 - 50 
-
-├── Marco Teórico
-│   ├── Economía creativa
-│   ├── Emprendimiento cultural
-│   ├── Gestión cultural
-│   └── Modelos de negocio culturales
-│
-├── Marco Metodológico ----------------
-│   ├── Paradigma de investigación
-│   │   ├── Cuantitativo
-│   │   └── Cualitativo
-│   │
-│   ├── Tipo de investigación
-│   │   ├── Descriptiva
-│   │   ├── Explicativa
-│   │   └── Correlacional
-│   │
-│   ├── Métodos
-│   │
-│   ├── Técnicas de investigación
-│   │   ├── Encuestas
-│   │   ├── Entrevistas
-│   │   └── Observación
-│   │
-│   ├── Población
-│   ├── Muestra
-│   └── Delimitación del estudio
-│
-└── Plan Financiero
-    ├── Inversión inicial
-    ├── Costos operativos
-    ├── Proyección de ingresos
-    ├── Flujo de caja
-    └── Análisis de rentabilidad
 ```
