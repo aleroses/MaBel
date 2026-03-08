@@ -1918,13 +1918,46 @@ Lo que no funciona:
 
 ### J2 
 
+La anatomía del FODA en Roobert.png
 
+![[dafo.png]]
 
+1. Origen Interno + Impacto Positivo = Fortalezas
+2. Origen Interno + Impacto Negativo = Debilidades
+3. Origen Externo + Impacto Positivo = Oportunidades
+4. Origen Externo + Impacto Negativo = Amenaza
 
+El Eje Interno: Lo que podemos controlar
 
+Fortalezas:
 
+¿Qué hacemos excepcionalmente bien?  
+¿Qué nos hace especiales ante nuestra audiencia?
 
+Ejemplos a evaluar: Recursos humanos, finanzas, procesos internos, experiencias anteriores existosas.
 
+Debilidades:
+
+¿Qué iniciativas no funcionan como deberían?  
+¿Qué recursos críticos críticos nos faltan?
+
+La clave es evaluar las fortalezas primero para establecer una referencia de éxito.
+
+El eje Externo: El entorno que navegamos
+
+Oportunidades:
+
+¿Hay brechas de mercado en nuestros servicios?  
+¿Qué recursos podemos usar para mejorar nuestras áreas débiles?
+
+Ejemplos a evaluar: Tendencias futuras, cambios demográficos, apoyo gubernamental.
+
+Amenazas
+
+¿Qué cambios en el sector o legalización son preocupantes?  
+¿En qué áreas precisas nos supera la competencia?
+
+Se enfatiza que aunque son incontrolables, se pueden mitigar.
 
 
 
