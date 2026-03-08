@@ -159,89 +159,43 @@ PROYECTO PLAN DE NEGOCIOS – CENTRO CULTURAL ARTE Y VIDA
 │   └── Índice de figuras
 │
 ├── Introducción
-│   ├── Contexto cultural
-│   ├── Importancia del proyecto
-│   ├── Problema general
-│   └── Enfoque del plan de negocios
-│
-├── Capítulo I. Marco Referencial
-│   ├── Antecedentes del problema
-│   ├── Planteamiento del problema
-│   ├── Formulación del problema
-│   ├── Objetivos
-│   |   ├── Objetivo general
-│   |   └── Objetivos específicos
-│   ├── Justificación
-│   ├── Delimitación
-├── Marco Teórico
-Plan estratégico de ventas
-Modelo de negocio Canvas
-Rentabilidad
-Biolubricantes ecológicos
-Marco legal
-├── Marco Metodológico
-Enfoque de la investigación
-Tipo y alcance de la investigación
-
-Métodos de investigación
-Método analítico
-Método inductivo
-Método deductivo
-Método sintético
-
-Técnicas e instrumentos de recolección de información
-Técnicas primarias
-- Encuesta
-- Entrevista informal
-  
-Técnicas secundarias
-- Revisión documental
-
-Población y muestra
-Técnicas de análisis de la información
-
-Resultados y análisis
-
-Técnicas e instrumentos de recolección de información
-
-Técnicas primarias
-- Encuesta
-- Entrevista informal
-  
- Técnicas secundarias
- - Revisión documental
-   Población y muestra
-   Procedimiento de la investigación
-- Revisión de la literatura
-- Diagnóstico situacional
-- Recolección de información primaria
-- Análisis e interpretación de resultados
-- Diseño de plan estratégico de ventas
-- Formulación de conclusiones y recomendaciones
-
-
-├── Planteamiento del Problema
-│   ├── Contexto cultural de Loja
-│   ├── Problemas de sostenibilidad cultural
-│   ├── Falta de planificación empresarial
-│   └── Justificación del proyecto
-│
-├── Objetivos
-│   ├── Objetivo General
-│   └── Objetivos Específicos
-│
+├── Planteamiento del problema
+├── Objetivo general
+├── Objetivos específicos
 ├── Marco Administrativo
-│   └── Modelo Canvas
-│       ├── Segmentos de Clientes
-│       ├── Propuesta de Valor
-│       ├── Canales
-│       ├── Relación con Clientes
-│       ├── Fuentes de Ingreso
-│       ├── Recursos Clave
-│       ├── Actividades Clave
-│       ├── Socios Clave
-│       └── Estructura de Costos
-│
+│   ├── Model CANVAS
+│   ├── Filosofia Organizacional: mision vision valores
+│   ├── Marca / Branding (arquetipo)
+1. datos generales del proyecto: 
+nombre del proyecto, tipo de proyecto: emprendimiento gastronómico, productos saludables. Area: alimentos Propósito del proyecto: 
+2. Objetivos del branding: construir una identidad de marca auténtica y diferenciada que posicione a x como un referente de picante artesanal de calidad
+│   └── Logotipo y eslogan - arquetipo
+
+sigue encuesta
+
+
+
+
+├── Marco Teórico
+
+
+
+├── Conclusiones
+recomendaciones
+Marco Metodológico
+Propuesta
+Titulo de la propuesta
+esquema gráfico de la propuesta
+introducción
+justificación
+objetivos
+plan de acción
+cronograma 
+presupuesto
+
+├── Referencias bibliográficas
+anexos: graficos encuesta 30 - 50 
+
 ├── Marco Teórico
 │   ├── Economía creativa
 │   ├── Emprendimiento cultural

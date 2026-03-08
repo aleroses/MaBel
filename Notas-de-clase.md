@@ -1959,20 +1959,62 @@ Amenazas
 
 Se enfatiza que aunque son incontrolables, se pueden mitigar.
 
+Las 4 Estrategias de Acción Cruzada
 
-53.54
+Estrategia OF (Maximizar-Maximizar)
+
+Usar fortalezas internas para obtener ventaja absoluta de las oportunidades externas.
+
+Estrategia OD (Minimizar-Maximizar)
+
+Superar las debilidades internas aprovechando las oportunidades del entorno.
+
+Estrategia FA (Maximizar-Minimizar)
+
+Utilizar las fortalezas organizacionales para evitar o mitigar las amenazas.
+
+Estrategia DA (Minimizar-Minimizar)
+
+Tácticas defensivas para minimizar debilidades y eludir amenazas catastróficas.
+
+
+> Para llegar al análisis foda es necesario analizar los factores internos y externos, para los externos usamos la metodologia pestel para determinar oportunidades y amenazas para finalmente una radiografia interna. Posteriormente debemos ejecutar la matriz cruzada fo fa do da
 
 
 
+Debe tener conectores logicos
+
+Plan de negocios de Easy Breakfast, preventa online de desayunos saludables
+
+los objetivos especificos empiezan con el análisis de los elementos.
 
 
+casnvas sin fondo
+colocar proveedores reales (mercado mayorista)
+
+![[Pasted image 20260308165344.png]]
+
+hacer encuesta: colocar el objetivo de la encuesta, pie de pagina y nombre de la carrera
+
+![[Pasted image 20260308165611.png]]
+
+pregunta filtro:
+usted desayuna de manera saludable
+
+pregunta neutra:
+xxxx
+que aspectos considera mas importante al adquirir
+
+Cuanto destina usted a desayunar.
 
 
+con que frecuencia
 
+estaria dispuesto a contratar los servicios de desayuno para su empresa
 
+de elegir nuestro servicio que tipo de desayuno elegiría
 
-
-
+añadir citas en la introducción
 
 
 
