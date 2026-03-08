@@ -7,12 +7,13 @@
 - [Drive](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FAVANCE%20SEMANA%208%20PROYECTO%202026&ga=1)
 
 
-[Explicación del uso del formato](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FReuni%C3%B3n%20con%20VICENTE%20DAVID%20CATOTA%20MESIAS%2D20260126%5F095940%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E99ab5f99%2Dd400%2D4539%2D9d78%2Db5886774e64a
-)
+[Explicación del uso del formato](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FReuni%C3%B3n%20con%20VICENTE%20DAVID%20CATOTA%20MESIAS%2D20260126%5F095940%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E99ab5f99%2Dd400%2D4539%2D9d78%2Db5886774e64a)
+
+- [Grabaciones](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones&FolderCTID=0x0120007B83A56E37CBED41B654C224B02B0DE4&view=0)
 
 ## Semana 01
 
-[Clase 01](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251115%5F081001%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2b67c95b%2D3e24%2D4abb%2Dabdf%2D7af958189c71)
+[Clase 01 - 15 Noviembre de 2025](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251115%5F081001%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2b67c95b%2D3e24%2D4abb%2Dabdf%2D7af958189c71)
 
 ### J1 Presentación
 
@@ -59,7 +60,7 @@ matriz vcg
 
 ## Semana 02
 
-[Clase 02](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251122%5F080855%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7158b88e%2Dd90b%2D4b68%2D9227%2D75c86301bb9b)
+[Clase 02 - 22 de noviembre de 2025](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251122%5F080855%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E7158b88e%2Dd90b%2D4b68%2D9227%2D75c86301bb9b)
 
 ### J2 The Business model canvas
 
@@ -375,7 +376,7 @@ Muchas gracias.
 
 ## Semana 03
 
-[Clase 03](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251129%5F080804%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eff2ee35d%2Dace4%2D4328%2D8d94%2D47b7ec8d1c55)
+[Clase 03 - 29 de Noviembre de 2025](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251129%5F080804%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eff2ee35d%2Dace4%2D4328%2D8d94%2D47b7ec8d1c55)
 
 ### J2 Misión, Visión y Valores
 
@@ -506,7 +507,7 @@ Nota: 5 o 6 valores como máximo.
 
 ## Semana 04
 
-[Clase 04](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ1%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251202%5F190522%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee3a1b84%2D7278%2D4f62%2D83e7%2D5267ae4798c1)
+[Clase 04 - 2 de Diciembre de 2025](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ1%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20251202%5F190522%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eee3a1b84%2D7278%2D4f62%2D83e7%2D5267ae4798c1)
 
 ### J1 Arquetipos y Branding
 
@@ -1809,8 +1810,6 @@ Métodos para calcular la demanda
 	Esto permite estimar una demanda promedio esperada si entras al mismo mercado.
 
 
----
-
 Para el proyecto hay que escoger uno de los 3 Métodos
 
 dar una ubicación al negocio, no importa que sea online
@@ -1820,6 +1819,161 @@ Diagrama de Flujo del proceso desde que el cliente hace el pedido hasta que lo r
 Flujograma
 
 compras publicas 
+
+
+## Semana xx
+
+[Clase x - 29 de Febrero](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20260228%5F080611%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3568330e%2D21d1%2D4b5b%2D9c5d%2Dd5c921e3065f)
+
+### J2 PESTEL: La evolución del Análisis Macro
+
+En los negocios, los resultados no dependen solo del producto. El entorno influye de manera crítica.
+
+La premisa: Antes de cualquier iniciativa, mira hacia afuera.
+
+- Políticos
+- Legales
+- Ecológicos
+- Económicos
+- Sociales
+- Tecnológicos
+
+Un sistema de aleta temprana para identificar fuerzas externas incontrolables antes de que impacten la operación.
+
+Factores de Estabilidad y Mercado (P + E)
+
+Políticos (El Gobierno)
+
+- ¿Existe estabilidad política o incertidumbre?
+- Políticas fiscales e incentivos empresariales.
+- Tratados de libre comercio y restricciones.
+- Respaldo de lobbies o grupos de poder.
+
+Económicos (El Pulso del Dinero)
+
+- Tasa de inflación y tipos de interés.
+- Crecimiento de PIB y desempleo.
+- Tipos de cambio (importación / exportación).
+- Poder adquisitivo y confianza del consumidor.
+
+Externas: Oportunidades y Amenazar (No controlable)
+Internas: Fortalezas y Debilidades (Controlable)
+
+Sociales (El Comportamiento)
+
+- Cambios demográficos y estructura familiar.
+- Nivel educativo y patrones de consumo.
+- Creencias culturales y actitudes hacia la salud.
+- Pregunta clave: ¿Mi producto encaja con el estilo de vida actual?
+
+Tecnológicos (La Velocidad)
+
+- Velocidad de obsolescencia tecnológica.
+- Inversión pública / privada en I + D.
+- Adopción de IA, Big Data y automatización.
+- Nuevos canales de distribución digital
+
+Ecológicos (El Planeta)
+
+- Cambio climático y protocolos de contaminación.
+- Hábitos de consumo sostenible (economía circular).
+- Regulaciones sobre reciclaje y emisiones.
+
+Legales (Las Reglas del Juego)
+
+- Propiedad intelectual y patentes.
+- Seguridad laboral y protección al consumidor.
+- Leyes antimonopolio.
+
+Caso real: La ley Rider. Empresas como  Glovo vieron su modelo impactado por cambios en la legislación laboral.
+
+Metodología: Cómo Ejecutar el Análisis
+
+1. Lluvia de ideas: Colaboración multifuncional.
+2. Investigación: Datos reales, informes, Appinio.
+3. Priorización: Clasificar por Impacto y Probabilidad. (matriz excel)
+4. Acción: Integrar en la estrategia.
+
+Insight: El pestel es un documento vivo. Debe actualizarse regularmente.
+
+PESTEL vs DAFO
+
+Realizar pestel antes del dafo. Los hallazgos del pestel alimental directamente las oportunidades y amenazas.
+
+Buenas Prácticas y Errores Comunes
+
+LO que sí funciona:
+- Colaboración: Involucrar a varios departamentos.
+- Datos Reales: Usar fuentes fiables, no intuición.
+- Actualización: Revisar cada 6 meses.
+
+Lo que no funciona:
+
+- Hacerlo solo: Evitar el sesgo de confirmación.
+- Parálisis por análisis: Demasiados datos irrelevantes.
+- Documento estático: Hacerlo una vez y archivarlo.
+
+
+## Semana xx
+
+### J2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

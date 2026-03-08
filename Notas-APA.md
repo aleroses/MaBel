@@ -173,8 +173,51 @@ PROYECTO PLAN DE NEGOCIOS – CENTRO CULTURAL ARTE Y VIDA
 │   |   └── Objetivos específicos
 │   ├── Justificación
 │   ├── Delimitación
+├── Marco Teórico
+Plan estratégico de ventas
+Modelo de negocio Canvas
+Rentabilidad
+Biolubricantes ecológicos
+Marco legal
+├── Marco Metodológico
+Enfoque de la investigación
+Tipo y alcance de la investigación
 
+Métodos de investigación
+Método analítico
+Método inductivo
+Método deductivo
+Método sintético
 
+Técnicas e instrumentos de recolección de información
+Técnicas primarias
+- Encuesta
+- Entrevista informal
+  
+Técnicas secundarias
+- Revisión documental
+
+Población y muestra
+Técnicas de análisis de la información
+
+Resultados y análisis
+
+Técnicas e instrumentos de recolección de información
+
+Técnicas primarias
+- Encuesta
+- Entrevista informal
+  
+ Técnicas secundarias
+ - Revisión documental
+   Población y muestra
+   Procedimiento de la investigación
+- Revisión de la literatura
+- Diagnóstico situacional
+- Recolección de información primaria
+- Análisis e interpretación de resultados
+- Diseño de plan estratégico de ventas
+- Formulación de conclusiones y recomendaciones
 
 
 ├── Planteamiento del Problema
