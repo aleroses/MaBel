@@ -161,18 +161,28 @@ PROYECTO PLAN DE NEGOCIOS – CENTRO CULTURAL ARTE Y VIDA
 │   ├── Índice de tablas
 │   └── Índice de figuras
 │
-├── Introducción
+├── Introducción (añadir citas + conectores logicos)
 ├── Planteamiento del problema
 ├── Objetivo general
 ├── Objetivos específicos
 ├── Marco Administrativo
 │   ├── Model CANVAS
-│   ├── Filosofia Organizacional: mision vision valores
+│   ├── Filosofia Organizacional: 
+│   │   ├── mision
+│   │   ├── vision
+│   │   └── valores
 │   ├── Marca / Branding (arquetipo)
-1. datos generales del proyecto: 
-nombre del proyecto, tipo de proyecto: emprendimiento gastronómico, productos saludables. Area: alimentos Propósito del proyecto: 
-2. Objetivos del branding: construir una identidad de marca auténtica y diferenciada que posicione a x como un referente de picante artesanal de calidad
-│   └── Logotipo y eslogan - arquetipo
+│   │   └── Datos generales del proyecto: 
+│   │       ├── Nombre del proyecto
+│   │       ├── Tipo de proyecto: emprendimiento gastronómico, productos saludables.
+│   │       ├── Area: alimentos
+│   │       ├── Propósito del proyecto: 
+│   │       └── Objetivos del branding:
+│   ├── Arquetipo
+│   │   ├── Descripcion del arquetipo 
+│   │   ├── Justificación de la elección
+│   │   └── Personalidad de Marca: Elemento, Tono de voz, Estilo, Valores, Relación con los clientes Promesa de marca
+│   └── Logotipo y eslogan
 
 sigue encuesta
 
@@ -196,6 +206,8 @@ plan de acción
 cronograma 
 presupuesto
 
-├── Referencias bibliográficas
+├── Referencias bibliográficas xxx
 anexos: graficos encuesta 30 - 50 
 ```
+
+![[Pasted image 20260308225624.png]]
