@@ -44,7 +44,10 @@
 
 [Insertar Hipervinculos](https://www.youtube.com/watch?v=QzzI1fiyzdQ)
 
+## Hacer tablas
 
+- [Hacer tablas en Word](https://www.youtube.com/watch?v=a1rJAawNwE4)
+- [Hacer tablas + APA](https://www.youtube.com/watch?v=7Qx5NenVJTY)
 tablas
 
 
