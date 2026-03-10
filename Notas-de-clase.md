@@ -1823,7 +1823,7 @@ compras publicas
 
 ## Semana xx
 
-[Clase x - 29 de Febrero](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20260228%5F080611%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3568330e%2D21d1%2D4b5b%2D9c5d%2Dd5c921e3065f)
+[Clase x - 28 de Febrero](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20260228%5F080611%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3568330e%2D21d1%2D4b5b%2D9c5d%2Dd5c921e3065f)
 
 ### J2 PESTEL: La evolución del Análisis Macro
 
@@ -1838,9 +1838,9 @@ La premisa: Antes de cualquier iniciativa, mira hacia afuera.
 - Sociales
 - Tecnológicos
 
-Un sistema de aleta temprana para identificar fuerzas externas incontrolables antes de que impacten la operación.
+Un sistema de alerta temprana para identificar fuerzas externas incontrolables antes de que impacten la operación.
 
-Factores de Estabilidad y Mercado (P + E)
+#### Factores de Estabilidad y Mercado (P + E)
 
 Políticos (El Gobierno)
 
@@ -1859,27 +1859,27 @@ Económicos (El Pulso del Dinero)
 Externas: Oportunidades y Amenazar (No controlable)
 Internas: Fortalezas y Debilidades (Controlable)
 
-Sociales (El Comportamiento)
+#### Sociales (El Comportamiento)
 
 - Cambios demográficos y estructura familiar.
 - Nivel educativo y patrones de consumo.
 - Creencias culturales y actitudes hacia la salud.
 - Pregunta clave: ¿Mi producto encaja con el estilo de vida actual?
 
-Tecnológicos (La Velocidad)
+#### Tecnológicos (La Velocidad)
 
 - Velocidad de obsolescencia tecnológica.
 - Inversión pública / privada en I + D.
 - Adopción de IA, Big Data y automatización.
 - Nuevos canales de distribución digital
 
-Ecológicos (El Planeta)
+#### Ecológicos (El Planeta)
 
 - Cambio climático y protocolos de contaminación.
 - Hábitos de consumo sostenible (economía circular).
 - Regulaciones sobre reciclaje y emisiones.
 
-Legales (Las Reglas del Juego)
+#### Legales (Las Reglas del Juego)
 
 - Propiedad intelectual y patentes.
 - Seguridad laboral y protección al consumidor.
@@ -1887,22 +1887,26 @@ Legales (Las Reglas del Juego)
 
 Caso real: La ley Rider. Empresas como  Glovo vieron su modelo impactado por cambios en la legislación laboral.
 
-Metodología: Cómo Ejecutar el Análisis
+#### Metodología: Cómo Ejecutar el Análisis
 
 1. Lluvia de ideas: Colaboración multifuncional.
 2. Investigación: Datos reales, informes, Appinio.
-3. Priorización: Clasificar por Impacto y Probabilidad. (matriz excel)
+3. **Priorización**: Clasificar por Impacto y Probabilidad. (matriz excel)
 4. Acción: Integrar en la estrategia.
 
 Insight: El pestel es un documento vivo. Debe actualizarse regularmente.
 
-PESTEL vs DAFO
+#### PESTEL vs DAFO
 
-Realizar pestel antes del dafo. Los hallazgos del pestel alimental directamente las oportunidades y amenazas.
+> Realizar pestel antes del dafo. Los hallazgos del pestel alimental directamente las oportunidades y amenazas.
 
-Buenas Prácticas y Errores Comunes
+PESTEL (Externo) => Oportunidades y Amenazas
 
-LO que sí funciona:
+
+#### Buenas Prácticas y Errores Comunes
+
+Lo que sí funciona:
+
 - Colaboración: Involucrar a varios departamentos.
 - Datos Reales: Usar fuentes fiables, no intuición.
 - Actualización: Revisar cada 6 meses.
@@ -1913,6 +1917,7 @@ Lo que no funciona:
 - Parálisis por análisis: Demasiados datos irrelevantes.
 - Documento estático: Hacerlo una vez y archivarlo.
 
+Los **stakeholders** (o partes interesadas) son personas, grupos u organizaciones que tienen interés, influyen o se ven afectados por las actividades, decisiones y resultados de una empresa o proyecto. Pueden ser internos (empleados, dueños) o externos (clientes, proveedores, gobierno, sociedad). Son claves para el éxito empresarial.
 
 ## Semana xx
 
