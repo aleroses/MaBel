@@ -50,6 +50,10 @@
 - [Hacer tablas + APA](https://www.youtube.com/watch?v=7Qx5NenVJTY)
 tablas
 
+## Insertar citas
+
+- [Añadir citas bibliografícas](https://www.youtube.com/watch?v=gNTfdcMkKGk)
+- [Insertar citas](https://www.youtube.com/shorts/QyW_jt8lVSQ)
 
 Shift + F3 mayusculas
 
