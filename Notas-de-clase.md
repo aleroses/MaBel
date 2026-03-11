@@ -1994,6 +1994,108 @@ Estrategia DA (Minimizar-Minimizar)
 
 > Para llegar al análisis foda es necesario analizar los factores internos y externos, para los externos usamos la metodologia pestel para determinar oportunidades y amenazas para finalmente una radiografia interna. Posteriormente debemos ejecutar la matriz cruzada fo fa do da
 
+### 🥗 Easy Breakfast: FODA
+
+1. Fortalezas (Factores internos positivos – Controlables)
+
+	- Modelo de preventa online, que permite planificar la producción y reducir desperdicios.
+	- Propuesta de valor saludable, alineada con tendencias actuales de alimentación.
+	- Uso de plataformas digitales para pedidos y promoción (web y redes sociales).
+	- Bajo costo inicial de operación al ser un microemprendimiento.
+	- Productos diferenciados como hotcakes con frutas y ponche de habas.
+	- Flexibilidad operativa, al poder ajustar la producción según la demanda diaria.
+	- Segmento claro de mercado (estudiantes y profesionales con poco tiempo).
+
+2. Debilidades (Factores internos negativos – Controlables)
+
+	- Marca nueva sin posicionamiento en el mercado.
+	- Limitados recursos financieros para marketing o expansión.
+	- Capacidad de producción limitada en las primeras etapas.
+	- Dependencia inicial de redes sociales para promoción.
+	- Falta de experiencia empresarial en gestión de alimentos a gran escala.
+	- Dependencia de proveedores de insumos alimenticios.
+	- Logística de entrega aún en fase de desarrollo.
+
+3. Oportunidades (Factores externos positivos – No controlables)
+
+	- (Extraídas directamente del análisis PESTEL)
+	- Crecimiento del consumo online y pedidos por internet.
+	- Mayor interés por la alimentación saludable.
+	- Estilo de vida acelerado de estudiantes y trabajadores.
+	- Poco tiempo para preparar desayunos en casa.
+	- Uso masivo de redes sociales para promoción de productos.
+	- Desarrollo de aplicaciones de delivery.
+	- Crecimiento de pagos digitales.
+	- Preferencia por productos sostenibles y ecológicos.
+	- Regulaciones sanitarias claras que permiten formalizar el negocio.
+
+4. Amenazas (Factores externos negativos – No controlables)
+
+	- (Extraídas del análisis PESTEL)
+	- Alta informalidad en venta de alimentos callejeros.
+	- Bajo poder adquisitivo de algunos consumidores.
+	- Incremento del precio de alimentos básicos.
+	- Riesgos derivados de la inseguridad nacional.
+	- Bajo apoyo estatal a emprendimientos.
+	- Obligaciones sanitarias y permisos municipales.
+	- Legislación laboral para contratación de empleados.
+	- Competencia de negocios informales con precios bajos.
+
+#### Matriz FODA simplificada
+
+| Interno / Externo | Positivo             | Negativo    |
+|-------------------|----------------------|-------------|
+| Interno           | Fortalezas	       | Debilidades |
+|                   | Modelo de preventa   | Marca nueva |
+|                   | Productos saludables | Poco capital |
+|                   | Uso de tecnología	   | Producción limitada |
+|                   | Segmento definido	   | Logística inicial   |
+| Externo           | Oportunidades        | Amenazas            |
+|                   | Tendencia saludable  | Informalidad        |
+|                   | Compras online       | Subida de precios   |
+|                   | Falta de tiempo para cocinar | Bajo poder adquisitivo |
+|                   | Apps de delivery     | Regulaciones |
+
+Conexión con la matriz cruzada
+
+Del FODA salen las estrategias:
+
+Estrategia FO (Fortalezas + Oportunidades)
+
+Usar fortalezas para aprovechar oportunidades.
+
+Ejemplo:
+
+- Implementar preventa digital aprovechando el aumento de compras online.
+- Promocionar desayunos saludables en redes aprovechando la tendencia saludable.
+
+Estrategia DO (Debilidades + Oportunidades)
+
+Superar debilidades usando oportunidades.
+
+Ejemplo:
+
+- Usar redes sociales y marketing digital para compensar el bajo presupuesto de publicidad.
+- Usar apps de delivery para mejorar la logística de distribución.
+
+Estrategia FA (Fortalezas + Amenazas)
+
+Usar fortalezas para reducir amenazas.
+
+Ejemplo:
+
+- Diferenciarse de la competencia informal mediante calidad, higiene y formalidad.
+- Usar el modelo de preventa para reducir el impacto de la subida de precios de alimentos.
+
+Estrategia DA (Debilidades + Amenazas)
+
+Estrategias defensivas.
+
+Ejemplo:
+
+- Controlar costos de producción para competir con negocios informales.
+- Formalizar el negocio para cumplir normas sanitarias y evitar sanciones.
+
 
 ---
 del pestel y foda salen las estrategias
