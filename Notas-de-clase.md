@@ -1921,71 +1921,82 @@ Los **stakeholders** (o partes interesadas) son personas, grupos u organizaci
 
 ## Semana xx
 
-### J2 
+[Clase x - 07 de Marzo](https://isteambato-my.sharepoint.com/personal/vicente_catota_iste_edu_ec/_layouts/15/stream.aspx?id=%2Fpersonal%2Fvicente%5Fcatota%5Fiste%5Fedu%5Fec%2FDocuments%2FGrabaciones%2FJ2%20PROYECTO%20DE%20EMPRENDIMIENTO%2D20260307%5F081540%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E02c91baf%2De79a%2D4e0b%2D9837%2D7dd7ef2ae07d)
+
+### J2: Matriz FODA
+
+Externas: Oportunidades y Amenazar (No controlable)
+Internas: Fortalezas y Debilidades (Controlable)
 
 La anatomía del FODA en Roobert.png
 
+Google scholar - Google académico
+
 ![[dafo.png]]
+
+Matriz cruzada (Indagar mas al respecto):
 
 1. Origen Interno + Impacto Positivo = Fortalezas
 2. Origen Interno + Impacto Negativo = Debilidades
 3. Origen Externo + Impacto Positivo = Oportunidades
 4. Origen Externo + Impacto Negativo = Amenaza
 
-El Eje Interno: Lo que podemos controlar
+#### El Eje Interno: Lo que podemos controlar
 
 Fortalezas:
 
-¿Qué hacemos excepcionalmente bien?  
-¿Qué nos hace especiales ante nuestra audiencia?
+- ¿Qué hacemos excepcionalmente bien?  
+- ¿Qué nos hace especiales ante nuestra audiencia?
 
-Ejemplos a evaluar: Recursos humanos, finanzas, procesos internos, experiencias anteriores existosas.
+Ejemplos a evaluar: Recursos humanos, finanzas, procesos internos, experiencias anteriores exitosas.
 
 Debilidades:
 
-¿Qué iniciativas no funcionan como deberían?  
-¿Qué recursos críticos críticos nos faltan?
+- ¿Qué iniciativas no funcionan como deberían?  
+- ¿Qué recursos críticos críticos nos faltan?
 
 La clave es evaluar las fortalezas primero para establecer una referencia de éxito.
 
-El eje Externo: El entorno que navegamos
+#### El eje Externo: El entorno que navegamos
 
 Oportunidades:
 
-¿Hay brechas de mercado en nuestros servicios?  
-¿Qué recursos podemos usar para mejorar nuestras áreas débiles?
+- ¿Hay brechas de mercado en nuestros servicios?  
+- ¿Qué recursos podemos usar para mejorar nuestras áreas débiles?
 
 Ejemplos a evaluar: Tendencias futuras, cambios demográficos, apoyo gubernamental.
 
 Amenazas
 
-¿Qué cambios en el sector o legalización son preocupantes?  
-¿En qué áreas precisas nos supera la competencia?
+- ¿Qué cambios en el sector o legalización son preocupantes?  
+- ¿En qué áreas precisas nos supera la competencia?
 
 Se enfatiza que aunque son incontrolables, se pueden mitigar.
 
-Las 4 Estrategias de Acción Cruzada
+#### Las 4 Estrategias de Acción Cruzada
 
 Estrategia OF (Maximizar-Maximizar)
 
-Usar fortalezas internas para obtener ventaja absoluta de las oportunidades externas.
+- Usar fortalezas internas para obtener ventaja absoluta de las oportunidades externas.
 
 Estrategia OD (Minimizar-Maximizar)
 
-Superar las debilidades internas aprovechando las oportunidades del entorno.
+- Superar las debilidades internas aprovechando las oportunidades del entorno.
 
 Estrategia FA (Maximizar-Minimizar)
 
-Utilizar las fortalezas organizacionales para evitar o mitigar las amenazas.
+- Utilizar las fortalezas organizacionales para evitar o mitigar las amenazas.
 
 Estrategia DA (Minimizar-Minimizar)
 
-Tácticas defensivas para minimizar debilidades y eludir amenazas catastróficas.
+- Tácticas defensivas para minimizar debilidades y eludir amenazas catastróficas.
 
 
 > Para llegar al análisis foda es necesario analizar los factores internos y externos, para los externos usamos la metodologia pestel para determinar oportunidades y amenazas para finalmente una radiografia interna. Posteriormente debemos ejecutar la matriz cruzada fo fa do da
 
 
+---
+del pestel y foda salen las estrategias
 
 Debe tener conectores logicos
 
