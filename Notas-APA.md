@@ -214,4 +214,50 @@ presupuesto
 anexos: graficos encuesta 30 - 50 
 ```
 
+el resumen 
+
+indices
+1. Introducción
+2. Planteamiento del problema
+3. Objetivos
+	1. Objetivos general
+	2. Objetivos especificos
+4. Marco administrativo
+	1. tabla modelo de negocio canvas
+	2. Desarrollo de elementos canvas
+		1. segmentos de clientes (4.1.1)
+		2. propuesta de valor (4.1.2) - 4.1.9
+5. Filosofía organizacional
+	1. misión
+	2. visión
+	3. Valores empresariales
+6. Análisis pestel
+7. Análisis foda
+8. Análisis financiero
+	1. Punto de equilibrio
+		1. interpretación
+9. marca branding
+10. arquetipos de marca
+	1. arquetipos principal: 
+		1. descripción del arquetipo 
+		2. justificación de elección
+		3. ragos principales
+	2. arquetipo secundario 10.2
+		1. lo mismo de arriba
+11. personalidad de la marca
+12. logotipo
+13. eslogan (explicar por qué)
+14. marco teórico
+	1. emprendimiento
+15. marco metodológico
+	1. enfoque de la investigación
+	2. tipo de investigación
+16. conclusiones
+17. recomendaciones
+18. bibliografia
+19. anexos
+	1. encuesta
+	2. resultados graficos de la encuesta
+	3. videos enlaces
+
 ![[Pasted image 20260308225624.png]]
