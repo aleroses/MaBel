@@ -1820,6 +1820,87 @@ Flujograma
 
 compras publicas 
 
+## Semana 11
+
+[Clase 11 - 21 de Febrero]()
+
+### J2 Punto de Equilibrio
+
+Ingresos
+
+Gastos Utilidad
+
+Costos Fijos: Gastos que existen independientemente del volumen de ventas. Se pagan aunque se vendan cero unidades.
+
+- Alquiler
+- Seguros
+- Salarios administrativos
+- Publicidad
+
+Costos Variables: Gastos relacionados directamente con el nivel de ventas. Aumentan a medidad que se produce más.
+
+- Materias primas
+- Comisiones de venta
+- Embalaje
+
+#### Método A: El cálculo por volumen (Unidades)
+
+Esta fórmula determina el número exacto de productos que necesitas vender para cubrir gastos.
+
+PE (Unidades) = Costes Fijos / Precio Venta - Coste Variable Unitario 
+
+Precio Venta - Coste Variable Unitario (Margen de contribución)
+
+#### Método B: El cálculo por valor (Ingresos)
+
+Ideal para empresas con múltiples productos.
+
+Determina la facturación total necesaria.
+
+PE (Valor) = Costes Fijos / 1 - (Coste Variable Total / Ventas Totales)
+
+#### Caso de Estudio: ABC Modas
+
+Datos:
+
+- Producto: Blusas
+- Precio Venta: $ 10
+- Coste Variable: $ 5
+- Costes Fijos: $ 15.000
+
+Cálculo
+
+Margen Contribución
+
+10 - 5 = 5
+
+Fórmula PE = 15.000 / 5
+
+Resultado: 3.000 unidades 
+
+ABC Modas debe vender 3.000 blusas para cubrir gastos. La ganancia comienza en la blusa número 3.001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Semana xx
 
