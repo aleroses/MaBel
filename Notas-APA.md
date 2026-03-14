@@ -101,119 +101,6 @@ APA Edición 7
 
 ## Puntos del proyecto
 
-```bash
-PROYECTO DE EMPRENDIMIENTO
-│
-├── Caratula
-├── Dedicatoria
-├── Agradecimiento
-├── Resumen
-│	├── Problema
-│	├── Objetivo
-│	├── Metodología
-│	├── Resultados
-│	└── Palabras clave (máx. 5)
-├── Índices
-│	├── Índice de contenidos
-│	├── Índice de tablas
-│	└── Índice de figuras
-├── Introducción
-│	└── Planteamiento del problema
-├── Objetivos
-│	├── Objetivo General
-│	└── Objetivos Específicos
-├── Marco Administrativo (Canvas)
-│	├── Model Canvas
-│	├── Marco Metodológico
-│	├── Filosofía Organizacional
-│	│	├── Misión
-│	│	├── Visión
-│	│	└── Valores
-│	└── Marca / Branding
-├── Resultados
-├── Conclusiones
-├── Recomendaciones
-├── Propuesta
-├── Referencias bibliográficas
-└── Anexos
-```
-
-Otro:
-
-```bash
-PROYECTO PLAN DE NEGOCIOS – CENTRO CULTURAL ARTE Y VIDA
-│
-├── Portada
-│   ├── Título del proyecto
-│   ├── Autor
-│   ├── Tutor
-│   └── Institución
-│
-├── Dedicatoria
-│
-├── Agradecimiento
-│
-├── Resumen
-│   ├── Problema
-│   ├── Objetivo
-│   ├── Metodología
-│   ├── Resultados esperados
-│   └── Palabras clave
-│
-├── Índices
-│   ├── Índice de contenidos
-│   ├── Índice de tablas
-│   └── Índice de figuras
-│
-├── Introducción (añadir citas + conectores logicos)
-├── Planteamiento del problema
-├── Objetivo general
-├── Objetivos específicos
-├── Marco Administrativo
-│   ├── Model CANVAS
-│   ├── Filosofia Organizacional: 
-│   │   ├── mision
-│   │   ├── vision
-│   │   └── valores
-│   ├── Marca / Branding (arquetipo)
-│   │   └── Datos generales del proyecto: 
-│   │       ├── Nombre del proyecto
-│   │       ├── Tipo de proyecto: emprendimiento gastronómico, productos saludables.
-│   │       ├── Area: alimentos
-│   │       ├── Propósito del proyecto: 
-│   │       └── Objetivos del branding:
-│   ├── Arquetipo
-│   │   ├── Descripcion del arquetipo 
-│   │   ├── Justificación de la elección
-│   │   └── Personalidad de Marca: Elemento, Tono de voz, Estilo, Valores, Relación con los clientes Promesa de marca
-│   └── Logotipo y eslogan
-
-sigue encuesta
-
-
-
-
-├── Marco Teórico
-
-
-
-├── Conclusiones
-recomendaciones
-Marco Metodológico
-Propuesta
-Titulo de la propuesta
-esquema gráfico de la propuesta
-introducción
-justificación
-objetivos
-plan de acción
-cronograma 
-presupuesto
-
-├── Referencias bibliográficas xxx
-anexos: graficos encuesta 30 - 50 
-```
-
 el resumen 
 
 indices
@@ -261,3 +148,12 @@ indices
 	3. videos enlaces
 
 ![[Pasted image 20260308225624.png]]
+
+Encuesta
+
+1. Le gustaria adquirir desayunos saludables
+	1. Si
+	2. No
+2. bien
+3. bien
+	1. que sea saludable no va
