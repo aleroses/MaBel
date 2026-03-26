@@ -10,7 +10,7 @@ Diapositivas
 
 ## 2. El Problema y la Solución (30 segundos)
 
-- Identificamos que estudiantes y oficinistas suelen sacrificar su salud por la falta de tiempo matutina, recurriendo a malos hábitos alimenticios. La realidad del mercado ofrece pocas opciones verdaderamente nutritivas.
+- Identificamos que estudiantes y oficinistas suelen sacrificar su salud por la falta de tiempo matutina, recurriendo a malos hábitos alimenticios. La realidad del mercado es que ofrece pocas opciones verdaderamente nutritivas.
 
 - Easy Breakfast responde con innovación: un sistema de preventa online que permite planificar la alimentación, garantizando desayunos listos para consumir, elaborados con ingredientes naturales y eliminando por completo el desperdicio.
 
@@ -44,7 +44,8 @@ proteccionista.
 - La magia ocurre en tres pasos: la noche anterior el usuario programa su pedido vía web o WhatsApp. En la madrugada, producimos exclusivamente lo que ya está vendido, eliminando la merma. Finalmente, a primera hora, ejecutamos rutas optimizadas para una entrega puntual.
 
 ```
-Quité esta diapositva pero la dejé aquí para que lo leas
+Quité esta diapositva pero la dejé aquí para que lo leas "no para exponer"
+
 ## 7. Canales y Fidelización (20 segundos)
 
 - Captamos clientes visualmente a través de Instagram, Facebook y TikTok. La conversión ocurre en nuestra web y WhatsApp Business. Para la retención, implementamos planes de suscripción semanal o mensual y un sistema de recompensas por lealtad.
