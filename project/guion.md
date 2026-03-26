@@ -52,33 +52,46 @@ Quité esta diapositva pero la dejé aquí para que lo leas
 
 ## 7. Modelo CANVAS (15 segundos)
 
-- Lee las diapositivas
+Lee las diapositivas pero agrega:
 
-## 8. Alianzas Estratégicas (15 segundos)
+Socios clave:
 
-Para ampliar un poco lo anterior:
+- Contamos con suministros estratégicos del Mercado Mayorista y el Mercado de Iñaquito para asegurar frescura y proximidad.
+- Además, nos aliamos con Navil Envases para el uso de empaques sostenibles y plataformas como Rappi o PedidosYa para escalar la logística.
 
-- Contamos con suministros estratégicos del Mercado Mayorista y el Mercado de Iñaquito para asegurar frescura y proximidad. Además, nos aliamos con Navil Envases para el uso de empaques sostenibles y plataformas como Rappi o PedidosYa para escalar la logística.
+Actividades clave
 
-## 9. ADN Corporativo (10 segundos)
+- Selección y compra de frutas frescas 
+- Preparación y armado de desayunos
+- Control de calidad
+
+## 8. ADN Corporativo (10 segundos)
 
 - Nuestra misión es clara: calidad y puntualidad mediante tecnología. En 5 años, nos vemos como el referente urbano en preventa de desayunos saludables y sostenibles.
 
-## 10. PESTEL
+## 9. PESTEL
 
 Lee las diapositivas
 
-## 11. Análisis y Sostenibilidad (20 segundos)
+## 10. FODA (20 segundos)
+
+Lees las diapositivas o solo añades esto:
 
 - Aprovechamos la alta adopción de pagos digitales y el creciente interés por la salud. Nuestra mayor fortaleza es el modelo de cero desperdicio, que transforma la sostenibilidad en rentabilidad al proteger nuestros márgenes de ganancia.
 
 - Recordemos que las oportunidades y amenazas vienen del análisis PESTEL.
 
-## 12. Viabilidad Financiera (20 segundos)
+## 11. Viabilidad Financiera (20 segundos)
 
 - Finalmente, los números respaldan el proyecto. 
 
 - Con un costo variable unitario de $2.60 y un margen de contribución de $3.40, nuestro punto de equilibrio es de apenas 174 unidades mensuales siendo un monto de $600.00 dolares. Esto demuestra que Easy Breakfast no solo es saludable, sino financieramente sólido. Muchas gracias.
+
+El cuadro muestra 590.56 pero el grafico del profe redondea, esto te lo añado por si te lo pregunta o te dice de donde sale 600.
+
+![[punto.png]]
+
+![Punto de equilibrio](https://i.postimg.cc/DzKx5XP3/punto.png)
 
 ---
 
