@@ -89,8 +89,6 @@ Lees las diapositivas o solo añades esto:
 
 El cuadro muestra 590.56 pero el grafico del profe redondea, esto te lo añado por si te lo pregunta o te dice de donde sale 600.
 
-![[punto.png]]
-
 ![Punto de equilibrio](https://i.postimg.cc/DzKx5XP3/punto.png)
 
 ---
